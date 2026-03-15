@@ -1,0 +1,1942 @@
+[
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "The universal set is {1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026, 18}.  \n \nLet P = {2, 3, 5, 12, 15, 18} and Q = {2, 5, 7, 8, 9, 10, 12} and \n  \nR = {1, 2, 3, 4, 5, 7, 11}.   \n \n(i) \nRepresent the sets U, P, Q and R in a Venn diagram, marking all the elements in \nthe appropriate places.",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "(i) \nGiven \n\ud835\udc65, \ud835\udc66 \ud835\udc65, \ud835\udc66 \ud835\udf16 \ud835\udc34, and \ud835\udc651 \u2212\ud835\udc661 is divisible by 3} when  \n \nA is the set {0, 1, 2, 3} \n \n(1) Express the relation as a set of ordered pairs. \n \n(2) Draw a digraph to represent this relation. \n \n(3) Investigate whether the relation is an equivalence relation? Explain your \n \nanswer fully.",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(i) \nInvestigate using Venn diagrams for all sets X, Y and Z whether \n\ud835\udc4b\\(\ud835\udc4c\u222a\ud835\udc4d)\u00db (\ud835\udc4b\\\ud835\udc4c) \u222a\ud835\udc4d",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "(i) \nConstruct the truth table for:  \n \n \n[(\ud835\udc5d \u00d7 \ud835\udc5e) + (\ud835\udc5f\u00d7 \ud835\udc5e)] \n \nor \n \n \n[\u00ac \ud835\udc5d \u00d9  \ud835\udc5e\u02c5 \ud835\udc5f \u02c4 \u00ac \ud835\udc5e]",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "(1) Using the laws of logic (at the end of the exam paper), investigate if    \n \n\ud835\udc5d+ \ud835\udc5d. \ud835\udc5e\n\u00db \ud835\udc5d. \ud835\udc5e  \n \nor \n \n \u00ac \ud835\udc5d\u00da \u00ac\ud835\udc5d\u00d9 \ud835\udc5e\n\u00db \u00ac\ud835\udc5d\u00d9 \u00ac\ud835\udc5e \n \n \nEnsure you specify which of the logic laws you are using at each stage of the \n \nproof.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(i) \n Let P = {2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 15}.  \nDetermine the truth value of each of the following statements for \ud835\udc65\u2208\ud835\udc43. Explain \nyour answer fully in each case.  \n \n(1) \nIf x is odd or \ud835\udc65> 11 then \ud835\udc65< 15. \n(2) \nIf x is odd then \u2203\ud835\udc65 \ud835\udf16 \ud835\udc43, \ud835\udc65< 7. \n(3) \nIf \ud835\udc65< 7 \u02c5(\ud835\udc65> 10) then x is odd. \n(4) \nIf \ud835\udc65> 4 \u02c4(\ud835\udc65< 5) then x is the null set.",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "(i)  \nHow many different ways are there of arranging the letters in the word \n  \nDISCONNECTED",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Consider the binomial expansion of (3\ud835\udc65S \u22122\ud835\udc661)^ \n \n(1) Write out the first three terms and simplify fully. \n            (2)  Evaluate the coefficient of \ud835\udc66R\\?",
+    "marks": 15,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "(i) \n Construct a generating function G(x) for the number of ways of selecting \n2 red, 5 green and 3 blue balls from a pack if at least 1 red ball and at least two \ngreen balls must be selected.",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "(i) \nDraw the graph with five vertices of the following degrees:  \n3, 3, 4, 4, 4",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "(i) \nInvestigate the graph in Fig 2 below to see whether it has a Eulerian circuit. \nConstruct such a circuit if one exists. If it does not exist give an argument to show \nwhy no such circuit exists. \n \n(ii)  Show the graph in Fig 2 below is Hamiltonian. Confirm with an appropriate \ndiagram.  \n \n \n \n \n \nFig 2",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "(i) \nA sequence is defined recursively by \ud835\udc4e\\ = 1, \ud835\udc4eR = 4 and \n\ud835\udc4eW = 4\ud835\udc4eWbR \u22124\ud835\udc4eWb1 for \ud835\udc5b\u22652. Find the first 5 terms of the sequence.",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
+    "year": 2013,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "The universal set is {0, 1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026,15}  \n \nLet A = {3, 4, 6, 9, 10, 14, 15} and B = {3, 4, 5, 8, 10, 11} and \n  \nC = {3, 5, 6, 7, 11, 12, 14}.   \n \n(i) \nRepresent the sets U, A, B and C in a Venn diagram, marking all the elements \nin the appropriate places.",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "(i) Given the relation R such that R = \n\ud835\udc5a, \ud835\udc5b\u2208\ud835\udc45 \ud835\udc5a, \ud835\udc5b \ud835\udf16 \ud835\udc34, and \ud835\udc5a2 \u2212\ud835\udc5b \u2208\ud835\udc34} when  \n \nA is the set {0, 1, 2, 3, 4} \n \n(1) \nExpress the relation R as a set of ordered pairs.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(c) \nInvestigate whether \ud835\udc43\u2229\ud835\udc44\u222a\ud835\udc43$ \u222a\ud835\udc45$ is equivalent to \n(\ud835\udc43\u222a\ud835\udc44) \u2229(\ud835\udc43\u222a\ud835\udc44$) \u2229(\ud835\udc43) \u222a\ud835\udc44\u222a \ud835\udc45)), using a method of set theory. Specify which \nlaw is valid at each step.(See tables at end of paper)",
+    "marks": 15,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Construct a truth table that simplifies the following expression and investigate whether \nthe result is a tautology, contradiction or neither.  \n \n\ud835\udc5d+ \ud835\udc5e\u00d7 \ud835\udc5d\u00d7\ud835\udc5f\n\u2192\ud835\udc5f\u2194\ud835\udc5d",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Simplify fully using the laws of logic (at the end of the exam paper) the expression \n \n[\ud835\udc5d+ \ud835\udc5e\u00d7\ud835\udc5f] \u2192\ud835\udc5d\u00d7\ud835\udc5e \n \n[Ensure you specify which of the logic laws you are using at each stage of the proof]",
+    "marks": 15,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Expand and simplify fully (2\ud835\udc652 \u2212\ud835\udc66)>Y",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "(i) Use appropriate rules in probability to find how many numbers in the : \n \n(1) Range of numbers from 500 to 9999 if there are no restrictions?  \n \n(2) Range of numbers from 500 to 9999 if the number must be odd. \n \n(3) Range of numbers from 500 to 9999 if no digit can be repeated.  \n[Marks may be lost if method is not shown] \n(3x5 marks) \n \n(ii) From a haulage company\u2019s records, 4% of deliveries are made in error. If twenty \ntrips are planned next week, calculate the probability that there will be at least two \nerroneous deliveries, using the binomial distribution method.",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Construct generating functions for the number of ways of selecting 5 red, 6 green and 4 \nblue balls from a pack if at least 3 red ball and at least 4 green balls must be selected. \nHence determine using generating functions the number of ways of selecting10 balls \nfrom the pack above.",
+    "marks": 15,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "(i) Draw the simple graph with six vertices of the following degrees:  \n 2, 3, 3, 4, 5, 5",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "(i)  Investigate whether graphs G and H in Fig 2 below are isomorphic. Justify your \nanswer using appropriate criteria for isomorphism. \n \n \nG \n \n \n \n \n \n \nH \nFig 2",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "(i) \nSolve the recurrence relation \n\ud835\udc4e] = 5\ud835\udc4e]=> \u22126\ud835\udc4e]=2 for \ud835\udc5b\u22652, \ud835\udc4eY = 1, \ud835\udc4e> = 0",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "The universal set is {1, 2, 3, 4, 5, 6, . . . , 9}. Let A = {1, 2, 5, 6}, B = {2, 5, 7} and\nC = {1, 3, 5, 7, 9}. Find the elements of the following sets:\n(i)\n(A \u222aC) \\ B\n(ii)\n(B\u25b3C) \\ A",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Given the relation R such that R = {(m, n) \u2208R|m, n \u2208A, (m2 \u2212n2) divisible by 4}\nwhen A is the set {1, 3, 4, 8}\n(i)\nExpress the relation R as a set of ordered pairs.\n(ii)\nDraw an arrow diagram to represent this relation.\n(iii) Investigate whether the relation is symmetric, transitive and/or re\ufb02exive.\n(iv) State whether the relation is an equivalence relation or not..",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "Determine if the following functions are one-to-one and/or onto and use these to\ndetermine whether the function is a bijection.\nAssume both functions are such\nwhere f : R \u2192R\n(i)\nf(x) = 3x + 1\n(ii)\nf(x) = x2 \u22125",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Construct the truth table for: \u00ac(p\u2227q)\u2228(r \u2227\u00acq) and state whether it is a tautology,\ncontradiction or a contingency, and why.",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Using the laws of logic(at the end of the exam paper) to show that:\n\u00ac(p \u2228q) \u2228(\u00acp \u2227q) \u21d0\u21d2\u00acp",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "Let A = {1, 2, 3, 4}. Determine the truth value of each of following statements, and\nexplain why this is the case.\n(i)\n(\u2200x \u2208A)(x + 5 < 12)\n(ii)\n(\u2200x \u2208A)(\u2200y \u2208A)(x + y < 12)\n(iii) (\u2203x \u2208A)(x2 + 2 \u226518)\n(iv) (\u2203x \u2208A)(\u2203y \u2208A)(x2 + y3 \u226412)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Expand fully the binomial expansion (x \u22123y)6\nFind the coe\ufb03cient of the fourth term.",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "(i)\nHow many numbers between 500 and 1000 can be made from the digits 2,4,6,8,\nif no digits are repeated.\n(ii)\nHow many numbers between 500 and 1000 can be made from the digits 2,4,6,8,\nif digits may be repeated\n(iii) Write the following series using P\u221e\nr\n1 \u2212x + x2 \u2212x3 + x4 \u2212\u00b7 \u00b7 \u00b7 .\n(iv) Find an expression for Sn of the series: 4 + 12 + 36 + \u00b7 \u00b7 \u00b7 .",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Consider the second-order homogeneous recurrence relation an = 9an\u22121 \u221218an\u22122\nwith initial conditions a0 = 0 and a1 = 1.\n(i)\nFind the next three terms of the sequence.\n(ii)\nFind the general solution.\n(iii) Find the unique solution with the given initial conditions.",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "(i)\nDraw the graph K3,3\n(ii)\nInvestigate if the following graph is bipartite.\nA\nB\nC\nD\nE",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "(i)\nDetermine if there is an Euler Path or Euler Circuit in the following graph:\nIf either an Euler path or Euler circuit exists, construct the path or circuit.\nA\nB\nC\nD\nE\nF\nG\nH\nI\n(ii)\nDetermine whether the given graph has an Hamilton circuit. If it does, \ufb01nd\nsuch a circuit. It it does not, give an argument to show why no such circuit\nexists.\nA\nB\nC\nD\nE",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Solve the Travelling Salesman Problem for the following graph by using the Nearest-\nNeighbour Algorithm.\n20\n29\n16\nB\nA\nC\nD",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "i",
+    "text": "and (ii)\nA = {1, 2, 5, 6} , B = {2, 5, 7} , C = {1, 3, 5, 7, 9}\n(i)\n(A \u222aC) = {1, 2, 3, 5, 6, 7, 9}\n(A \u222aC) \\ B = {1, 3, 6, 9}\n(ii)\n(B\u25b3C) = {1, 2, 3, 9}\n(B\u25b3C) \\ A = {3, 9}\n(iii) (B\u25b3C) \\ A = {3, 9}\nB \u222aC = {1, 2, 3, 5, 7, 9}\nB \u2229C = {5, 7}\n(B \u222aC) \\ (B \u2229C) = {1, 2, 3, 9}\nB \\ C = {2}\nC \\ B = {1, 3, 9}\n(B \\ C) \u222a(C \\ B) = {1, 2, 3, 9}\nB\u25b3C = {1, 2, 3, 9}\n(b)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "i",
+    "text": "R=(1, 3), (5, 5), (1, 5), (5, 1), (1, 1), (5, 3)\n(ii)\nThe relation is not symmetric because of: (1, 3), (5, 3) do not have symmetric\ncounterparts.\n(iii) The relation is not re\ufb02exive because it does not contain: (3, 3)\n(iv) The relation is not antisymmetric because of: (1, 5), (5, 1)\n(v)\nSince Re\ufb02exive: False, Symmetric: False, AntiSymmetric: False, then R is not an\nequivalence relation.\n(c)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "i",
+    "text": "Using truth table\nTable 1: Truth table\np\nq\nr\nP(p,q,r)\nFalse\nFalse\nFalse\nTrue\nFalse\nFalse\nTrue\nTrue\nFalse\nTrue\nFalse\nTrue\nFalse\nTrue\nTrue\nTrue\nTrue\nFalse\nFalse\nTrue\nTrue\nFalse\nTrue\nTrue\nTrue\nTrue\nFalse\nFalse\nTrue\nTrue\nTrue\nFalse\n(b)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "i",
+    "text": "Using tables at end of paper\n2 marks each\nfor the following steps.\nLHS: \u00ac(p \u2228q) \u2228(\u00acp \u2227q)\nDeMorgan: (\u00acp \u2227\u00acq) \u2228(\u00acp \u2227q)\nDistrib: \u00acp \u2227(\u00acq \u2228q)\nComplement: \u00acp \u2227T\nIdentity: \u00acp\n(c)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "i",
+    "text": "3 marks\nfor correct expansion. x6\u221218x5y+135x4y\u221220\u221727y3x3+(81)(85)x2y4\u2212\n1458xy5 + 729y6\n= x6 \u221218x5y + 135x4y \u2212540x3y3 + 685x2y4 \u2212243(6)xy5 + 729y6\n2 marks\nfor correct coe\ufb00.\nFourth term coe\ufb03cient: -540\nx7y4 in the expansion of (x + 3y)11:\n\u000011\n\u0001\n\u00d7 x7(3y)4 =\n\u000011\n\u0001\n\u00d7 81x7y4 = 26730x7y4\ncoe\ufb00= 26730\n(b)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "i",
+    "text": "and(ii).\n3 marks each for rest\n(i)\nIf no repetition then, only 3 digit numbers are possible, with four possible choices\n\u21d24!\n(ii)\nif Repetition allowed: Four choices for each number 43.\n(iii) P\u221e\nr=1(\u22121)j+1xj\n(iv) 4(1 + 3 + 9 + \u00b7 \u00b7 \u00b7 ) = 4 P\u221e\nj=1 3j\n(c)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "i",
+    "text": "K3,3\n(ii)\nBipartite: V1 = {A, B, C, D} and V2 = {E}.\n(b)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "i",
+    "text": "and (ii) resp.\n(i)\nFrom the theorem, there is an Euler circuit because every vertex has an even degree.\nThe circuit is as follows: {a, b, c, d, e, f, g, h, i, a, h, b, i, c, e, h, d, g, c, a}\n(ii)\nThis graph has a Hamilton circuit. {a, b, c, d, e, a} is a circuit.\n(c)",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. Give reasons for your answers.\n(i)\n3 \u2208A\n(ii)\n{3} \u2208A\n(iii) {3} \u2286A\n(iv) B \u2286A\n(v)\nA \u2286B\n(vi) \u2205\u2286C",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Construct an expression corresponding to the following argument and hence or oth-\nerwise determine whether the argument is valid.\n\u201cIf it is raining, it is not cold\u201d\n\u201cIf it is not raining, John is not wearing a coat\u201d\n\u201cIt is cold\u201d\n\u2234\u201cJohn is not wearing a coat\u201d",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "Let R be the relation on the set A = {1, 2, 3, 4, 5, 6} where (a, b) \u2208R i\ufb00a and b are\nthe same length when written in English.\n(i)\nRepresent R using a digraph.\n(ii)\nIs R re\ufb02exive? symmetric? transitive?\n(iii) Is R an equivalence relation? and if yes, what the resulting equivalence classes?",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "A company is considering building a gas pipeline\nto connect 4 wells (a, b, c and d) to a process plant\np. The possible pipelines that they can construct\nand their costs (in millions of euro) are shown in\nthe accompanying graph.\nWhat pipelines do you suggest be built and what is\nthe total cost of your suggested pipeline network?\nShow the working of the algorithm used.\np\na\nb\nc\nd\n7\n2\n8\n10",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "In the following Python code three functions are implemented.\nThe purpose of\nthese functions is to check various properties of the relation relation, from the set\nsource to the set target.\nFor each function, identify the property being tested and\nexplain your answer.\ndef\nisPropertyA ( source ,\ntarget ,\nr e l a t i o n ) :\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn len (T)==len ( r e l a t i o n )\n5\ndef\nisPropertyB ( source ,\ntarget ,\nr e l a t i o n ) :\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn T==target\n10\ndef\nisPropertyC ( source ,\ntarget ,\nr e l a t i o n ) :\nS = { pair [ 0 ]\nfor\npair\nin\nr e l a t i o n }\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn S==source and len (S)==len ( r e l a t i o n ) and T. i s s u b s e t ( t a r g et )",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Consider the following logical circuit with two inputs, and single output.\n(i)\nConstruct a logical expression to\nrepresent this circuit.\n(ii)\nIs there an input case for which the\noutput is on?\n(iii) Hence, construct a logical circuit\nor equivalent expression, contain-\ning three inputs, x, y, and z, for\nwhich the output is on when ex-\nactly one input is on.\nx\ny\no",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "Prove that every prime number greater than 3 is either one more or one less than a\nmultiple of 6.\nHint. Prove the contrapositive by cases.",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Consider the sequence\n5, 9, 13, 17, 21, . . .\n(i)\nConstruct a recursive de\ufb01nition for the sequence.\n(ii)\nConstruct a closed formula for the nth term of the sequence.\n(iii) Is 2017 a term in the sequence? Explain.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "A graph, G, has adjacency matrix A =\n\uf8eb\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ed\n1\n2\n1\n0\n1\n0\n1\n2\n1\n0\n1\n0\n\uf8f6\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f8\n(i)\nIs G a simple graph?\n(ii)\nState the degree sequence of G.\n(iii) How many edges does G have?",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Let S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n(iv) How many subsets of cardinality 4 contain exactly one even number?",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "d",
+    "text": "Consider the follow diagram, consisting of two rows of seven dots.\nHow many\n(i)\nSquares\n(ii)\nQuadrilaterals\ncan be drawn using the dots as vertices (corners).",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "Suppose that U is an in\ufb01nite universal set, and A and B are in\ufb01nite subsets of U.\nAnswer the following questions with a brief explanation.\n(i)\nMust A be \ufb01nite?\n(ii)\nMust A \u222aB in\ufb01nite?\n(iii) Must A \u2229B be in\ufb01nite?",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Evaluate the following series:\n(i)\nP3\ni=1(2 + 3i)\n(ii)\nPn\nk=1(2k \u22121) for n = 1, 2, 3, 4",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "If G is a simple graph with at least two vertices, prove that G must contain two or\nmore vertices of the same degree.",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Translate into symbols each of the following. Use E(x) for \u201cx is even\u201d and O(x) for\n\u201cx is odd.\u201d\n(i)\nNo integer is both even and odd.\n(ii)\nOne more than any even integer is an odd integer.\n(iii) There is prime number that is even.\n(iv) Between any two real numbers there is a third number.\n(v)\nThere is no integer between an integer and one more than that integer.",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "After gym class you are tasked with putting the 14 identical basketballs away into\n5 bins.\n(i)\nHow many ways can you do this if there are no restrictions?\n(ii)\nHow many ways can you do this if each bin must contain at least one basket-\nball?",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "State, with an explanation, which of the following sequences are the degree sequences\nof a simple graph. For those sequence that are degree sequences, draw a simple graph\nwith that degree sequence.\n(i)\n(5, 5, 4, 4, 3, 2, 2, 1, 1)\n(ii)\n(6, 6, 6, 5, 3, 2, 2, 2)\n(iii) (7, 6, 5, 4, 3, 2, 1)",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "A combination lock consists of a dial with 40 numbers on it. To open the lock, you\nturn the dial to the right until you reach a \ufb01rst number, then to the left until you\nget to second number, then to the right again to the third number. The numbers\nmust be distinct. How many di\ufb00erent combinations are possible?",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Suppose that U is an in\ufb01nite universal set, and A and B are in\ufb01nite subsets of U.\nAnswer the following questions with a brief explanation.\n(i)\nMust A be \ufb01nite?\n(ii)\nMust A \u222aB in\ufb01nite?\n(iii) Must A \u2229B be in\ufb01nite?",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Evaluate the following series:\n(i)\nX\ni=1\n(2 + 3i)\n(ii)\nX\ni=\u22122\ni2",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "How many shortest lattice paths start at (3,3) and\n(i)\nend at (10,10)?\n(ii)\nend at (10,10) and pass through (5,7)?\n(iii) end at (10,10) and avoid (5,7)?",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "d",
+    "text": "Consider the following idealised situation of super computer designed to compute\ntwo types of tasks: the \ufb01rst take exactly 3 minutes, and the second takes exactly 5\nminutes.\nGiven the cost in developing the super computer, every e\ufb00ort is make to ensure that\nthe computer achieves maximum utilisation. The standard approach is to run a\nscheduling process continuously to reorder tasks with the aim of \ufb01lling any periods\n(called windows) of inactivity.\nThe role of this scheduling process is if given a\nwindow of n minutes determine how many of each type of task can be computed\nwithin the n minute window. For example, a window of 8 minutes can be utilised by\ncompleting one 3-minute task and one 5-minute task, while a window of 9 minutes\ncan be utilised by completing three 3-minute tasks.\nShow, using induction, that it is possible for the scheduling process to utilise fully\na window of length n minutes for any integer n \u22658.",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Let f : X \u2192Y and g : Y \u2192Z be functions, and consider the composition function\ng \u25e6f de\ufb01ned by mapping x 7\u2192g(f(x)).\n(i)\nIf f and g are both injective, must g \u25e6f be injective? Explain.\n(ii)\nIf f and g are both surjective, must g \u25e6f be surjective? Explain.\n(iii) Suppose g \u25e6f is injective. What, if anything, can you say about f and g?\nExplain.\n(iv) Suppose g \u25e6f is surjective. What, if anything, can you say about f and g?\nExplain.",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Let A = {1, 2, 3, 4, 5}. Construct functions on A, if they exist that have the prop-\nerties speci\ufb01ed below. Justify your answer.\n(i)\nA function that is one-to-one and onto.\n(ii)\nA function that is neither one-to-one nor onto\n(iii) A function that is one-to-one but not onto.\n(iv) A function that is onto but not one-to-one.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Using the digits 2 through 8, \ufb01nd the number of di\ufb00erent 5-digit numbers such that:\n(i)\nDigits cannot be repeated and must be written in increasing order. For exam-\nple, 23678 is okay, but 32678 is not.\n(ii)\nDigits can be repeated and must be written in non-decreasing order.\nFor\nexample, 24448 is okay, but 24484 is not.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "d",
+    "text": "Let S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n(iv) How many subsets of cardinality 4 contain exactly one even number?",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "Evaluate the following:\n(i)\nQ3\ni=1 i2\n(ii)\nQ3\ni=1(2i + 1)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "An Eulerian graph is randomly traceable from a vertex, v, if whenever we start\nfrom v and traverse the graph in an arbitrary way never using any edge twice, we\neventually obtain an Eulerian trail.\n(i)\nGive an example of an Eulerian graph that is not randomly traceable.\n(ii)\nWhy might a randomly traceable graph be suitable for the layout of an exhi-\nbition?",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Apply Kruskal\u2019s algorithm to determine a minimum cost spanning tree for the graph\nwith the following cost matrix. How many such trees are there?\nA\nB\nC\nD\nE\nF\nG\nH\nA\n12\n14\n0\n8\nB\n0\n0\n15\n9\nC\n9\n18\n31\n9\nD\n0\n0\n6\n14\nE\n12\n0\n15\n0\nF\n15\n6\n0\n16\nG\n10\n23\n8\n22\nH\n9\n14\n16\n0",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "How many derangements are there of 4 elements?",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Alice, Bob and Carol are three students that took last year\u2019s Discrete Mathematics\nexam. Given propositions\n\u2022 A = \u201cAlice passed the exam.\u201d\n\u2022 B = \u201cBob passed the exam.\u201d\n\u2022 C = \u201cCarol passed the exam.\u201d\nFormalise (i.e., express using logical operators) the following statements\n(i)\n\u201cAlice is the only one passing the exam.\u201d\n(ii)\n\u201cBob passed the exam.\u201d\n(iii) \u201cAll three students passed the exam.\u201d\n(iv) \u201cAt least one student, among Alice, Bob and Carol, passed the exam.\u201d\n(v)\n\u201cExactly one student passed the exam.\u201d",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Which of the following are well formed propositional formulas? Justify your answers.\n(i)\n\u2228pq\n(ii)\np\u00ac\u00acr\n(iii)\np\u00ac \u2192(q \u2227q)\n(iv)\n(p \u2227\u00acq) \u2228(q\u00ac \u2192q)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "Consider the functions de\ufb01ned by the following Python code:\n(recall that // is integer division, and \u2217\u2217is exponentiation (powers).)\ndef\nf (x ) :\nreturn x \u2217\u22172\n4\ndef g (x ) :\nreturn x + 1\n7\ndef h(x ) :\nreturn x // 2\nEvaluate the following:\n(i)\nf(5)\n(ii)\nf(g(2))\n(iii) h(3)\n(iv) f(g(h(1)))\n(v)\nf(5) + g(7)\n(vi) f(f(f(f(2))))",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Use truth tables to determine whether the proposition\n(\u00acp \u2228q) \u2227(q \u2192(\u00acr \u2227\u00acp)) \u2227(p \u2228r)\nis satis\ufb01able.",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Consider the follow diagram, consisting of three rows of eight dots.\nHow many\n(i)\nSquares (Hint: Count 1 \u00d7 1 and 2 \u00d7 2 sized squares separately.)\n(ii)\nRectangles (Hint: Count cases based on top row of rectangle.)\n(iii) Right angled triangles\ncan be drawn using the dots as vertices (corners).",
+    "marks": 9,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "Draw the following graphs. Classify each as Eulerian, semi-Eulerian, or neither.\n(i)\nThe wheel graph, W4.\n(ii)\nThe complete bipartite graph, K4,2.\n(iii) The Peterson graph.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Construct sets A and B satisfying the following three properties:\nA \\ B = {4, 9},\nB \\ A = {8},\nA \u2229B = {1}.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Consider the Collatz function with de\ufb01nition and Python implementation\nf(n) =\n(\n3n + 1\nn odd\nn/2\nn even\ndef\nf (n ) :\ni f n%2==1:\nreturn 3 \u2217n + 1\nelse :\nreturn n // 2\nAlso implemented in python are the following functions\ndef g (n ) :\nreturn f ( f ( f (n ) ) )\n4\ndef h(n ) :\nr e s u l t = [ n ]\nwhile n!=1:\nn = f (n)\nr e s u l t . append (n)\nreturn\nr e s u l t\n(i)\nWhat is the output of f(7)? and f(10)?\n(ii)\nWhat is the output of h(12)?\n(iii) What is the output of g(10)?\n(iv) For which values of n does the expression g(n)==n compute to True ?",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Let S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P(S)|.\n(iii) How many subsets of cardinality 4 have {2, 4, 6} as a subset?\n(iv) How many subsets of cardinality 4 contain at least one prime (2, 3, or 5)?\n(v)\nHow many subsets of cardinality 4 contain exactly one prime?",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. Give reasons for your answers.\n(i)\n3 \u2208A\n(ii)\n{3} \u2208A\n(iii) {3} \u2286A\n(iv) \u2205\u2286C\n(v)\n\u2205\u2208A\n(vi) A \u2286A",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "Consider the following logical circuit with two inputs, and single output.\n(i)\nConstruct a logical expression to\nrepresent this circuit.\n(ii)\nIs there an input case for which the\noutput is on?\n(iii) Hence, construct a logical circuit\nor equivalent expression, contain-\ning three inputs, x, y, and z, for\nwhich the output is on when ex-\nactly one input is on.\nx\ny\no\n(2 + 2 + 2 = 6 marks)\n(b)\nConsider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Construct sets A and B satisfying the following three properties:\nA \\ B = {4, 9},\nB \\ A = {8},\nA \u2229B = {1}.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Construct a truth table for the logical expression\n((\u00ac(a \u2227b)) \u2227(c \u2228b)) \u2192(a \u2192c)\nHence or otherwise, state whether the proposition is satis\ufb01able, and is a tautology\nor is a contradiction. (Justify your answer.)",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "A graph, G, has adjacency matrix A =\n\uf8eb\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ed\n1\n2\n1\n0\n1\n0\n1\n2\n1\n0\n1\n0\n\uf8f6\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f8\n(i)\nIs G a simple graph?\n(ii)\nState the degree sequence of G.\n(iii) How many edges does G have?",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "What does the following function compute? (Justify your answer.)\ndef isWhat (A, B) :\nfor a in A:\ni f\na not in B:\nreturn False\nreturn True",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Consider the following logical circuit with two inputs, A and B, and two outputs,\nX and Y .\n(i)\nConstruct a logical expression to\nrepresent the output Y .\n(ii)\nIs there an input case for which\nboth outputs, X and Y , are False?\n(justify your answer)\n(iii) Is there an input case for which\nboth outputs, X and Y , are True?\n(justify your answer)\nA\nB\nX\nY",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "The email accounts of four hackers, Alice, Bob, Claire, and Dave, were monitored\nas part of an investigation. The following table details which hacker sent an email\nand to whom. (So, for example, Claire sent an email to Dave, but did not send an\nemail to Alice).\nAlice\nBob\nClaire\nDave\nAlice\nFalse\nFalse\nTrue\nFalse\nBob\nFalse\nFalse\nTrue\nFalse\nClaire\nFalse\nFalse\nFalse\nTrue\nDave\nFalse\nTrue\nFalse\nFalse\nfrom\nto\nLet M(x, y) represent the logical proposition that \u201cx sent an email to y.\u201d. State\nwhether the following statements are true (justify your answers).\n(i)\n\u201cEveryone sent an email to someone else.\u201d\n(ii)\n\u2200x\u2203y\n\u0002\n(x \u0338= y) \u2227M(x, y)\n\u0003\n(iii) \u2203x\u2200y\n\u0002\n(x \u0338= y) \u2227M(x, y)\n\u0003",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "Snow white is going to a party with the seven dwarves. Each of the eight of them\nowns a red dress and a blue dress. If each of them is likely to choose either coloured\ndress randomly and independently of the other\u2019s choices, what is the chance that all\nof them go to the party wearing the same coloured dress?",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Determine the cardinality of the following sets.\n(i)\n{a}\n(ii)\n{a, {a}}\n(iii) {{a}}\n(iv) {a, {a}, {a, {a}}}",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Let R be the relation on the set A = {1, 2, 3, 4, 5, 6} where (a, b) \u2208R i\ufb00a and b are\nthe same length when written in English.\n(i)\nRepresent R using a digraph.\n(ii)\nIs R re\ufb02exive? symmetric? transitive?\n(iii) Is R an equivalence relation? and if yes, what the resulting equivalence classes?",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "The girth of a graph is the length of its shortest cycle. Write down the girth of\neach of the following graphs.\n(i)\nK9\n(ii)\nK5,7\n(iii) C8\n(iv) W8",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "Draw a graph with degree sequence (3, 3, 5, 5, 5, 5). Does there exist a simple graph\nwith this degree sequence? Justify your answer.",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "What does the following function compute? (Justify your answer.)\ndef isWhat (A, B) :\nfor a in A:\ni f\na in B:\nreturn False\nreturn True",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Let S = {a, b, c, d, e, u}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of cardinality 4 have {a, b, c} as a subset?\n(iii) How many subsets of cardinality 4 contain at least one vowel?\n(iv) How many subsets of cardinality 4 contain exactly one vowel?",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "Let A and B be de\ufb01ned as\nA = {n \u2208N|n is a multiple of 12}\nand\nB = {n \u2208N|n is a multiple of 2 and n is a multiple of 6}\nWhich of the following is true? (Justify your answer.)\n(i)\nA \u2282B\n(ii)\nB \u2282A\n(iii)\nA = B",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "How many 9-bit strings (that is, bit strings of length 9) are there which satisfy each\nof the following criteria? Explain your answers.\n(i)\nStart with the sub-string 101.\n(ii)\nHave weight 5 (i.e., contain exactly \ufb01ve 1\u2019s) and start with the sub-string 101.\n(iii) Either start with 101 or end with 11 (or both).\n(iv) Have weight 5, and starts with 101 and ends with 11.",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "Let n be a positive integer. Prove that n(n2 + 5) is divisible by 3.\n(Hint: Use proof by cases.)",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "Use a membership table, or otherwise, to determine whether the following expression\ninvolving sets is true\n(A \\ B) \\ (B \\ C) = A \\ B",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "(i)\nConstruct a logical expression to represent the output Y .",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Final_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Construct sets A and B satisfying the following three properties:\nA \\ B = {1, 3},\nB \\ A = {2, 4},\nA \u2229B = {5, 6}.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Construct a truth table for the logical expression\n(x \u2228z) \u2227((x \u2228y) \u2192(\u00acx \u2227\u00acz))\nHence or otherwise, state whether the proposition is satis\ufb01able, is a tautology or a\ncontradiction. (Justify your answer.)",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(i)\nDraw a graph with degree sequence (2, 3, 3, 4, 4).\n(ii)\nDoes there exist a simple graph with this degree sequence? Justify your answer.\n(iii) How many edges does this graph have?\n(iv) What changes to this graph would make it a complete graph?",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "Use a membership table, or otherwise, to determine whether the following expression\ninvolving sets is true\n(A \\ B) \u2229(B \\ C) = A \u2229B \u2229C",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Consider the following logical circuit with two inputs, A and B, and two outputs,\nX and Y .\n(i)\nConstruct a logical expression to\nrepresent the output Y .\n(ii)\nIs there an input case for which\nboth outputs, X and Y , are True?\n(Justify your answer)\n(iii) Is there an input case for which\nboth outputs, X and Y , are False?\n(Justify your answer)\nA\nB\nX\nY",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Let A = {1, 2, 3, 4, 5}. Determine the truth value of each of the following statements,\nand justify your answer.\n(i)\n\u2200x\n\u0002\nx + 4 < 9\n\u0003\n(ii)\n\u2203x\n\u0002\nx2 > 15\n\u0003\n(iii) \u2200x\u2200y\n\u0002\nx + y < 9\n\u0003\n(iv) \u2200x\u2203y\n\u0002\nx2 + y2 < 27\n\u0003",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "In a Python program, the variable x stores an unknown integer. Running the fol-\nlowing Python code (where % denotes mod and // denotes integer division)\nprint (x%7,\n\u2019 , \u2019 , x//7)\nproduces the output:\n3 , 5\nDetermine a value for x that would produce the above output.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4, 5} given by the table below:\nx\n2\n4\n6\nf(x)\n3\n1\n4\n(i)\nUse a Venn diagram to represent the function f.\n(ii)\nGraph the function f as points on the plane.\n(iii) Is f injective? Explain.\n(iv) Is f surjective? Explain.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Let R be the relation on the set A as given in the Python code below:\nA = {1 ,2 ,3 ,4 ,5 ,6}\nR = {(a , b) for a in A for b in A i f\na%3 == b%3}\nprint (R)\n(i)\nWhat does the print statement output?\n(ii)\nRepresent R using a digraph.\n(iii) Is R re\ufb02exive? symmetric? transitive?\n(iv) Is R an equivalence relation? and if yes, what are the resulting equivalence\nclasses?",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "The girth of a graph is the length of its shortest cycle. State the girth of each of\nthe following graphs.\n(i)\nC5\n(ii)\nPetersen graph\n(iii) K3,3",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "What does the following function compute? (Justify your answer.)\ndef findWhat (A, B) :\nr e s u l t = set ()\nfor a in A:\ni f\na not in B:\nr e s u l t . append ( a )\nreturn\nr e s u l t",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "Let S = {1, 2, 3, . . . , 8}\n(i)\nHow many subsets of A are there?\n(ii)\nHow many subsets of A contain exactly 4 elements, i.e., have cardinality 4?\n(iii) How many subsets with cardinality 5 contain at least one odd number?\n(iv) How many subsets of cardinality 5 contain exactly one odd number?\n(v)\nHow many subsets of cardinality 6 contain exactly one even number?",
+    "marks": 10,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Let A and B be de\ufb01ned as\nA = {n \u2208N|n is a multiple of 14}\nand\nB = {n \u2208N|n is a multiple of 2 or n is a multiple of 7}\nWhich of the following is true? (Justify your answer.)\n(i)\nA \u2282B\n(ii)\nA \u2286B\n(iii)\nB \u2282A\n(iv)\nA \u2229B = A\n(v)\nA \u2229B = {n, k \u2208N|n = 7k}\n(vi)\nA \u2229B = B",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "Consider the following diagram, consisting of two rows of six dots.\nHow many\n(i) Squares\n(ii) Right-angled triangles\n(iii) Triangles\ncan be drawn using the dots as vertices (corners).",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "How many shortest lattice paths start at (0, 0) and\n(i)\nend at (8, 9)?\n(ii)\nend at (8, 9) and pass through (3, 6)?\n(iii) end at (8, 9) and avoid (3, 6)?",
+    "marks": 7,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "(i)\nWhat does the following function do? (Justify your answer.)\ndef calculateWhat (n ) :\ni f n == 0 or n == 1:\nreturn 1\nreturn n\u2217calculateWhat (n\u22121)\n(ii)\nWhat value will calculateWhat(5) return?",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "A = {1, 3, 5, 6},\nB = {3, 4, 5, 6}",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Partial marks for correct parsing of expression, demonstrating ability to compute logical\nexpression, using satis\ufb01ability/tautology/contradiction de\ufb01nitions.\n(((x _ z))\n|\n{z\n}\n^ (x _ y)\n| {z }\n)\n|\n{z\n}\n! (\u00acx ^ \u00acz)\n|\n{z\n}\n|\n{z\n}\nE\nx\ny\nz\nz }| {\n(x _ z)\nz }| {\n(x _ y)\nz\n}|\n{\n(\nz }| {\n(x _ z) ^\nz\n}|\n{\n((x _ y)))\nz\n}|\n{\n(\u00acx ^ \u00acz)\nE\n0\n0\n0\n0\n0\n1\n0\n1\n1\n0\n0\n0\n1\n1\n1\n0\n0\n1\n1\n0\n0\n1\n1\n0\n1\n1\n1\n0\n1\n1\n1\n0\nSince there is one row in which the output is True, the expression is satis\ufb01able. It is not a\ntautology (does not have all True outputs) and is not a contradiction (has at least one True\noutput). It is also a contingency.\n(5 + 2 marks)\n(c)\n(i)\nStudent should produce a graph similar to the following:\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc (H) in AC, in CF, in the IoT\nSemester: 1\nPage 2 of 6\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n1\n3",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 3 of 6\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n(d)\nMarks awarded for proving identity by using meembereship tables or\nusing set operation properties.\nUsing membership tables . . .\n(A \\ B)\n| {z }\n\\ (B \\ C)\n| {z }\n|\n{z\n}\n= A \\ B\n| {z }\nA\nB\nC\nz }| {\nA \\ B\nz }| {\nB \\ C\nz\n}|\n{\nz }| {\n(A \\ B) \\\nz }| {\n(B \\ C)\nz\n}|\n{\nA \\ B \\ C\n0\n0\n0\n0\n1\n0\n0\n1\n0\n0\n0\n1\n0\n0\n0\n1\n0\n1\n1\n0\n0\n1\n0\n1\n1\n1\n0\n0\n\"\n\"\nequal output ) expression true",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "(i)\nConstruct a logical expression to represent the output Y .",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "(i)\nFalse, x = 5 ) 9 < 9, which is false.",
+    "marks": 1,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(i)\nx=38",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "x\nf(x)\n5\n3\n2\n1\n2\n4\nVenn/Mapping diagram for part (1) of the question\n2\n4\n6\n1\n3\n5\nx\nf(x)\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\nAnswer for part (2), graph of the function in the plane.\n(i)\nStudent should show a Venn diagram similar to the above.",
+    "marks": 1,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 6 of 6\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n(ii)\nStudent should produce a graph similar to the one shown above, indicating all (x, f(x))\nvalues.",
+    "marks": 1,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "(i)\nR = {(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6), (2, 5), (5, 2), (3, 6), (6, 3), (1, 4), (4, 1)}\n(ii)\nRepresent R using a digraph.\n2\n4\n6\n(iii) R is re\ufb02exive, symmetric and transitive\n(iv)\nR is an equivalence relation (since is is ref., symm. and trans.) resulting equivalence classes partition\nA = A0 [ A1 [ A2 , where A0 = {1, 4}, A1 = {3, 6}, A2 = {2, 5}.",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Partial marks for identifying graph. 4 \u21e52 marks\n(i)\nC5\nCycle graph has girth is 5.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 7 of 6\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n(ii)\nPetersen Graph\nPetersen Graph has girth of 5",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "Function \ufb01nds the di\ufb00erence of the two sets A and B \u2014 will return the results.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "(i)\n%5\n&\n= 5 squares. Top left corner, remaining 3 dots to be determined.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "(i)\n%17\n&\n= 24310. The paths all have length 17 (9 steps up and 8 steps right), we just\nselect which 9 of those 17 should be up.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 10 of 6\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n(c)\nFunction calculateWhat(n) computes the factorial using a recursive function call. Student\nshould recognise the terminal conditions and show understanding of recursive nature e.g.\nfunction calls itself.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202223_Repeat_MS.pdf",
+    "year": 2022,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Consider the following logical circuit with two inputs, A and B, and output Y .\nA\nB\nY\n(i)\nConstruct a logical expression to represent the output, Y .\n(ii)\nConstruct a truth table for this expression and classify the logical expression\nas a tautology, a contradiction, or satis\ufb01able.\n(iii) Compare the inputs to the output and construct a shorter (fewer logic gates)\nlogical expression that is logically equivalent to the original circuit.\n([4 + 4 + 4] 12 marks)\n(b)\nWhat does the following code output? (Justify your answer.)\nA = {3 ,\n5 , 7}\nB = {3 ,\n5 ,\n6 , 7}\n4\nfor x in A:\ni f\nx not in B:\nprint ( False )\nbreak\nelse :\nprint ( len (A)<len (B))",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Which of the following are well formed propositional formulas? Justify your answers.\n(i)\n\u2228pq\n(ii)\np\u00ac\u00acr\n(iii)\np\u00ac \u2192(q \u2227q)\n(iv)\n(p \u2227\u00acq) \u2228(q\u00ac \u2192q)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Use a truth table to determine whether the proposition\n((P \u2227Q) \u2228(\u00acP \u2227R)) \u2192(\u00acQ \u2228\u00acR)\nis a contradiction, is satis\ufb01able or is a tautology.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "What is the output of the following code? (Justify your answer.)\nr e s u l t = 0\nfor k in range( \u22125 ,5):\nterm = k\nr e s u l t += term\nprint ( r e s u l t )",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "The function is_what has parameters R (a relation), and A and B (both sets). What\nproperty does the function check for? (Justify your answer.)\ndef is_what (R,A,B) :\nfor a , b in R:\ni f\na not in A:\nreturn False\ni f b not in B:\nreturn False\nreturn {b for _, b in R}==B",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. (Justify your answers.)\n(i)\n5 \u2208C\n(ii)\n{9} in C\n(iii)\n{3} \u2286A\n(iv)\nA.intersection(B).issubset(B.union(C))\n(v)\nB \u2286A\n(vi)\nB.union(C).intersection(A). isdisjoint (C)",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "(i)\nConstruct a logical expression to represent the output Y .",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Final_MS.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "(i)\n\u2228pq\nNot well formed. Logical and, \u2228is a binary operator, expected in\ufb01x notation.\n(ii)\np\u00ac\u00acr\nNot well formed. Logical not operator, \u00ac is a unary operator.\n(iii) p\u00ac \u2192(q \u2227q)\nNot well formed. \u00ac applied to conditional operator\n(iv) (p \u2227\u00acq) \u2228(q\u00ac \u2192q)\nNot well formed. Conditional operator, \u2192is a binary operator.\n4 marks = 4 \u00d7 1, justi\ufb01cation required\n(b)\nThe completed table is",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Final_MS.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "i",
+    "text": "all ([c.isupper() for c in message])",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202324_Final_MS.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "\u2227C(c)\n\u0003",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202324_Final_MS.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "\u2192(A(c) \u2228B(c))\n\u0003",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202324_Final_MS.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Consider the sequence 5, 8, 11, 14, 17, 20, ...\n(i)\nConstruct a recursive definition for the sequence.\n(ii)\nConstruct a closed form definition the nth term of the sequence.\n(iii) Is 2024 a term in the sequence?\n(iv) How many terms of the sequence are less than 1000?\n(v)\nDetermine the sum of the first 100 terms of the sequence.\n([5 \u00d7 2] 10 marks)\n(b)\nWhat does the following function do? (Justify your answer).\ndef isWhat (n ) :\ni f\n(n > 2 ) :\nfor\ni\nin range (2 , n//2+1):\ni f\n(n % i ) == 0:\nreturn False\nelse :\ncontinue\nreturn True\ne l i f\n(n==2):\nreturn True\nelse :\nreturn False",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn x\u2217\u22172 \u22124\u2217x \u22125\ndef g (x ) :\nreturn x + 5\ndef h(x ) :\nreturn x \u22125\ndef\nj (x ) :\nreturn x//2\ndef k(x ) :\nreturn 2\u2217x\nEvaluate the following (note, show all work):\n(i) g(h(4))\n(ii) h(g(5))\n(iii) f(g(h(3)))\n(iv) k(j(7))\n(v) j(j(g(2)))",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Use a truth table to determine whether the proposition\n(q \u2192(\u00acr \u2227\u00acp)) \u2227(p \u2228r )\nis satisfiable.",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "Evaluate each of the following\n(i)\nX\nk=1\nk + 2\n(ii)\nX\nk=0\n2k\n(iii)\nY\nk=2\n(k \u22122)",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "d",
+    "text": "Which of the following are well formed propositional formulas?\n(i) p\u00acq \u2227r\n(ii) \u00ac(q \u2227r) \u2192s\n(iii) \u2192(p \u2192\u00acs)\n(iv) p \u2194(p \u2192s\u00ac)\nJustify your answers.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Consider the sets defined by the Python code\nU = set (range (1 ,\n10))\nA = set (range (1 ,\n8 ,\n2))\nB = set (range (2 ,\n9 ,\n2))\nC = set (range (3 ,\n6))\nD = A. i n t e r s e c t i o n (C) . union (U. d i f f e r e n c e (B))\nE = U. d i f f e r e n c e (A. union (B) . i n t e r s e c t i o n (C))\nF = A. union (U. d i f f e r e n c e (B))\n;\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)\n(b)\nLet S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n(iv) How many subsets of cardinality 4 contain exactly one even number?\n([4 \u00d7 2] 8 marks)\n(c)\nAre the statements (P \u2228Q) \u2192R and (P \u2192R) \u2228(Q \u2192R) logically equivalent?\nExplain why.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "In a Python program, the variable x stores an unknown value.\nRunning the following Python code (where % denotes mod and // denotes integer\ndivision)\nprint (x%9, x//8)\nproduces the output:\n2,4\nDetermine a value for x that produced the above output.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Convert the following English sentence into a propositional logic expression with\natomic propositions.\n\u201cIf the internet connection is stable and the server is running, then the\nwebsite will be accessible.\u201d",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Let R be a relation on the set A = {1, 2, 3}, where R = {(1, 1), (2, 2), (3, 3), (1, 2)}.\n(i)\nIs R reflexive? symmetric? transitive? Justify your answer.\n(ii)\nIs R an equivalence relation? Justify your answer.\n(iii) Is R antisymmetric? Justify your answer.\n([3 \u00d7 2] 6 marks)\n(c)\nHow many 12-bit strings (that is, bit strings of length 12) exist which satisfy each\nof the following criteria? (Justify your answers.)\n(i)\nStart with the sub-string 1101.\n(ii)\nHave weight 6 (i.e., contain exactly six 1\u2019s) and start with the sub-string 1101.\n(iii) Either start with 1101 or end with 1010 (or both).\n(iv) Have weight 6, start with 1101, and end with 1010.\n([1 + 1 + 2 + 2] 6 marks)\n(d)\nUse a truth table to determine whether the proposition\n(\u00acP \u2228Q) \u2192(P \u2227\u00acR) \u2228(Q \u2227R)\nis a contradiction, is satisfiable, or is a tautology.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "A firewall follows the following rules to allow or block network traffic. Translate\neach of the firewall rules into a propositional logic expression, using the following\natomic propositions:\n\u2022 T = \u201cThe IP address is trusted.\u201d\n\u2022 S = \u201cThe protocol is secure.\u201d\n\u2022 A = \u201cThe connection is allowed.\u201d\n(i)\nIf a connection request is from a trusted IP address and uses a secure protocol,\nthe connection will be allowed.\n(ii)\nIf the connection is from a suspicious IP address or uses an insecure protocol,\nthe connection will be blocked.\n(iii) A connection from a trusted IP address will always be allowed, even if it uses\nan insecure protocol.\n(iv) A suspicious IP address will always be blocked, regardless of the protocol used.",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Consider lattice paths on a grid from (0, 0) to (7, 4), and you can only move right\nor up.\n(i)\nHow many distinct paths are there from (0, 0) to (7, 4)?\n(ii)\nHow many paths pass through (4, 2)?\n(iii) How many paths pass through either (3, 1) or (5, 3)?\n([2 + 3 + 4] 9 marks)\n(c)\nThe first term of a geometric progression is 10, and the common ratio is 0.5. Deter-\nmine whether the number 0.5 is a term in this progression. If yes, then determine\nthe position of 0.5 in the sequence.",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Let f : R \u2192R be defined by f(x) = 3x \u22125.\n(i)\nExplain why f has a inverse.\n(ii)\nDetermine f \u22121(x).\n(iii) Verify that f \u22121(f(x)) = x and f(f \u22121(x)) = x.\n([1 + 2 + 2] 5 marks)\n(b)\nA digital image starts at a resolution of 1024 \u00d7 768 pixels. We need to reduce the\nresolution by half for each step (in both dimensions) until the image size reaches a\nrequired value.\n(i)\nExpress the number of pixels at each step as a geometric sequence.\n(ii)\nFind the total number of pixels after three reduction steps.\n(iii) How many reductions are needed until the number of pixels drops below 1,000?\n([2 + 2 + 3] 7 marks)\n(c)\nConsider the following python code. Translate to mathematical notation using sum-\nmation (P) and/or product (Q) notation. Hence, or otherwise, determine the output\ngenerated.\nvar_a = 0\nfor k in range ( 1 , 3 ) :\nvar_b = 1\nfor\nj\nin range(k ) :\nvar_b \u2217= ( j+k)\u2217\u22172\nvar_a += var_b\n8\nprint ( f \"{var_a = }\" )",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "d",
+    "text": "The first term of an arithmetic progression is 2, and the common difference is 4.\nWhat is the 10th term of this arithmetic progression?",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "Let A = {0, 1, 2, 3, 4}, B = {3, 4, 5, 6}, and C = {1, 4, 5, 6, 7}, and let the universal\nset be U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Determine each of the following.\n(i)\nA \u222aB\n(ii)\nA \\ B\n(iii) B \u2229A\n(iv) A \u2295B\n(v)\n(A \u222aB) \u2229C\n(vi)\n\u00afA\n([6 \u00d7 1] 6 marks)\n(b)\nLet S = {2, 3, 5, 7, 11, 13, 17}.\n(i)\nHow many subsets are there of cardinality 3?\n(ii)\nHow many subsets of S are there? That is, find |P(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 15?\n([1 + 1 + 2] 4 marks)\n(c)\nDesign a logical circuit that represents the logical expression,\n(A \u2227(B \u2228C)) \u2228(\u00acB \u2227\u00acC).",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "What does the following function compute? (Justify your answer.)\ndef isWhat (A, B) :\nfor a in A:\ni f\na not in B:\nreturn False\nreturn True",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "Draw a graph with degree sequence (3, 3, 5, 5, 5, 5). Does there exist a simple graph\nwith this degree sequence? Justify your answer.",
+    "marks": 2,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "Consider an employee database system for a company storing Employees and De-\npartments. A developer has coded a function\nf(employee)\nwhich returns the department in which the employee works.\n(i)\nCan this function be injective (one-to-one)? Justify your answer\n(ii)\nCan this function be surjective (onto)? Justify your answer.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "Consider the functions defined by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf(4)\n(ii)\ng(2)\n(iii)\nf(5) + g(2) \u2212h(4)\n(iv)\nf(g(1))\n(v)\ng(h(2))\n(vi)\nh(f(3))\n([6 \u00d7 1] 6 marks)\n(d)\nThe girth of a graph is the length of its shortest cycle. Write down the girth of\neach of the following graphs.\n(i)\nK9\n(ii)\nK5,7\n(iii) C8\n(iv) W8",
+    "marks": 8,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "Convert the following English sentence into a propositional logic expression with\natomic propositions:\n\u201cIf the alarm system is enabled and either the camera recognises an in-\ntruder or a window is broken, then the Garda\u00ed will be notified.\u201d",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Which of the following are well-formed propositional formulas?\n(i) \u2227\u00acpq\n(ii) (p \u2228q) \u2192\u00acr\n(iii) \u00ac(p \u2192)q\n(iv) p \u2227(q\u2228\u2192s)\nJustify your answers.",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "Evaluate each of the following\n(i)\nX\nk=0\n(2k + 3)\n(ii)\nX\nk=2\n3k\u22121\n(iii)\nY\nk=1\nk\nk + 1",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn (x + 2) \u2217\u22172 \u22129\ndef g (x ) :\nreturn 3 \u2217x \u22121\ndef h(x ) :\nreturn x // 3\ndef\nj (x ) :\nreturn x % 5\ndef k(x ) :\nreturn 4 \u2212x\nEvaluate the following (note, show all work):\n(i) f(g(2))\n(ii) h(k(8))\n(iii) g(h(f(1)))\n(iv) j(k(j(12)))",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Consider the sequence 8, 24, 40, 56, 72, 88, ...\n(i)\nConstruct a recursive definition for the sequence.\n(ii)\nConstruct a closed form definition the nth term of the sequence.\n(iii) Is 2024 a term in the sequence?\n(iv) How many terms of the sequence are less than 1000?\n(v)\nDetermine the sum of the first 100 terms of the sequence.\n([5 \u00d7 2] 10 marks)\n(c)\n(i)\nFor the following graph, determine its degree sequence.\nB\nA\nF\nE\nD\nC\n(ii)\nIs the graph a simple graph? Justify your answer.\n(iii) The girth of a graph is the length of its shortest cycle. Write down the girth\nof this graph.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "Consider the sets defined by the following Python code:\nU = set (range (1 ,\n12))\nA = set (range (2 ,\n10 ,\n3))\nB = set (range (1 ,\n12 ,\n2))\nC = set (range (3 ,\n8))\nD = (A. union (B) ) . d i f f e r e n c e (C)\nE = U. d i f f e r e n c e (A. i n t e r s e c t i o n (B))\nF = B. d i f f e r e n c e (A) . union (C. d i f f e r e n c e (B))\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)\n(b)\nLet A = {1, 2, 3, 4, 5, 6, 7}.\n(i)\nHow many subsets of A contain all the odd numbers?\n(ii)\nHow many subsets of A contain exactly two odd numbers?\n(iii) How many subsets of A contain at least two odd numbers?\n(iv) How many subsets of cardinality 5 contain exactly two even numbers?\n([4 \u00d7 2] 8 marks)\n(c)\nAre the statements (P \u2192Q) \u2227(Q \u2192R) and P \u2192(Q \u2227R) logically equivalent?\nExplain why.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "A network router uses the following rules to determine the quality of service (QoS)\nfor different types of network traffic. Express each of these rules as a propositional\nlogic expression, using the atomic propositions:\n\u2022 V = \u201cThe traffic is video streaming.\u201d\n\u2022 P = \u201cThe traffic has high priority.\u201d\n\u2022 G = \u201cThe traffic is granted extra bandwidth.\u201d\n(i)\nIf the traffic is video streaming, then it has high priority.\n(ii)\nIf the traffic has high priority and is not granted extra bandwidth, then it is\nnot video streaming.\n(iii) If the traffic is granted extra bandwidth, then it is video streaming or it has\nhigh priority.\n(iv) If the traffic is not video streaming and does not have high priority, then it is\nnot granted extra bandwidth.\n([1 + 3 \u00d7 2] 7 marks)\n(b)\nThe third term of a geometric progression is 2, and the sixth term is 16. Find the\nfirst term and the common ratio of this progression.",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "How many 12-bit strings (that is, bit strings of length 12) are there which satisfy\neach of the following criteria? Explain your answer.\n(i)\nStart with the sub-string 110.\n(ii)\nHave weight 5 (i.e. contain exactly five 1\u2019s in total) and start with the sub-\nstring 110.\n(iii) Have weight of 6 and are divisible by 8.\n([1 + 2 + 2] 5 marks)\n(d)\nUse truth tables to show that the following proposition is a tautology:\n(p \u2192(q \u2228r)) \u2192((p \u2227\u00acq) \u2192r)",
+    "marks": 5,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "A = set (range (2 ,6))\nR = {(a , b) for a in A for b in A i f\na % b == 0}\n(i)\nFrom the Python code above, write out the set A and the relation R in set\nnotation.\n(ii)\nRepresent the relation R as a digraph.\n(iii) Is the relation R reflexive? symmetric? transitive? (Justify your answer).\n(iv) Is R an equivalence relation? (Justify your answer).\n(v)\nDetermine whether the relation R is irreflexive? antisymmetric? asymmetric?\n(Justify your answer).\n([3 + 2 + 3 + 2 + 3] 13 marks)\n(b)\nWhat does the following function do? (Justify your answer).\ndef isWhat (A,B) :\nfor element in A:\ni f\nelement not in B:\nreturn ( False )\nelse :\nreturn ( len (A)==len (B))",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "The first term of an arithmetic progression is 3, and the common difference is 5.\nWhat is the 12th term of this arithmetic progression?",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "i",
+    "text": "Not well formed. Binary operator \u2227is at the start of the formula and has only one\noperand after it.\n(ii)\nWell formed.\n(iii) Not well formed. Implication operator \u2192has only one operand after it.\n(iv) Not well formed. Implication operator \u2192has no operand before it.\n(c)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 1,
+    "part": "i",
+    "text": "sum = 3 + 5 + 7 + 9 + 11 = 35\n(ii)\nsum = 3 + 9 + 27 + 81 = 120\n(iii) product = (1/2) * (2/3) * (3/4) * (4/5) = 1/5\n(d)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "i",
+    "text": "f(g(2)) = f(3 \u00b7 2 \u22121) = f(5) = (5 + 2)2 \u22129 = 49 \u22129 = 40\n(ii)\nh(k(\u22129)) = h(4 + 9) = h(13) = 13//3 = \u22121\n(iii) g(h(f(1))) = g(h((1 + 2)2 \u22129)) = g(h(0)) = g(0//3) = g(0) = 3 \u00b7 0 \u22121 = \u22121\n(iv) j(k(j(12))) = j(k(12%5)) = j(k(2)) = j(4 \u22122) = j(2) = 2%5 = 2\n(b)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 2,
+    "part": "i",
+    "text": "a0 = 8 and an = an\u22121 + 16 for n \u22651.\n(ii)\nan = 16n + 8.\n(iii) 2024 = 16n + 8 so n = 126 \u2208N, therefore 2024 is a term in the sequence.\n(iv) 16n + 8 < 1000 so n < 62, therefore there are 62 terms less than 1000.\n(v)\nS99 = (99 + 1) \u00d7 8+(16\u00d799+8)\n= 100 \u00d7 800 = 80000.\n(c)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "i",
+    "text": "\u2022 U = {1, 2, \u00b7 \u00b7 \u00b7 , 11}\n\u2022 A = {2, 5, 8}\n\u2022 B = {1, 3, 5, 7, 9, 11}\n\u2022 C = {3, 4, 5, 6, 7}.\n(ii)\nVenn Diagram (as done in class, with the updated sets).\n(iii) Equivalent mathematical expressions:\n\u2022 D = (A \u222aB) \\ C\n\u2022 E = U \\ (A \u2229B)\n\u2022 F = (B \\ A) \u222a(C \\ B)\n(iv)\n\u2022 D = {1, 2, 8, 9, 11}\n\u2022 E = {1, 2, 3, 4, 6, 7, 8, 9, 10, 11}\n\u2022 F = {1, 3, 4, 6, 7, 9, 11}\n(b)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 3,
+    "part": "i",
+    "text": "23 = 8 subsets.\n(ii)\n\u00004\n\u0001\n\u00b7 23 = 6 \u00b7 8 = 48 subsets.\n(iii) 27 \u221223 \u2212\n\u00004\n\u0001\n\u00b7 23 = 128 \u22128 \u221232 = 88 subsets.\n(iv)\n\u00004\n\u0001\n\u00d7\n\u00003\n\u0001\n= 12 subsets.\n(c)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "i",
+    "text": "V \u2192P\n(ii)\n(P \u2227\u00acG) \u2192\u00acV\n(iii) G \u2192(V \u2228P)\n(iv) (\u00acV \u2227\u00acP) \u2192\u00acG\n(b)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "i",
+    "text": "2\n|{z}\na0\n,\n|{z}\na1\n,\n|{z}\na2\n,\n|{z}\na3\n,\n|{z}\na4\n, 16\n|{z}\na5\n, . . .\nar2 = 2, ar5 = 16 =\u21d2r3 = 8 =\u21d2r = 2 =\u21d24a = 2 =\u21d2a = 1\n2.\n(c)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 4,
+    "part": "i",
+    "text": "Starting with three fixed bits leaves (12 \u22123) = 9 yes/no choices, giving |B9| = 29 =\n512 strings.\n(ii)\nWeight 5 and starting with 110 (which has weight 2) means the remaining (12\u22123) =\n9 bits must have weight (5 \u22122) = 3. This gives us |B9\n3| =\n\u00009\n\u0001\n= 84 strings.\n(iii) Divisible by 8 means the bit string must end with 000. A weight of 6 then means\nthe remaining (12 \u22123) = 9 bits must have weight 6. This gives us |B9\n6| =\n\u00009\n\u0001\n= 84\nstrings.\n(d)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "i",
+    "text": "The Python code gives the set A = {2, 3, 4, 5}, and the relation R = {(a, b)|a, b \u2208\nA, a mod b = 0}\n= {(2, 2), (3, 3), (4, 2), (4, 4), (5, 5)}.\n(ii)\nThe digraph is shown below.\n(iii) The relation R is reflexive (every element in A is related to itself), antisymmetric\n(if (a, b) \u2208R and (b, a) \u2208R, then a = b), and transitive (if (a, b) \u2208R and (b, c) \u2208R,\nthen (a, c) \u2208R).\n(iv) R is not an equivalence relation as it\u2019s not symmetric (e.g., (4, 2) \u2208R but (2, 4) /\u2208R).\n(v)\nR is: not irreflexive (\u2235(2, 2) \u2208R etc.); not asymmetric (e.g., R is reflexive) but is\nantisymmetric.\n3\n5\n(b)",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_MS.pdf",
+    "year": 2024,
+    "topic": "Unknown",
+    "difficulty": "Unknown"
+  }
+]
