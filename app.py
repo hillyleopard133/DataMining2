@@ -49,7 +49,7 @@ st.write(f"Showing {len(filtered)} questions")
 # Display questions with expandable cards
 for _, row in filtered.iterrows():
     with st.expander(f"Q{row['question_number']} ({row['part']}) ({row['marks'] if row['marks'] else '?'} marks) - {row['source_pdf']}"):
-        st.write(row["text"])
+        st.text(row["text"])
         st.caption(f"Topic: {row['topic']}, Difficulty: {row['difficulty']}")
 
 def render_question_image(pdf_path, question, zoom=2):

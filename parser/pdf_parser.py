@@ -54,6 +54,8 @@ def extract_questions_from_pdf(pdf_path):
 
         for part_letter, part_text in parts:
 
+            part_text = re.sub(r"\s*(\(\w+\))", r"\n\1", part_text)
+
             marks_matches = re.findall(r"(\d+(?:\.\d+)?)\s*marks?\)", part_text, flags=re.IGNORECASE)
             marks = sum(float(m) for m in marks_matches) if marks_matches else None
 
@@ -122,15 +124,18 @@ def infer_difficulty(marks):
     else: return "Hard"
 
 TOPIC_KEYWORDS = {
-    "Sets": ["set", "union", "intersection", "subset", "superset", "cardinality", "Venn diagram"],
-    "Logic & Propositional Logic": ["logic", "proposition", "logical", "truth table", "implication", "conjunction", "disjunction", "negation", "tautology", "contradiction"],
-    "Relations & Functions": ["relation", "function", "domain", "codomain", "injective", "surjective", "bijective", "composition"],
-    "Graph Theory": ["graph", "vertex", "edge", "adjacency", "degree", "path", "cycle", "tree", "connected", "bipartite", "planar"],
+    "Sets": ["set", "union", "intersection", "subset", "superset", "cardinality", "Venn diagram", "∈"],
+    "Logic & Propositional Logic": ["logic", "proposition", "logical", "truth table", "implication", "conjunction", "disjunction", "negation", 
+        "tautology", "contradiction", "truth value"],
+    "Relations & Functions": ["relation", "function", "domain", "codomain", "injective", "surjective", "bijective", "composition", "inverse"],
+    "Graph Theory": ["vertices", "graph", "vertex", "edge", "adjacency", "degree", "path", "cycle", "tree", "connected", "bipartite", "planar"],
     "Number Theory": ["prime", "gcd", "lcm", "modulo", "congruence", "divisibility", "integer"],
-    "Algorithms & Complexity": ["algorithm", "complexity", "big O", "time complexity", "space complexity"],
+    "Algorithms & Complexity": ["algorithm", "complexity", "big O", "time complexity", "space complexity", "sub-string", "string", "sequence"],
     "Boolean Algebra": ["boolean", "xor", "minterm", "maxterm", "truth table"],
     "Probability": ["probability", "random", "event", "outcome", "sample space", "conditional probability"],
-    "Combinatorics": ["binomial", "expansion", "coefficient", "factorial", "permutation", "combination"]
+    "Combinatorics": ["binomial", "expansion", "coefficient", "factorial", "permutation", "combination", "derangement"],
+    "Algebra": ["partial fractions", "expand and simplify", "series", "progression"],
+    "Code" : ["python", "code"]
 }
 
 def infer_topic(text):

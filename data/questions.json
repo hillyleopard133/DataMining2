@@ -2,7 +2,7 @@
   {
     "question_number": 1,
     "part": "a",
-    "text": "The universal set is {1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026, 18}.  \n \nLet P = {2, 3, 5, 12, 15, 18} and Q = {2, 5, 7, 8, 9, 10, 12} and \n  \nR = {1, 2, 3, 4, 5, 7, 11}.   \n \n(i) \nRepresent the sets U, P, Q and R in a Venn diagram, marking all the elements in \nthe appropriate places. \n \n(5 marks) \n \n(ii) \nList the elements of the following sets:  \n \n(1) \ud835\udc43\" \u2229\ud835\udc44,  \n(2) \ud835\udc43 \u2295 \ud835\udc45  \n(3) \ud835\udc45\\(\ud835\udc43\u222a\ud835\udc44)\" \n \n(10 marks)",
+    "text": "The universal set is {1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026, 18}.  \n \nLet P = {2, 3, 5, 12, 15, 18} and Q = {2, 5, 7, 8, 9, 10, 12} and \n  \nR = {1, 2, 3, 4, 5, 7, 11}.\n(i) \nRepresent the sets U, P, Q and R in a Venn diagram, marking all the elements in \nthe appropriate places. \n \n(5 marks)\n(ii) \nList the elements of the following sets:\n(1) \ud835\udc43\" \u2229\ud835\udc44,\n(2) \ud835\udc43 \u2295 \ud835\udc45\n(3) \ud835\udc45\\(\ud835\udc43\u222a\ud835\udc44)\" \n \n(10 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -21,7 +21,7 @@
   {
     "question_number": 1,
     "part": "b",
-    "text": "(i) \nGiven \n\ud835\udc65, \ud835\udc66 \ud835\udc65, \ud835\udc66 \ud835\udf16 \ud835\udc34, and \ud835\udc651 \u2212\ud835\udc661 is divisible by 3} when  \n \nA is the set {0, 1, 2, 3} \n \n(1) Express the relation as a set of ordered pairs. \n \n(2) Draw a digraph to represent this relation. \n \n(3) Investigate whether the relation is an equivalence relation? Explain your \n \nanswer fully. \n \n (10 marks) \n \n(ii) \n \ud835\udc53: \ud835\udc4d\u2192\ud835\udc4d, \ud835\udc53\ud835\udc65= \u2212\ud835\udc65+ 5 and \ud835\udc54: \ud835\udc4d\u2192\ud835\udc4d, \ud835\udc54\ud835\udc65= \ud835\udc651 \u22122\ud835\udc65+ 1 \n \n(1) Find \ng\nf !\nand \n.f\ng !\n  \n \n(2) Explain why f has an inverse but g does not.  \n \n \n(10 marks)",
+    "text": "(i) \nGiven \n\ud835\udc65, \ud835\udc66 \ud835\udc65, \ud835\udc66 \ud835\udf16 \ud835\udc34, and \ud835\udc651 \u2212\ud835\udc661 is divisible by 3} when  \n \nA is the set {0, 1, 2, 3}\n(1) Express the relation as a set of ordered pairs.\n(2) Draw a digraph to represent this relation.\n(3) Investigate whether the relation is an equivalence relation? Explain your \n \nanswer fully. \n \n (10 marks)\n(ii) \n \ud835\udc53: \ud835\udc4d\u2192\ud835\udc4d, \ud835\udc53\ud835\udc65= \u2212\ud835\udc65+ 5 and \ud835\udc54: \ud835\udc4d\u2192\ud835\udc4d, \ud835\udc54\ud835\udc65= \ud835\udc651 \u22122\ud835\udc65+ 1\n(1) Find \ng\nf !\nand \n.f\ng !\n(2) Explain why f has an inverse but g does not.  \n \n \n(10 marks)",
     "marks": 20.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -42,7 +42,7 @@
   {
     "question_number": 1,
     "part": "c",
-    "text": "(i) \nInvestigate using Venn diagrams for all sets X, Y and Z whether \n\ud835\udc4b\\(\ud835\udc4c\u222a\ud835\udc4d)\u00db (\ud835\udc4b\\\ud835\udc4c) \u222a\ud835\udc4d \n \n(5 marks) \n(ii) \nProve using \u2018is an element of\u2019 and the laws of set theory that \n(\ud835\udc34\u2229\ud835\udc35) \" \u2229\ud835\udc34\u00db (\ud835\udc34\" \u222a\ud835\udc35\") \u2229\ud835\udc34 \n(5 marks) \n \n(iii) Prove using set identities that \n\ud835\udc34\u222a\ud835\udc35\u2229\ud835\udc36\n\"\u00db \ud835\udc34\" \u2229\ud835\udc36\" \u222a(\ud835\udc34\" \u2229 \ud835\udc35\") \n(5 marks)",
+    "text": "(i) \nInvestigate using Venn diagrams for all sets X, Y and Z whether \n\ud835\udc4b\\(\ud835\udc4c\u222a\ud835\udc4d)\u00db (\ud835\udc4b\\\ud835\udc4c) \u222a\ud835\udc4d \n \n(5 marks)\n(ii) \nProve using \u2018is an element of\u2019 and the laws of set theory that \n(\ud835\udc34\u2229\ud835\udc35) \" \u2229\ud835\udc34\u00db (\ud835\udc34\" \u222a\ud835\udc35\") \u2229\ud835\udc34 \n(5 marks)\n(iii) Prove using set identities that \n\ud835\udc34\u222a\ud835\udc35\u2229\ud835\udc36\n\"\u00db \ud835\udc34\" \u2229\ud835\udc36\" \u222a(\ud835\udc34\" \u2229 \ud835\udc35\") \n(5 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -61,7 +61,7 @@
   {
     "question_number": 2,
     "part": "a",
-    "text": "(i) \nConstruct the truth table for:  \n \n \n[(\ud835\udc5d \u00d7 \ud835\udc5e) + (\ud835\udc5f\u00d7 \ud835\udc5e)] \n \nor \n \n \n[\u00ac \ud835\udc5d \u00d9  \ud835\udc5e\u02c5 \ud835\udc5f \u02c4 \u00ac \ud835\udc5e] \n \n(7 marks) \n \n(ii) \nUsing a truth table prove that the following logical equivalence is a tautology. \n \n[ \ud835\udc5d+ \ud835\udc5e. \ud835\udc5d\u2192\ud835\udc5f. \ud835\udc5e\u2192\ud835\udc5f] \u2192\ud835\udc5f \n \nor \n \n[ \ud835\udc5d\u00da \ud835\udc5e\u00d9 \ud835\udc5d\u2192\ud835\udc5f\u00d9 \ud835\udc5e\u2192\ud835\udc5f] \u2192\ud835\udc5f \n(8 marks)",
+    "text": "(i) \nConstruct the truth table for:  \n \n \n[(\ud835\udc5d \u00d7 \ud835\udc5e) + (\ud835\udc5f\u00d7 \ud835\udc5e)] \n \nor \n \n \n[\u00ac \ud835\udc5d \u00d9  \ud835\udc5e\u02c5 \ud835\udc5f \u02c4 \u00ac \ud835\udc5e] \n \n(7 marks)\n(ii) \nUsing a truth table prove that the following logical equivalence is a tautology. \n \n[ \ud835\udc5d+ \ud835\udc5e. \ud835\udc5d\u2192\ud835\udc5f. \ud835\udc5e\u2192\ud835\udc5f] \u2192\ud835\udc5f \n \nor \n \n[ \ud835\udc5d\u00da \ud835\udc5e\u00d9 \ud835\udc5d\u2192\ud835\udc5f\u00d9 \ud835\udc5e\u2192\ud835\udc5f] \u2192\ud835\udc5f \n(8 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -81,7 +81,7 @@
   {
     "question_number": 2,
     "part": "b",
-    "text": "(1) Using the laws of logic (at the end of the exam paper), investigate if    \n \n\ud835\udc5d+ \ud835\udc5d. \ud835\udc5e\n\u00db \ud835\udc5d. \ud835\udc5e  \n \nor \n \n \u00ac \ud835\udc5d\u00da \u00ac\ud835\udc5d\u00d9 \ud835\udc5e\n\u00db \u00ac\ud835\udc5d\u00d9 \u00ac\ud835\udc5e \n \n \nEnsure you specify which of the logic laws you are using at each stage of the \n \nproof.   \n(6 marks) \n \n(2) Simplify fully the following Boolean expression: \n\ud835\udc5e \ud835\udc5d\u2192\ud835\udc5e\n\u2192\ud835\udc5d \nor \n \n\u00ac \ud835\udc5e\u00d9 \ud835\udc5d\u00ae \ud835\udc5e\u00ae \u00ac \ud835\udc5d \n \n \n(9 marks)",
+    "text": "(1) Using the laws of logic (at the end of the exam paper), investigate if    \n \n\ud835\udc5d+ \ud835\udc5d. \ud835\udc5e\n\u00db \ud835\udc5d. \ud835\udc5e  \n \nor \n \n \u00ac \ud835\udc5d\u00da \u00ac\ud835\udc5d\u00d9 \ud835\udc5e\n\u00db \u00ac\ud835\udc5d\u00d9 \u00ac\ud835\udc5e \n \n \nEnsure you specify which of the logic laws you are using at each stage of the \n \nproof.   \n(6 marks)\n(2) Simplify fully the following Boolean expression: \n\ud835\udc5e \ud835\udc5d\u2192\ud835\udc5e\n\u2192\ud835\udc5d \nor \n \n\u00ac \ud835\udc5e\u00d9 \ud835\udc5d\u00ae \ud835\udc5e\u00ae \u00ac \ud835\udc5d \n \n \n(9 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -101,12 +101,13 @@
   {
     "question_number": 2,
     "part": "c",
-    "text": "(i) \n Let P = {2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 15}.  \nDetermine the truth value of each of the following statements for \ud835\udc65\u2208\ud835\udc43. Explain \nyour answer fully in each case.  \n \n(1) \nIf x is odd or \ud835\udc65> 11 then \ud835\udc65< 15. \n(2) \nIf x is odd then \u2203\ud835\udc65 \ud835\udf16 \ud835\udc43, \ud835\udc65< 7. \n(3) \nIf \ud835\udc65< 7 \u02c5(\ud835\udc65> 10) then x is odd. \n(4) \nIf \ud835\udc65> 4 \u02c4(\ud835\udc65< 5) then x is the null set. \n \n(8 marks) \n \n(ii) Prove by mathematical induction \n \nR\nR.1 +\nR\n1.S +\nR\nS.T +\nR\nT.U + \u22ef+\nR\nW(WXR) = \nW\nWXR , \u2200\ud835\udc5b\u2208\ud835\udc41\\, \n(12 marks)",
+    "text": "(i) \n Let P = {2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 15}.  \nDetermine the truth value of each of the following statements for \ud835\udc65\u2208\ud835\udc43. Explain \nyour answer fully in each case.\n(1) \nIf x is odd or \ud835\udc65> 11 then \ud835\udc65< 15.\n(2) \nIf x is odd then \u2203\ud835\udc65 \ud835\udf16 \ud835\udc43, \ud835\udc65< 7.\n(3) \nIf \ud835\udc65< 7 \u02c5(\ud835\udc65> 10) then x is odd.\n(4) \nIf \ud835\udc65> 4 \u02c4(\ud835\udc65< 5) then x is the null set. \n \n(8 marks)\n(ii) Prove by mathematical induction \n \nR\nR.1 +\nR\n1.S +\nR\nS.T +\nR\nT.U + \u22ef+\nR\nW\n(WXR) = \nW\nWXR , \u2200\ud835\udc5b\u2208\ud835\udc41\\, \n(12 marks)",
     "marks": 20.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
-      "Sets"
+      "Sets",
+      "Logic & Propositional Logic"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -120,12 +121,13 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "(i)  \nHow many different ways are there of arranging the letters in the word \n  \nDISCONNECTED \n(2 marks) \n(ii)  How many of these ways start with the consecutive string \u201cDIS\u201d? \n(2 marks) \n \n(iii) How many even numbers are in the range 1000 and 9999 if there are no repeating \ndigits?  \n(4 marks) \n \n(iv) How many committees of six people can be chosen from 10 men and 15 women? \n(1) If exactly four women must be on each committee. \n                  (2) If at least four women must be on each committee. \n(7 marks)",
+    "text": "(i)  \nHow many different ways are there of arranging the letters in the word \n  \nDISCONNECTED \n(2 marks)\n(ii)  How many of these ways start with the consecutive string \u201cDIS\u201d? \n(2 marks)\n(iii) How many even numbers are in the range 1000 and 9999 if there are no repeating \ndigits?  \n(4 marks)\n(iv) How many committees of six people can be chosen from 10 men and 15 women?\n(1) If exactly four women must be on each committee.\n(2) If at least four women must be on each committee. \n(7 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -139,7 +141,7 @@
   {
     "question_number": 3,
     "part": "b",
-    "text": "Consider the binomial expansion of (3\ud835\udc65S \u22122\ud835\udc661)^ \n \n(1) Write out the first three terms and simplify fully. \n            (2)  Evaluate the coefficient of \ud835\udc66R\\? \n(15 marks)",
+    "text": "Consider the binomial expansion of (3\ud835\udc65S \u22122\ud835\udc661)^\n(1) Write out the first three terms and simplify fully.\n(2)  Evaluate the coefficient of \ud835\udc66R\\? \n(15 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -158,7 +160,7 @@
   {
     "question_number": 3,
     "part": "c",
-    "text": "(i) \n Construct a generating function G(x) for the number of ways of selecting \n2 red, 5 green and 3 blue balls from a pack if at least 1 red ball and at least two \ngreen balls must be selected. \n(10 marks) \n(ii) \nDetermine using generating functions the number of ways of selecting \n6 balls from the pack above.  \n(10 marks)",
+    "text": "(i) \n Construct a generating function G\n(x) for the number of ways of selecting \n2 red, 5 green and 3 blue balls from a pack if at least 1 red ball and at least two \ngreen balls must be selected. \n(10 marks)\n(ii) \nDetermine using generating functions the number of ways of selecting \n6 balls from the pack above.  \n(10 marks)",
     "marks": 20.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -177,7 +179,7 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "(i) \nDraw the graph with five vertices of the following degrees:  \n3, 3, 4, 4, 4 \n(3 marks) \n(ii) \nDraw the following graphs K1,S and  WS \n \n(4 marks) \n \n(iii)  Explain fully what is meant if a graph is bipartite using the graph in Fig1 below \n \n \n \n \n \nFig 1 \n(8 marks)",
+    "text": "(i) \nDraw the graph with five vertices of the following degrees:  \n3, 3, 4, 4, 4 \n(3 marks)\n(ii) \nDraw the following graphs K1,S and  WS \n \n(4 marks)\n(iii)  Explain fully what is meant if a graph is bipartite using the graph in Fig1 below \n \n \n \n \n \nFig 1 \n(8 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -196,7 +198,7 @@
   {
     "question_number": 4,
     "part": "b",
-    "text": "(i) \nInvestigate the graph in Fig 2 below to see whether it has a Eulerian circuit. \nConstruct such a circuit if one exists. If it does not exist give an argument to show \nwhy no such circuit exists. \n \n(ii)  Show the graph in Fig 2 below is Hamiltonian. Confirm with an appropriate \ndiagram.  \n \n \n \n \n \nFig 2 \n(8 marks) \n \n(iii)  Write out the degree of each node A to G and investigate whether the graph in \nFig 3 below is Eulerian. Justify your answer. \n \n \n \n \n \n \n \nFig 3 \n(8 marks)",
+    "text": "(i) \nInvestigate the graph in Fig 2 below to see whether it has a Eulerian circuit. \nConstruct such a circuit if one exists. If it does not exist give an argument to show \nwhy no such circuit exists.\n(ii)  Show the graph in Fig 2 below is Hamiltonian. Confirm with an appropriate \ndiagram.  \n \n \n \n \n \nFig 2 \n(8 marks)\n(iii)  Write out the degree of each node A to G and investigate whether the graph in \nFig 3 below is Eulerian. Justify your answer. \n \n \n \n \n \n \n \nFig 3 \n(8 marks)",
     "marks": 16.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -215,12 +217,13 @@
   {
     "question_number": 4,
     "part": "c",
-    "text": "(i) \nA sequence is defined recursively by \ud835\udc4e\\ = 1, \ud835\udc4eR = 4 and \n\ud835\udc4eW = 4\ud835\udc4eWbR \u22124\ud835\udc4eWb1 for \ud835\udc5b\u22652. Find the first 5 terms of the sequence. \n \n(3 marks) \n(ii) \nFind \nR\nWX1 (WXS)\nd\nWeR\n using the method of partial fractions. \n(12 marks)",
+    "text": "(i) \nA sequence is defined recursively by \ud835\udc4e\\ = 1, \ud835\udc4eR = 4 and \n\ud835\udc4eW = 4\ud835\udc4eWbR \u22124\ud835\udc4eWb1 for \ud835\udc5b\u22652. Find the first 5 terms of the sequence. \n \n(3 marks)\n(ii) \nFind \nR\nWX1\n(WXS)\nd\nWeR\n using the method of partial fractions. \n(12 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
-      "Other"
+      "Algorithms & Complexity",
+      "Algebra"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -234,7 +237,7 @@
   {
     "question_number": 1,
     "part": "a",
-    "text": "The universal set is {0, 1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026,15}  \n \nLet A = {3, 4, 6, 9, 10, 14, 15} and B = {3, 4, 5, 8, 10, 11} and \n  \nC = {3, 5, 6, 7, 11, 12, 14}.   \n \n(i) \nRepresent the sets U, A, B and C in a Venn diagram, marking all the elements \nin the appropriate places. \n \n(5 marks) \n \n(ii) \nList the elements of the following sets:  \n(Explain your answers fully by showing ALL intermediate steps) \n \n(1) \ud835\udc34\u222a\ud835\udc35$\\( \ud835\udc34\u2229\ud835\udc35))  \n(2) \ud835\udc36\\(\ud835\udc34\u2229\ud835\udc35)) \n(10 marks)",
+    "text": "The universal set is {0, 1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026,15}  \n \nLet A = {3, 4, 6, 9, 10, 14, 15} and B = {3, 4, 5, 8, 10, 11} and \n  \nC = {3, 5, 6, 7, 11, 12, 14}.\n(i) \nRepresent the sets U, A, B and C in a Venn diagram, marking all the elements \nin the appropriate places. \n \n(5 marks)\n(ii) \nList the elements of the following sets:  \n(Explain your answers fully by showing ALL intermediate steps)\n(1) \ud835\udc34\u222a\ud835\udc35$\\( \ud835\udc34\u2229\ud835\udc35))\n(2) \ud835\udc36\\(\ud835\udc34\u2229\ud835\udc35)) \n(10 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -253,7 +256,7 @@
   {
     "question_number": 1,
     "part": "b",
-    "text": "(i) Given the relation R such that R = \n\ud835\udc5a, \ud835\udc5b\u2208\ud835\udc45 \ud835\udc5a, \ud835\udc5b \ud835\udf16 \ud835\udc34, and \ud835\udc5a2 \u2212\ud835\udc5b \u2208\ud835\udc34} when  \n \nA is the set {0, 1, 2, 3, 4} \n \n(1) \nExpress the relation R as a set of ordered pairs. \n(2 marks) \n \n(2) \nDraw a digraph to represent this relation. \n(2 marks) \n \n(3) \nInvestigate whether the relation is antisymmetric and/or transitive.  \n(Explain your answer fully using the validity of recognised definitions and \nspecifics from the example. \n \n(6 marks) \n \n(ii) Given \ud835\udc53\ud835\udc65= \u22123\ud835\udc65\u22126 + 12 when \ud835\udc65\u22652. Find the domain of the function. \n      Hence find \ud835\udc53=> \ud835\udc65 and give the domain for \ud835\udc53=> \ud835\udc65. \n \n(10 marks)",
+    "text": "(i) Given the relation R such that R = \n\ud835\udc5a, \ud835\udc5b\u2208\ud835\udc45 \ud835\udc5a, \ud835\udc5b \ud835\udf16 \ud835\udc34, and \ud835\udc5a2 \u2212\ud835\udc5b \u2208\ud835\udc34} when  \n \nA is the set {0, 1, 2, 3, 4}\n(1) \nExpress the relation R as a set of ordered pairs. \n(2 marks)\n(2) \nDraw a digraph to represent this relation. \n(2 marks)\n(3) \nInvestigate whether the relation is antisymmetric and/or transitive.  \n(Explain your answer fully using the validity of recognised definitions and \nspecifics from the example. \n \n(6 marks)\n(ii) Given \ud835\udc53\ud835\udc65= \u22123\ud835\udc65\u22126 + 12 when \ud835\udc65\u22652. Find the domain of the function. \n      Hence find \ud835\udc53=> \ud835\udc65 and give the domain for \ud835\udc53=> \ud835\udc65. \n \n(10 marks)",
     "marks": 20.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -274,7 +277,7 @@
   {
     "question_number": 1,
     "part": "c",
-    "text": "Investigate whether \ud835\udc43\u2229\ud835\udc44\u222a\ud835\udc43$ \u222a\ud835\udc45$ is equivalent to \n(\ud835\udc43\u222a\ud835\udc44) \u2229(\ud835\udc43\u222a\ud835\udc44$) \u2229(\ud835\udc43) \u222a\ud835\udc44\u222a \ud835\udc45)), using a method of set theory. Specify which \nlaw is valid at each step.(See tables at end of paper)  \n (15 marks)",
+    "text": "Investigate whether \ud835\udc43\u2229\ud835\udc44\u222a\ud835\udc43$ \u222a\ud835\udc45$ is equivalent to \n(\ud835\udc43\u222a\ud835\udc44) \u2229(\ud835\udc43\u222a\ud835\udc44$) \u2229\n(\ud835\udc43) \u222a\ud835\udc44\u222a \ud835\udc45)), using a method of set theory. Specify which \nlaw is valid at each step.(See tables at end of paper)  \n (15 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -337,7 +340,8 @@
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
     "topic": [
-      "Sets"
+      "Sets",
+      "Logic & Propositional Logic"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -356,7 +360,7 @@
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -370,7 +374,7 @@
   {
     "question_number": 3,
     "part": "b",
-    "text": "(i) Use appropriate rules in probability to find how many numbers in the : \n \n(1) Range of numbers from 500 to 9999 if there are no restrictions?  \n \n(2) Range of numbers from 500 to 9999 if the number must be odd. \n \n(3) Range of numbers from 500 to 9999 if no digit can be repeated.  \n[Marks may be lost if method is not shown] \n(3x5 marks) \n \n(ii) From a haulage company\u2019s records, 4% of deliveries are made in error. If twenty \ntrips are planned next week, calculate the probability that there will be at least two \nerroneous deliveries, using the binomial distribution method. \n(10 marks)",
+    "text": "(i) Use appropriate rules in probability to find how many numbers in the :\n(1) Range of numbers from 500 to 9999 if there are no restrictions?\n(2) Range of numbers from 500 to 9999 if the number must be odd.\n(3) Range of numbers from 500 to 9999 if no digit can be repeated.  \n[Marks may be lost if method is not shown] \n(3x5 marks)\n(ii) From a haulage company\u2019s records, 4% of deliveries are made in error. If twenty \ntrips are planned next week, calculate the probability that there will be at least two \nerroneous deliveries, using the binomial distribution method. \n(10 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -409,7 +413,7 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "(i) Draw the simple graph with six vertices of the following degrees:  \n 2, 3, 3, 4, 5, 5 \n(5 marks) \n \n(ii)  Construct a K[,T graph (if possible) from the graph in Fig1 below and      \ninvestigate whether the graph is bipartite. Justify your answer using appropriate \ncriteria for bipartite. \n \n \nFig 1 \n(10 marks)",
+    "text": "(i) Draw the simple graph with six vertices of the following degrees:  \n 2, 3, 3, 4, 5, 5 \n(5 marks)\n(ii)  Construct a K[,T graph (if possible) from the graph in Fig1 below and      \ninvestigate whether the graph is bipartite. Justify your answer using appropriate \ncriteria for bipartite. \n \n \nFig 1 \n(10 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -428,7 +432,7 @@
   {
     "question_number": 4,
     "part": "b",
-    "text": "(i)  Investigate whether graphs G and H in Fig 2 below are isomorphic. Justify your \nanswer using appropriate criteria for isomorphism. \n \n \nG \n \n \n \n \n \n \nH \nFig 2  \n(10 marks) \n \n(ii) Write out the degree of each node A to G and investigate whether the graph in Fig 3 \nbelow is Eulerian. Justify your answer. \n \n \n \n \n \n \n \nFig 3 \n(10 marks)",
+    "text": "(i)  Investigate whether graphs G and H in Fig 2 below are isomorphic. Justify your \nanswer using appropriate criteria for isomorphism. \n \n \nG \n \n \n \n \n \n \nH \nFig 2  \n(10 marks)\n(ii) Write out the degree of each node A to G and investigate whether the graph in Fig 3 \nbelow is Eulerian. Justify your answer. \n \n \n \n \n \n \n \nFig 3 \n(10 marks)",
     "marks": 20.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -447,7 +451,7 @@
   {
     "question_number": 4,
     "part": "c",
-    "text": "(i) \nSolve the recurrence relation \n\ud835\udc4e] = 5\ud835\udc4e]=> \u22126\ud835\udc4e]=2 for \ud835\udc5b\u22652, \ud835\udc4eY = 1, \ud835\udc4e> = 0 \n \n(10 marks) \n \n(ii) \nFind using the method of partial sums \n>\n2_\n`\nab>\n \n(5 marks)",
+    "text": "(i) \nSolve the recurrence relation \n\ud835\udc4e] = 5\ud835\udc4e]=> \u22126\ud835\udc4e]=2 for \ud835\udc5b\u22652, \ud835\udc4eY = 1, \ud835\udc4e> = 0 \n \n(10 marks)\n(ii) \nFind using the method of partial sums \n>\n2_\n`\nab>\n \n(5 marks)",
     "marks": 15.0,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -498,7 +502,7 @@
   {
     "question_number": 1,
     "part": "c",
-    "text": "Determine if the following functions are one-to-one and/or onto and use these to\ndetermine whether the function is a bijection.\nAssume both functions are such\nwhere f : R \u2192R\n(i)\nf(x) = 3x + 1\n(ii)\nf(x) = x2 \u22125\n(10 marks)",
+    "text": "Determine if the following functions are one-to-one and/or onto and use these to\ndetermine whether the function is a bijection.\nAssume both functions are such\nwhere f : R \u2192R\n(i)\nf\n(x) = 3x + 1\n(ii)\nf\n(x) = x2 \u22125\n(10 marks)",
     "marks": 10.0,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
@@ -554,7 +558,8 @@
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
-      "Other"
+      "Sets",
+      "Logic & Propositional Logic"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -592,7 +597,7 @@
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -611,7 +616,8 @@
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
-      "Relations & Functions"
+      "Relations & Functions",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -681,7 +687,7 @@
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
-      "Other"
+      "Sets"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -755,13 +761,14 @@
   {
     "question_number": 2,
     "part": "a",
-    "text": "In the following Python code three functions are implemented.\nThe purpose of\nthese functions is to check various properties of the relation relation, from the set\nsource to the set target.\nFor each function, identify the property being tested and\nexplain your answer.\ndef\nisPropertyA ( source ,\ntarget ,\nr e l a t i o n ) :\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn len (T)==len ( r e l a t i o n )\n5\ndef\nisPropertyB ( source ,\ntarget ,\nr e l a t i o n ) :\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn T==target\n10\ndef\nisPropertyC ( source ,\ntarget ,\nr e l a t i o n ) :\nS = { pair [ 0 ]\nfor\npair\nin\nr e l a t i o n }\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn S==source and len (S)==len ( r e l a t i o n ) and T. i s s u b s e t ( t a r g et )\n(7 marks)",
+    "text": "In the following Python code three functions are implemented.\nThe purpose of\nthese functions is to check various properties of the relation relation, from the set\nsource to the set target.\nFor each function, identify the property being tested and\nexplain your answer.\ndef\nisPropertyA ( source ,\ntarget ,\nr e l a t i o n ) :\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn len\n(T)==len ( r e l a t i o n )\n5\ndef\nisPropertyB ( source ,\ntarget ,\nr e l a t i o n ) :\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn T==target\n10\ndef\nisPropertyC ( source ,\ntarget ,\nr e l a t i o n ) :\nS = { pair [ 0 ]\nfor\npair\nin\nr e l a t i o n }\nT = { pair [ 1 ]\nfor\npair\nin\nr e l a t i o n }\nreturn S==source and len\n(S)==len ( r e l a t i o n ) and T. i s s u b s e t ( t a r g et )\n(7 marks)",
     "marks": 7.0,
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
       "Sets",
-      "Relations & Functions"
+      "Relations & Functions",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -818,7 +825,7 @@
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -837,7 +844,8 @@
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -870,12 +878,12 @@
   {
     "question_number": 3,
     "part": "d",
-    "text": "Consider the follow diagram, consisting of two rows of seven dots.\nHow many\n(i)\nSquares\n(ii)\nQuadrilaterals\ncan be drawn using the dots as vertices (corners).\n(7 marks)",
+    "text": "Consider the follow diagram, consisting of two rows of seven dots.\nHow many\n(i)\nSquares\n(ii)\nQuadrilaterals\ncan be drawn using the dots as vertices\n(corners).\n(7 marks)",
     "marks": 7.0,
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
-      "Other"
+      "Graph Theory"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -889,7 +897,7 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.\n(4 marks)",
+    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf\n(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.\n(4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
@@ -932,7 +940,7 @@
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -965,7 +973,7 @@
   {
     "question_number": 1,
     "part": "a",
-    "text": "Translate into symbols each of the following. Use E(x) for \u201cx is even\u201d and O(x) for\n\u201cx is odd.\u201d\n(i)\nNo integer is both even and odd.\n(ii)\nOne more than any even integer is an odd integer.\n(iii) There is prime number that is even.\n(iv) Between any two real numbers there is a third number.\n(v)\nThere is no integer between an integer and one more than that integer.\n(10 marks)",
+    "text": "Translate into symbols each of the following. Use E\n(x) for \u201cx is even\u201d and O\n(x) for\n\u201cx is odd.\u201d\n(i)\nNo integer is both even and odd.\n(ii)\nOne more than any even integer is an odd integer.\n(iii) There is prime number that is even.\n(iv) Between any two real numbers there is a third number.\n(v)\nThere is no integer between an integer and one more than that integer.\n(10 marks)",
     "marks": 10.0,
     "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
     "year": 2017,
@@ -1001,7 +1009,8 @@
     "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
     "year": 2017,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard"
   },
@@ -1044,7 +1053,7 @@
     "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
     "year": 2017,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -1089,7 +1098,7 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Let f : X \u2192Y and g : Y \u2192Z be functions, and consider the composition function\ng \u25e6f de\ufb01ned by mapping x 7\u2192g(f(x)).\n(i)\nIf f and g are both injective, must g \u25e6f be injective? Explain.\n(ii)\nIf f and g are both surjective, must g \u25e6f be surjective? Explain.\n(iii) Suppose g \u25e6f is injective. What, if anything, can you say about f and g?\nExplain.\n(iv) Suppose g \u25e6f is surjective. What, if anything, can you say about f and g?\nExplain.\n(8 marks)",
+    "text": "Let f : X \u2192Y and g : Y \u2192Z be functions, and consider the composition function\ng \u25e6f de\ufb01ned by mapping x 7\u2192g(f\n(x)).\n(i)\nIf f and g are both injective, must g \u25e6f be injective? Explain.\n(ii)\nIf f and g are both surjective, must g \u25e6f be surjective? Explain.\n(iii) Suppose g \u25e6f is injective. What, if anything, can you say about f and g?\nExplain.\n(iv) Suppose g \u25e6f is surjective. What, if anything, can you say about f and g?\nExplain.\n(8 marks)",
     "marks": 8.0,
     "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
     "year": 2017,
@@ -1208,7 +1217,7 @@
     "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
     "year": 2017,
     "topic": [
-      "Other"
+      "Combinatorics"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1260,13 +1269,14 @@
   {
     "question_number": 1,
     "part": "c",
-    "text": "Consider the functions de\ufb01ned by the following Python code:\n(recall that // is integer division, and \u2217\u2217is exponentiation (powers).)\ndef\nf (x ) :\nreturn x \u2217\u22172\n4\ndef g (x ) :\nreturn x + 1\n7\ndef h(x ) :\nreturn x // 2\nEvaluate the following:\n(i)\nf(5)\n(ii)\nf(g(2))\n(iii) h(3)\n(iv) f(g(h(1)))\n(v)\nf(5) + g(7)\n(vi) f(f(f(f(2))))\n(6 marks)",
+    "text": "Consider the functions de\ufb01ned by the following Python code:\n(recall that // is integer division, and \u2217\u2217is exponentiation\n(powers).)\ndef\nf (x ) :\nreturn x \u2217\u22172\n4\ndef g (x ) :\nreturn x + 1\n7\ndef h(x ) :\nreturn x // 2\nEvaluate the following:\n(i)\nf\n(5)\n(ii)\nf(g\n(2))\n(iii) h\n(3)\n(iv) f(g(h\n(1)))\n(v)\nf\n(5) + g\n(7)\n(vi) f(f(f(f\n(2))))\n(6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
     "topic": [
       "Relations & Functions",
-      "Number Theory"
+      "Number Theory",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1300,12 +1310,12 @@
   {
     "question_number": 2,
     "part": "b",
-    "text": "Consider the follow diagram, consisting of three rows of eight dots.\nHow many\n(i)\nSquares (Hint: Count 1 \u00d7 1 and 2 \u00d7 2 sized squares separately.)\n(ii)\nRectangles (Hint: Count cases based on top row of rectangle.)\n(iii) Right angled triangles\ncan be drawn using the dots as vertices (corners).\n(9 marks)",
+    "text": "Consider the follow diagram, consisting of three rows of eight dots.\nHow many\n(i)\nSquares (Hint: Count 1 \u00d7 1 and 2 \u00d7 2 sized squares separately.)\n(ii)\nRectangles (Hint: Count cases based on top row of rectangle.)\n(iii) Right angled triangles\ncan be drawn using the dots as vertices\n(corners).\n(9 marks)",
     "marks": 9.0,
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
     "topic": [
-      "Other"
+      "Graph Theory"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1357,12 +1367,13 @@
   {
     "question_number": 3,
     "part": "b",
-    "text": "Consider the Collatz function with de\ufb01nition and Python implementation\nf(n) =\n(\n3n + 1\nn odd\nn/2\nn even\ndef\nf (n ) :\ni f n%2==1:\nreturn 3 \u2217n + 1\nelse :\nreturn n // 2\nAlso implemented in python are the following functions\ndef g (n ) :\nreturn f ( f ( f (n ) ) )\n4\ndef h(n ) :\nr e s u l t = [ n ]\nwhile n!=1:\nn = f (n)\nr e s u l t . append (n)\nreturn\nr e s u l t\n(i)\nWhat is the output of f(7)? and f(10)?\n(ii)\nWhat is the output of h(12)?\n(iii) What is the output of g(10)?\n(iv) For which values of n does the expression g(n)==n compute to True ?\n(8 marks)",
+    "text": "Consider the Collatz function with de\ufb01nition and Python implementation\nf\n(n) =\n(\n3n + 1\nn odd\nn/2\nn even\ndef\nf (n ) :\ni f n%2==1:\nreturn 3 \u2217n + 1\nelse :\nreturn n // 2\nAlso implemented in python are the following functions\ndef g (n ) :\nreturn f ( f ( f (n ) ) )\n4\ndef h(n ) :\nr e s u l t = [ n ]\nwhile n!=1:\nn = f\n(n)\nr e s u l t . append\n(n)\nreturn\nr e s u l t\n(i)\nWhat is the output of f\n(7)? and f\n(10)?\n(ii)\nWhat is the output of h\n(12)?\n(iii) What is the output of g\n(10)?\n(iv) For which values of n does the expression g\n(n)==n compute to True ?\n(8 marks)",
     "marks": 8.0,
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
     "topic": [
-      "Relations & Functions"
+      "Relations & Functions",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1376,7 +1387,7 @@
   {
     "question_number": 3,
     "part": "c",
-    "text": "Let S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P(S)|.\n(iii) How many subsets of cardinality 4 have {2, 4, 6} as a subset?\n(iv) How many subsets of cardinality 4 contain at least one prime (2, 3, or 5)?\n(v)\nHow many subsets of cardinality 4 contain exactly one prime?\n(10 marks)",
+    "text": "Let S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P\n(S)|.\n(iii) How many subsets of cardinality 4 have {2, 4, 6} as a subset?\n(iv) How many subsets of cardinality 4 contain at least one prime (2, 3, or 5)?\n(v)\nHow many subsets of cardinality 4 contain exactly one prime?\n(10 marks)",
     "marks": 10.0,
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
@@ -1401,7 +1412,7 @@
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
     "topic": [
-      "Other"
+      "Sets"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1474,7 +1485,7 @@
   {
     "question_number": 5,
     "part": "b",
-    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.\n(4 marks)",
+    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf\n(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.\n(4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
@@ -1498,7 +1509,7 @@
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1556,7 +1567,8 @@
     "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
     "year": 2022,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1710,7 +1722,8 @@
     "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
     "year": 2022,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -1767,7 +1780,7 @@
     "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
     "year": 2022,
     "topic": [
-      "Other"
+      "Sets"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -1786,7 +1799,7 @@
     "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
     "year": 2022,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1882,7 +1895,8 @@
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1939,7 +1953,7 @@
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
-      "Other"
+      "Logic & Propositional Logic"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -1958,7 +1972,8 @@
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
-      "Number Theory"
+      "Number Theory",
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -1972,7 +1987,7 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4, 5} given by the table below:\nx\n2\n4\n6\nf(x)\n3\n1\n4\n(i)\nUse a Venn diagram to represent the function f.\n(ii)\nGraph the function f as points on the plane.\n(iii) Is f injective? Explain.\n(iv) Is f surjective? Explain.\n(6 marks)",
+    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4, 5} given by the table below:\nx\n2\n4\n6\nf\n(x)\n3\n1\n4\n(i)\nUse a Venn diagram to represent the function f.\n(ii)\nGraph the function f as points on the plane.\n(iii) Is f injective? Explain.\n(iv) Is f surjective? Explain.\n(6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
@@ -1993,14 +2008,15 @@
   {
     "question_number": 3,
     "part": "b",
-    "text": "Let R be the relation on the set A as given in the Python code below:\nA = {1 ,2 ,3 ,4 ,5 ,6}\nR = {(a , b) for a in A for b in A i f\na%3 == b%3}\nprint (R)\n(i)\nWhat does the print statement output?\n(ii)\nRepresent R using a digraph.\n(iii) Is R re\ufb02exive? symmetric? transitive?\n(iv) Is R an equivalence relation? and if yes, what are the resulting equivalence\nclasses?\n(8 marks)",
+    "text": "Let R be the relation on the set A as given in the Python code below:\nA = {1 ,2 ,3 ,4 ,5 ,6}\nR = {(a , b) for a in A for b in A i f\na%3 == b%3}\nprint\n(R)\n(i)\nWhat does the print statement output?\n(ii)\nRepresent R using a digraph.\n(iii) Is R re\ufb02exive? symmetric? transitive?\n(iv) Is R an equivalence relation? and if yes, what are the resulting equivalence\nclasses?\n(8 marks)",
     "marks": 8.0,
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
       "Sets",
       "Relations & Functions",
-      "Graph Theory"
+      "Graph Theory",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2077,7 +2093,7 @@
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
-      "Other"
+      "Sets"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2091,12 +2107,12 @@
   {
     "question_number": 5,
     "part": "a",
-    "text": "Consider the following diagram, consisting of two rows of six dots.\nHow many\n(i) Squares\n(ii) Right-angled triangles\n(iii) Triangles\ncan be drawn using the dots as vertices (corners).\n(8 marks)",
+    "text": "Consider the following diagram, consisting of two rows of six dots.\nHow many\n(i) Squares\n(ii) Right-angled triangles\n(iii) Triangles\ncan be drawn using the dots as vertices\n(corners).\n(8 marks)",
     "marks": 8.0,
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
-      "Other"
+      "Graph Theory"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2129,7 +2145,7 @@
   {
     "question_number": 5,
     "part": "c",
-    "text": "(i)\nWhat does the following function do? (Justify your answer.)\ndef calculateWhat (n ) :\ni f n == 0 or n == 1:\nreturn 1\nreturn n\u2217calculateWhat (n\u22121)\n(ii)\nWhat value will calculateWhat(5) return?\n(5 marks)",
+    "text": "(i)\nWhat does the following function do? (Justify your answer.)\ndef calculateWhat (n ) :\ni f n == 0 or n == 1:\nreturn 1\nreturn n\u2217calculateWhat (n\u22121)\n(ii)\nWhat value will calculateWhat\n(5) return?\n(5 marks)",
     "marks": 5.0,
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
@@ -2168,12 +2184,12 @@
   {
     "question_number": 1,
     "part": "b",
-    "text": "What does the following code output? (Justify your answer.)\nA = {3 ,\n5 , 7}\nB = {3 ,\n5 ,\n6 , 7}\n4\nfor x in A:\ni f\nx not in B:\nprint ( False )\nbreak\nelse :\nprint ( len (A)<len (B))\n(4 marks)",
+    "text": "What does the following code output? (Justify your answer.)\nA = {3 ,\n5 , 7}\nB = {3 ,\n5 ,\n6 , 7}\n4\nfor x in A:\ni f\nx not in B:\nprint ( False )\nbreak\nelse :\nprint ( len\n(A)<len\n(B))\n(4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2187,7 +2203,7 @@
   {
     "question_number": 1,
     "part": "c",
-    "text": "Let S = {1, 2, 4, 8, 16, 32}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 13?\n([1 + 1 + 2] 4 marks)",
+    "text": "Let S = {1, 2, 4, 8, 16, 32}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P\n(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 13?\n([1 + 1 + 2] 4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
@@ -2225,12 +2241,13 @@
   {
     "question_number": 2,
     "part": "b",
-    "text": "Consider the following code\nmessage = \u2019Hi ,\nI am 2. \u2019\nprint ( \u2019 char \u2019 ,\n\u2019A\u2019 ,\n\u2019B \u2019 ,\n\u2019C \u2019 ,\n\u2019D\u2019 ,\n\u2019E \u2019 ,\nsep=\"\\ t \" )\nfor c in message :\nprint ( c ,\nc . islower () ,\nc . isupper () ,\nc . isalpha () ,\nc . i s d i g i t () ,\nsep=\"\\ t \" )\nwhich produces the following table (only the \ufb01rst three rows are shown).\nchar\nA\nB\nC\nD\nH\nFalse\nTrue\nTrue\nFalse\ni\nTrue\nFalse\nTrue\nFalse\n,\nFalse\nFalse\nFalse\nFalse\nI\na\nm\n.\nWe have predicate\nA(c) = \u201ccharacter c is a lower case letter.\u2032\u2032\nand similarly for B(c), C(c), and D(c).\nComplete the given table and determine the truth value of the following quanti\ufb01ers.\n(Justify your answers)\n(i)\nall ([c.isupper() for c in message])\n(ii)\n\u2203c\n\u0002\nB(c) \u2227C(c)\n\u0003\n(iii) \u2200c\n\u0002\nC(c) \u2192(A(c) \u2228B(c))\n\u0003\n(iv)\nany([c. isdigit () and c.isalpha() for c in message])\n([4 + 4 \u00d7 3] 16 marks)",
+    "text": "Consider the following code\nmessage = \u2019Hi ,\nI am 2. \u2019\nprint ( \u2019 char \u2019 ,\n\u2019A\u2019 ,\n\u2019B \u2019 ,\n\u2019C \u2019 ,\n\u2019D\u2019 ,\n\u2019E \u2019 ,\nsep=\"\\ t \" )\nfor c in message :\nprint ( c ,\nc . islower () ,\nc . isupper () ,\nc . isalpha () ,\nc . i s d i g i t () ,\nsep=\"\\ t \" )\nwhich produces the following table (only the \ufb01rst three rows are shown).\nchar\nA\nB\nC\nD\nH\nFalse\nTrue\nTrue\nFalse\ni\nTrue\nFalse\nTrue\nFalse\n,\nFalse\nFalse\nFalse\nFalse\nI\na\nm\n.\nWe have predicate\nA\n(c) = \u201ccharacter c is a lower case letter.\u2032\u2032\nand similarly for B\n(c), C\n(c), and D\n(c).\nComplete the given table and determine the truth value of the following quanti\ufb01ers.\n(Justify your answers)\n(i)\nall ([c.isupper() for c in message])\n(ii)\n\u2203c\n\u0002\nB\n(c) \u2227C\n(c)\n\u0003\n(iii) \u2200c\n\u0002\nC\n(c) \u2192(A\n(c) \u2228B\n(c))\n\u0003\n(iv)\nany([c. isdigit () and c.isalpha() for c in message])\n([4 + 4 \u00d7 3] 16 marks)",
     "marks": 16.0,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Logic & Propositional Logic",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2269,7 +2286,7 @@
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2288,7 +2305,7 @@
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2322,7 +2339,7 @@
   {
     "question_number": 4,
     "part": "b",
-    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. (Justify your answers.)\n(i)\n5 \u2208C\n(ii)\n{9} in C\n(iii)\n{3} \u2286A\n(iv)\nA.intersection(B).issubset(B.union(C))\n(v)\nB \u2286A\n(vi)\nB.union(C).intersection(A). isdisjoint (C)\n(6 marks)",
+    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. (Justify your answers.)\n(i)\n5 \u2208C\n(ii)\n{9} in C\n(iii)\n{3} \u2286A\n(iv)\nA.intersection\n(B).issubset(B.union\n(C))\n(v)\nB \u2286A\n(vi)\nB.union\n(C).intersection\n(A). isdisjoint\n(C)\n(6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
@@ -2365,7 +2382,7 @@
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2400,12 +2417,13 @@
   {
     "question_number": 5,
     "part": "c",
-    "text": "Consider the functions de\ufb01ned by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf(4)\n(ii)\ng(2)\n(iii)\nf(5) + g(2) \u2212h(4)\n(iv)\nf(g(1))\n(v)\ng(h(2))\n(vi)\nh(f(3))\n([6 \u00d7 1] 6 marks)",
+    "text": "Consider the functions de\ufb01ned by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf\n(4)\n(ii)\ng\n(2)\n(iii)\nf\n(5) + g\n(2) \u2212h\n(4)\n(iv)\nf(g\n(1))\n(v)\ng(h\n(2))\n(vi)\nh(f\n(3))\n([6 \u00d7 1] 6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
-      "Relations & Functions"
+      "Relations & Functions",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2424,7 +2442,7 @@
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2476,13 +2494,14 @@
   {
     "question_number": 2,
     "part": "a",
-    "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn x\u2217\u22172 \u22124\u2217x \u22125\ndef g (x ) :\nreturn x + 5\ndef h(x ) :\nreturn x \u22125\ndef\nj (x ) :\nreturn x//2\ndef k(x ) :\nreturn 2\u2217x\nEvaluate the following (note, show all work):\n(i) g(h(4))\n(ii) h(g(5))\n(iii) f(g(h(3)))\n(iv) k(j(7))\n(v) j(j(g(2)))\n(5 marks)",
+    "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn x\u2217\u22172 \u22124\u2217x \u22125\ndef g (x ) :\nreturn x + 5\ndef h(x ) :\nreturn x \u22125\ndef\nj (x ) :\nreturn x//2\ndef k(x ) :\nreturn 2\u2217x\nEvaluate the following (note, show all work):\n(i) g(h\n(4))\n(ii) h(g\n(5))\n(iii) f(g(h\n(3)))\n(iv) k(j\n(7))\n(v) j(j(g\n(2)))\n(5 marks)",
     "marks": 5.0,
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
       "Relations & Functions",
-      "Number Theory"
+      "Number Theory",
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2554,12 +2573,13 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Consider the sets defined by the Python code\nU = set (range (1 ,\n10))\nA = set (range (1 ,\n8 ,\n2))\nB = set (range (2 ,\n9 ,\n2))\nC = set (range (3 ,\n6))\nD = A. i n t e r s e c t i o n (C) . union (U. d i f f e r e n c e (B))\nE = U. d i f f e r e n c e (A. union (B) . i n t e r s e c t i o n (C))\nF = A. union (U. d i f f e r e n c e (B))\n;\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)",
+    "text": "Consider the sets defined by the Python code\nU = set (range (1 ,\n10))\nA = set (range (1 ,\n8 ,\n2))\nB = set (range (2 ,\n9 ,\n2))\nC = set (range (3 ,\n6))\nD = A. i n t e r s e c t i o n\n(C) . union (U. d i f f e r e n c e\n(B))\nE = U. d i f f e r e n c e (A. union\n(B) . i n t e r s e c t i o n\n(C))\nF = A. union (U. d i f f e r e n c e\n(B))\n;\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
-      "Sets"
+      "Sets",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2618,7 +2638,8 @@
     "topic": [
       "Sets",
       "Relations & Functions",
-      "Graph Theory"
+      "Graph Theory",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2637,7 +2658,7 @@
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2656,7 +2677,8 @@
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
-      "Number Theory"
+      "Number Theory",
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2670,12 +2692,13 @@
   {
     "question_number": 5,
     "part": "b",
-    "text": "Consider the following code:\npassword = \u2019AaBb12#$ \u2019\nprint ( \u2019 char \u2019 ,\n\u2019A\u2019 ,\n\u2019B \u2019 ,\n\u2019C \u2019 ,\n\u2019D\u2019 ,\nsep=\"\\ t \" )\nfor c in password\n:\nprint ( c ,\nc . i s d i g i t () ,\nc . isupper () , c . islower () ,\nc . isalpha () ,\nsep=\"\\ t \" )\nwhich produces the following table (only the first three rows are filled in).\nchar\nD\nU\nL\nA\nA\nFalse\nTrue\nFalse\nTrue\na\nFalse\nFalse\nTrue\nTrue\nB\nFalse\nTrue\nFalse\nTrue\nb\n2\n#\n$\nWe have predicate\nD(c) = \u201cCharacter c is a digit.\u201d\nand similarly we have predicates for U(c), L(c), and A(c).\nComplete the given table and determine the truth value of the following quantifiers.\n(i)\nany([c. isdigit () for c in password])\n(ii)\nall ([c.isalpha or c. isdigit () or c.isupper() for c in password])\n(iii) \u2204c\n\u0002\nU(c) \u2227L(c)\n\u0003\n(iv) \u2203c\n\u0002\n\u00acU(c) \u2227\u00acL(c) \u2227\u00acD(c) \u2227\u00acA(c)\n\u0003\n([4 + 4 \u00d7 3] 16 marks)",
+    "text": "Consider the following code:\npassword = \u2019AaBb12#$ \u2019\nprint ( \u2019 char \u2019 ,\n\u2019A\u2019 ,\n\u2019B \u2019 ,\n\u2019C \u2019 ,\n\u2019D\u2019 ,\nsep=\"\\ t \" )\nfor c in password\n:\nprint ( c ,\nc . i s d i g i t () ,\nc . isupper () , c . islower () ,\nc . isalpha () ,\nsep=\"\\ t \" )\nwhich produces the following table (only the first three rows are filled in).\nchar\nD\nU\nL\nA\nA\nFalse\nTrue\nFalse\nTrue\na\nFalse\nFalse\nTrue\nTrue\nB\nFalse\nTrue\nFalse\nTrue\nb\n2\n#\n$\nWe have predicate\nD\n(c) = \u201cCharacter c is a digit.\u201d\nand similarly we have predicates for U\n(c), L\n(c), and A\n(c).\nComplete the given table and determine the truth value of the following quantifiers.\n(i)\nany([c. isdigit () for c in password])\n(ii)\nall ([c.isalpha or c. isdigit () or c.isupper() for c in password])\n(iii) \u2204c\n\u0002\nU\n(c) \u2227L\n(c)\n\u0003\n(iv) \u2203c\n\u0002\n\u00acU\n(c) \u2227\u00acL\n(c) \u2227\u00acD\n(c) \u2227\u00acA\n(c)\n\u0003\n([4 + 4 \u00d7 3] 16 marks)",
     "marks": 16.0,
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
-      "Other"
+      "Logic & Propositional Logic",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2733,7 +2756,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2810,7 +2833,8 @@
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algorithms & Complexity",
+      "Algebra"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2824,12 +2848,12 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Let f : R \u2192R be defined by f(x) = 3x \u22125.\n(i)\nExplain why f has a inverse.\n(ii)\nDetermine f \u22121(x).\n(iii) Verify that f \u22121(f(x)) = x and f(f \u22121(x)) = x.\n([1 + 2 + 2] 5 marks)",
+    "text": "Let f : R \u2192R be defined by f\n(x) = 3x \u22125.\n(i)\nExplain why f has a inverse.\n(ii)\nDetermine f \u22121\n(x).\n(iii) Verify that f \u22121(f\n(x)) = x and f(f \u22121\n(x)) = x.\n([1 + 2 + 2] 5 marks)",
     "marks": 5.0,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Relations & Functions"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2848,7 +2872,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -2862,12 +2886,12 @@
   {
     "question_number": 3,
     "part": "c",
-    "text": "Consider the following python code. Translate to mathematical notation using sum-\nmation (P) and/or product (Q) notation. Hence, or otherwise, determine the output\ngenerated.\nvar_a = 0\nfor k in range ( 1 , 3 ) :\nvar_b = 1\nfor\nj\nin range(k ) :\nvar_b \u2217= ( j+k)\u2217\u22172\nvar_a += var_b\n8\nprint ( f \"{var_a = }\" )\n(5 marks)",
+    "text": "Consider the following python code. Translate to mathematical notation using sum-\nmation\n(P) and/or product\n(Q) notation. Hence, or otherwise, determine the output\ngenerated.\nvar_a = 0\nfor k in range ( 1 , 3 ) :\nvar_b = 1\nfor\nj\nin range(k ) :\nvar_b \u2217= ( j+k)\u2217\u22172\nvar_a += var_b\n8\nprint ( f \"{var_a = }\" )\n(5 marks)",
     "marks": 5.0,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2886,7 +2910,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -2919,7 +2943,7 @@
   {
     "question_number": 4,
     "part": "b",
-    "text": "Let S = {2, 3, 5, 7, 11, 13, 17}.\n(i)\nHow many subsets are there of cardinality 3?\n(ii)\nHow many subsets of S are there? That is, find |P(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 15?\n([1 + 1 + 2] 4 marks)",
+    "text": "Let S = {2, 3, 5, 7, 11, 13, 17}.\n(i)\nHow many subsets are there of cardinality 3?\n(ii)\nHow many subsets of S are there? That is, find |P\n(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 15?\n([1 + 1 + 2] 4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
@@ -2981,7 +3005,8 @@
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Easy",
     "bbox": [
@@ -2995,12 +3020,13 @@
   {
     "question_number": 5,
     "part": "b",
-    "text": "Consider an employee database system for a company storing Employees and De-\npartments. A developer has coded a function\nf(employee)\nwhich returns the department in which the employee works.\n(i)\nCan this function be injective (one-to-one)? Justify your answer\n(ii)\nCan this function be surjective (onto)? Justify your answer.\n(4 marks)",
+    "text": "Consider an employee database system for a company storing Employees and De-\npartments. A developer has coded a function\nf\n(employee)\nwhich returns the department in which the employee works.\n(i)\nCan this function be injective (one-to-one)? Justify your answer\n(ii)\nCan this function be surjective\n(onto)? Justify your answer.\n(4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Relations & Functions"
+      "Relations & Functions",
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -3014,12 +3040,13 @@
   {
     "question_number": 5,
     "part": "c",
-    "text": "Consider the functions defined by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf(4)\n(ii)\ng(2)\n(iii)\nf(5) + g(2) \u2212h(4)\n(iv)\nf(g(1))\n(v)\ng(h(2))\n(vi)\nh(f(3))\n([6 \u00d7 1] 6 marks)",
+    "text": "Consider the functions defined by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf\n(4)\n(ii)\ng\n(2)\n(iii)\nf\n(5) + g\n(2) \u2212h\n(4)\n(iv)\nf(g\n(1))\n(v)\ng(h\n(2))\n(vi)\nh(f\n(3))\n([6 \u00d7 1] 6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Relations & Functions"
+      "Relations & Functions",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -3128,13 +3155,14 @@
   {
     "question_number": 2,
     "part": "a",
-    "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn (x + 2) \u2217\u22172 \u22129\ndef g (x ) :\nreturn 3 \u2217x \u22121\ndef h(x ) :\nreturn x // 3\ndef\nj (x ) :\nreturn x % 5\ndef k(x ) :\nreturn 4 \u2212x\nEvaluate the following (note, show all work):\n(i) f(g(2))\n(ii) h(k(8))\n(iii) g(h(f(1)))\n(iv) j(k(j(12)))\n(4 marks)",
+    "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn (x + 2) \u2217\u22172 \u22129\ndef g (x ) :\nreturn 3 \u2217x \u22121\ndef h(x ) :\nreturn x // 3\ndef\nj (x ) :\nreturn x % 5\ndef k(x ) :\nreturn 4 \u2212x\nEvaluate the following (note, show all work):\n(i) f(g\n(2))\n(ii) h(k\n(8))\n(iii) g(h(f\n(1)))\n(iv) j(k(j\n(12)))\n(4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
       "Relations & Functions",
-      "Number Theory"
+      "Number Theory",
+      "Code"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -3153,7 +3181,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -3172,7 +3200,8 @@
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Graph Theory"
+      "Graph Theory",
+      "Algorithms & Complexity"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -3186,12 +3215,13 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Consider the sets defined by the following Python code:\nU = set (range (1 ,\n12))\nA = set (range (2 ,\n10 ,\n3))\nB = set (range (1 ,\n12 ,\n2))\nC = set (range (3 ,\n8))\nD = (A. union (B) ) . d i f f e r e n c e (C)\nE = U. d i f f e r e n c e (A. i n t e r s e c t i o n (B))\nF = B. d i f f e r e n c e (A) . union (C. d i f f e r e n c e (B))\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)",
+    "text": "Consider the sets defined by the following Python code:\nU = set (range (1 ,\n12))\nA = set (range (2 ,\n10 ,\n3))\nB = set (range (1 ,\n12 ,\n2))\nC = set (range (3 ,\n8))\nD = (A. union\n(B) ) . d i f f e r e n c e\n(C)\nE = U. d i f f e r e n c e (A. i n t e r s e c t i o n\n(B))\nF = B. d i f f e r e n c e\n(A) . union (C. d i f f e r e n c e\n(B))\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)",
     "marks": 6.0,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Sets"
+      "Sets",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -3243,7 +3273,7 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "A network router uses the following rules to determine the quality of service (QoS)\nfor different types of network traffic. Express each of these rules as a propositional\nlogic expression, using the atomic propositions:\n\u2022 V = \u201cThe traffic is video streaming.\u201d\n\u2022 P = \u201cThe traffic has high priority.\u201d\n\u2022 G = \u201cThe traffic is granted extra bandwidth.\u201d\n(i)\nIf the traffic is video streaming, then it has high priority.\n(ii)\nIf the traffic has high priority and is not granted extra bandwidth, then it is\nnot video streaming.\n(iii) If the traffic is granted extra bandwidth, then it is video streaming or it has\nhigh priority.\n(iv) If the traffic is not video streaming and does not have high priority, then it is\nnot granted extra bandwidth.\n([1 + 3 \u00d7 2] 7 marks)",
+    "text": "A network router uses the following rules to determine the quality of service\n(QoS)\nfor different types of network traffic. Express each of these rules as a propositional\nlogic expression, using the atomic propositions:\n\u2022 V = \u201cThe traffic is video streaming.\u201d\n\u2022 P = \u201cThe traffic has high priority.\u201d\n\u2022 G = \u201cThe traffic is granted extra bandwidth.\u201d\n(i)\nIf the traffic is video streaming, then it has high priority.\n(ii)\nIf the traffic has high priority and is not granted extra bandwidth, then it is\nnot video streaming.\n(iii) If the traffic is granted extra bandwidth, then it is video streaming or it has\nhigh priority.\n(iv) If the traffic is not video streaming and does not have high priority, then it is\nnot granted extra bandwidth.\n([1 + 3 \u00d7 2] 7 marks)",
     "marks": 7.0,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
@@ -3267,7 +3297,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -3286,7 +3316,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algorithms & Complexity"
     ],
     "difficulty": "Medium",
     "bbox": [
@@ -3327,7 +3357,8 @@
     "topic": [
       "Sets",
       "Relations & Functions",
-      "Graph Theory"
+      "Graph Theory",
+      "Code"
     ],
     "difficulty": "Hard",
     "bbox": [
@@ -3341,7 +3372,7 @@
   {
     "question_number": 5,
     "part": "b",
-    "text": "What does the following function do? (Justify your answer).\ndef isWhat (A,B) :\nfor element in A:\ni f\nelement not in B:\nreturn ( False )\nelse :\nreturn ( len (A)==len (B))\n(4 marks)",
+    "text": "What does the following function do? (Justify your answer).\ndef isWhat (A,B) :\nfor element in A:\ni f\nelement not in B:\nreturn ( False )\nelse :\nreturn ( len\n(A)==len\n(B))\n(4 marks)",
     "marks": 4.0,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
@@ -3365,7 +3396,7 @@
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Other"
+      "Algebra"
     ],
     "difficulty": "Medium",
     "bbox": [
