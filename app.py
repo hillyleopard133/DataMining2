@@ -15,7 +15,7 @@ st.title("📚 Exam Question Dashboard")
 # Sidebar Filters
 st.sidebar.header("Filters")
 years = ["All"] + sorted(df["year"].dropna().unique().astype(str).tolist())
-topics = ["All"] + sorted(df["topic"].dropna().unique().tolist())
+topics = ["All"] + sorted({t for sublist in df["topic"].dropna() for t in sublist})
 difficulties = ["All"] + sorted(df["difficulty"].dropna().unique().tolist())
 marks_range = st.sidebar.slider("Marks range", 0, int(df["marks"].max()) if df["marks"].notna().any() else 10, (0, int(df["marks"].max()) if df["marks"].notna().any() else 10))
 
@@ -26,13 +26,18 @@ search_text = st.sidebar.text_input("Search keyword")
 
 # Apply filters
 filtered = df
+
+filtered = filtered[(filtered["marks"].fillna(0) >= marks_range[0]) & (filtered["marks"].fillna(0) <= marks_range[1])]
+
 if year_filter != "All":
     filtered = filtered[filtered["year"] == int(year_filter)]
+
 if topic_filter != "All":
-    filtered = filtered[filtered["topic"] == topic_filter]
+    filtered = filtered[filtered["topic"].apply(lambda x: topic_filter in x)]
+
 if difficulty_filter != "All":
     filtered = filtered[filtered["difficulty"] == difficulty_filter]
-filtered = filtered[(filtered["marks"].fillna(0) >= marks_range[0]) & (filtered["marks"].fillna(0) <= marks_range[1])]
+
 if search_text:
     filtered = filtered[filtered["text"].str.contains(search_text, case=False)]
 

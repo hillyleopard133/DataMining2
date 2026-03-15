@@ -53,7 +53,7 @@ def extract_questions_from_pdf(pdf_path):
                 "marks": int(marks),
                 "source_pdf": os.path.basename(pdf_path),
                 "year": year,
-                "topic": "Unknown",
+                "topic": infer_topic(part_text),
                 "difficulty": infer_difficulty(int(marks))
             })
 
@@ -63,17 +63,42 @@ def extract_questions_from_pdf(pdf_path):
 def extract_year(filename):
     match = re.search(r"\d{4}", filename)
     return int(match.group()) if match else None
-    
+
 def infer_difficulty(marks):
     if marks <= 2: return "Easy"
     elif marks <= 5: return "Medium"
     else: return "Hard"
 
+TOPIC_KEYWORDS = {
+    "Sets": ["set", "union", "intersection", "subset", "superset", "cardinality", "Venn diagram"],
+    "Logic & Propositional Logic": ["logic", "proposition", "logical", "truth table", "implication", "conjunction", "disjunction", "negation", "tautology", "contradiction"],
+    "Relations & Functions": ["relation", "function", "domain", "codomain", "injective", "surjective", "bijective", "composition"],
+    "Graph Theory": ["graph", "vertex", "edge", "adjacency", "degree", "path", "cycle", "tree", "connected", "bipartite", "planar"],
+    "Number Theory": ["prime", "gcd", "lcm", "modulo", "congruence", "divisibility", "integer"],
+    "Algorithms & Complexity": ["algorithm", "complexity", "big O", "time complexity", "space complexity"],
+    "Boolean Algebra": ["boolean", "xor", "minterm", "maxterm", "truth table"],
+    "Probability": ["probability", "random", "event", "outcome", "sample space", "conditional probability"],
+    "Combinatorics": ["binomial", "expansion", "coefficient", "factorial", "permutation", "combination"]
+}
+
+def infer_topic(text):
+    text_lower = text.lower()
+    matched_topics = []
+
+    for topic, keywords in TOPIC_KEYWORDS.items():
+        if any(keyword.lower() in text_lower for keyword in keywords):
+            matched_topics.append(topic)
+
+    if not matched_topics:
+        matched_topics = ["Other"] 
+
+    return matched_topics
+
 def parse_all_pdfs(folder_path="assets/exam_papers", output_json="data/questions.json"):
     all_questions = []
 
     for file in os.listdir(folder_path):
-        if file.lower().endswith(".pdf"):
+        if file.lower().endswith(".pdf") and not file.upper().endswith("MS.PDF"):
             pdf_path = os.path.join(folder_path, file)
             all_questions.extend(extract_questions_from_pdf(pdf_path))
 
