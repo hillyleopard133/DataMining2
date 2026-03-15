@@ -39,22 +39,27 @@ def extract_questions_from_pdf(pdf_path):
         q_text = question_blocks[i + 1]
 
         parts = re.findall(
-            r"\(([a-z])\)(.*?)\((\d+)\s*marks?\)",
+            r"\(([a-h])\)(.*?)(?=\(([a-h])\)|$)",
             q_text,
             flags=re.IGNORECASE | re.DOTALL
         )
 
         for part_letter, part_text, marks in parts:
 
+            m = re.search(r"\((\d+)\s*marks?\)\s*$", part_text, flags=re.IGNORECASE | re.DOTALL)
+            marks = int(m.group(1)) if m else None
+            if m:
+                part_text = part_text[:m.start()].strip()
+
             questions.append({
                 "question_number": q_number,
                 "part": part_letter.lower(),
                 "text": part_text.strip(),
-                "marks": int(marks),
+                "marks": marks,
                 "source_pdf": os.path.basename(pdf_path),
                 "year": year,
                 "topic": infer_topic(part_text),
-                "difficulty": infer_difficulty(int(marks))
+                "difficulty": infer_difficulty(marks)
             })
 
     return questions
@@ -65,8 +70,12 @@ def extract_year(filename):
     return int(match.group()) if match else None
 
 def infer_difficulty(marks):
-    if marks <= 2: return "Easy"
-    elif marks <= 5: return "Medium"
+    if marks is None: total_marks = 0
+    elif isinstance(marks, list): total_marks = sum(marks)
+    else: total_marks = marks
+
+    if total_marks <= 2: return "Easy"
+    elif total_marks <= 5: return "Medium"
     else: return "Hard"
 
 TOPIC_KEYWORDS = {
@@ -93,6 +102,8 @@ def infer_topic(text):
         matched_topics = ["Other"] 
 
     return matched_topics
+
+
 
 def parse_all_pdfs(folder_path="assets/exam_papers", output_json="data/questions.json"):
     all_questions = []

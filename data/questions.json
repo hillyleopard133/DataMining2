@@ -2,19 +2,19 @@
   {
     "question_number": 1,
     "part": "a",
-    "text": "The universal set is {1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026, 18}.  \n \nLet P = {2, 3, 5, 12, 15, 18} and Q = {2, 5, 7, 8, 9, 10, 12} and \n  \nR = {1, 2, 3, 4, 5, 7, 11}.   \n \n(i) \nRepresent the sets U, P, Q and R in a Venn diagram, marking all the elements in \nthe appropriate places.",
-    "marks": 5,
+    "text": "The universal set is {1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026, 18}.  \n \nLet P = {2, 3, 5, 12, 15, 18} and Q = {2, 5, 7, 8, 9, 10, 12} and \n  \nR = {1, 2, 3, 4, 5, 7, 11}.   \n \n(i) \nRepresent the sets U, P, Q and R in a Venn diagram, marking all the elements in \nthe appropriate places. \n \n(5 marks) \n \n(ii) \nList the elements of the following sets:  \n \n(1) \ud835\udc43\" \u2229\ud835\udc44,  \n(2) \ud835\udc43 \u2295 \ud835\udc45  \n(3) \ud835\udc45\\(\ud835\udc43\u222a\ud835\udc44)\"",
+    "marks": 10,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
       "Sets"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Hard"
   },
   {
     "question_number": 1,
     "part": "b",
-    "text": "(i) \nGiven \n\ud835\udc65, \ud835\udc66 \ud835\udc65, \ud835\udc66 \ud835\udf16 \ud835\udc34, and \ud835\udc651 \u2212\ud835\udc661 is divisible by 3} when  \n \nA is the set {0, 1, 2, 3} \n \n(1) Express the relation as a set of ordered pairs. \n \n(2) Draw a digraph to represent this relation. \n \n(3) Investigate whether the relation is an equivalence relation? Explain your \n \nanswer fully.",
+    "text": "(i) \nGiven \n\ud835\udc65, \ud835\udc66 \ud835\udc65, \ud835\udc66 \ud835\udf16 \ud835\udc34, and \ud835\udc651 \u2212\ud835\udc661 is divisible by 3} when  \n \nA is the set {0, 1, 2, 3} \n \n(1) Express the relation as a set of ordered pairs. \n \n(2) Draw a digraph to represent this relation. \n \n(3) Investigate whether the relation is an equivalence relation? Explain your \n \nanswer fully. \n \n (10 marks) \n \n(ii) \n \ud835\udc53: \ud835\udc4d\u2192\ud835\udc4d, \ud835\udc53\ud835\udc65= \u2212\ud835\udc65+ 5 and \ud835\udc54: \ud835\udc4d\u2192\ud835\udc4d, \ud835\udc54\ud835\udc65= \ud835\udc651 \u22122\ud835\udc65+ 1 \n \n(1) Find \ng\nf !\nand \n.f\ng !\n  \n \n(2) Explain why f has an inverse but g does not.",
     "marks": 10,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -28,7 +28,7 @@
   {
     "question_number": 1,
     "part": "c",
-    "text": "(i) \nInvestigate using Venn diagrams for all sets X, Y and Z whether \n\ud835\udc4b\\(\ud835\udc4c\u222a\ud835\udc4d)\u00db (\ud835\udc4b\\\ud835\udc4c) \u222a\ud835\udc4d",
+    "text": "(i) \nInvestigate using Venn diagrams for all sets X, Y and Z whether \n\ud835\udc4b\\(\ud835\udc4c\u222a\ud835\udc4d)\u00db (\ud835\udc4b\\\ud835\udc4c) \u222a\ud835\udc4d \n \n(5 marks) \n(ii) \nProve using \u2018is an element of\u2019 and the laws of set theory that \n(\ud835\udc34\u2229\ud835\udc35) \" \u2229\ud835\udc34\u00db (\ud835\udc34\" \u222a\ud835\udc35\") \u2229\ud835\udc34 \n(5 marks) \n \n(iii) Prove using set identities that \n\ud835\udc34\u222a\ud835\udc35\u2229\ud835\udc36\n\"\u00db \ud835\udc34\" \u2229\ud835\udc36\" \u222a(\ud835\udc34\" \u2229 \ud835\udc35\")",
     "marks": 5,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -40,8 +40,8 @@
   {
     "question_number": 2,
     "part": "a",
-    "text": "(i) \nConstruct the truth table for:  \n \n \n[(\ud835\udc5d \u00d7 \ud835\udc5e) + (\ud835\udc5f\u00d7 \ud835\udc5e)] \n \nor \n \n \n[\u00ac \ud835\udc5d \u00d9  \ud835\udc5e\u02c5 \ud835\udc5f \u02c4 \u00ac \ud835\udc5e]",
-    "marks": 7,
+    "text": "(i) \nConstruct the truth table for:  \n \n \n[(\ud835\udc5d \u00d7 \ud835\udc5e) + (\ud835\udc5f\u00d7 \ud835\udc5e)] \n \nor \n \n \n[\u00ac \ud835\udc5d \u00d9  \ud835\udc5e\u02c5 \ud835\udc5f \u02c4 \u00ac \ud835\udc5e] \n \n(7 marks) \n \n(ii) \nUsing a truth table prove that the following logical equivalence is a tautology. \n \n[ \ud835\udc5d+ \ud835\udc5e. \ud835\udc5d\u2192\ud835\udc5f. \ud835\udc5e\u2192\ud835\udc5f] \u2192\ud835\udc5f \n \nor \n \n[ \ud835\udc5d\u00da \ud835\udc5e\u00d9 \ud835\udc5d\u2192\ud835\udc5f\u00d9 \ud835\udc5e\u2192\ud835\udc5f] \u2192\ud835\udc5f",
+    "marks": 8,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
@@ -53,20 +53,21 @@
   {
     "question_number": 2,
     "part": "b",
-    "text": "(1) Using the laws of logic (at the end of the exam paper), investigate if    \n \n\ud835\udc5d+ \ud835\udc5d. \ud835\udc5e\n\u00db \ud835\udc5d. \ud835\udc5e  \n \nor \n \n \u00ac \ud835\udc5d\u00da \u00ac\ud835\udc5d\u00d9 \ud835\udc5e\n\u00db \u00ac\ud835\udc5d\u00d9 \u00ac\ud835\udc5e \n \n \nEnsure you specify which of the logic laws you are using at each stage of the \n \nproof.",
-    "marks": 6,
+    "text": "(1) Using the laws of logic (at the end of the exam paper), investigate if    \n \n\ud835\udc5d+ \ud835\udc5d. \ud835\udc5e\n\u00db \ud835\udc5d. \ud835\udc5e  \n \nor \n \n \u00ac \ud835\udc5d\u00da \u00ac\ud835\udc5d\u00d9 \ud835\udc5e\n\u00db \u00ac\ud835\udc5d\u00d9 \u00ac\ud835\udc5e \n \n \nEnsure you specify which of the logic laws you are using at each stage of the \n \nproof.   \n(6 marks) \n \n(2) Simplify fully the following Boolean expression: \n\ud835\udc5e \ud835\udc5d\u2192\ud835\udc5e\n\u2192\ud835\udc5d \nor \n \n\u00ac \ud835\udc5e\u00d9 \ud835\udc5d\u00ae \ud835\udc5e\u00ae \u00ac \ud835\udc5d",
+    "marks": 9,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
-      "Logic & Propositional Logic"
+      "Logic & Propositional Logic",
+      "Boolean Algebra"
     ],
     "difficulty": "Hard"
   },
   {
     "question_number": 2,
     "part": "c",
-    "text": "(i) \n Let P = {2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 15}.  \nDetermine the truth value of each of the following statements for \ud835\udc65\u2208\ud835\udc43. Explain \nyour answer fully in each case.  \n \n(1) \nIf x is odd or \ud835\udc65> 11 then \ud835\udc65< 15. \n(2) \nIf x is odd then \u2203\ud835\udc65 \ud835\udf16 \ud835\udc43, \ud835\udc65< 7. \n(3) \nIf \ud835\udc65< 7 \u02c5(\ud835\udc65> 10) then x is odd. \n(4) \nIf \ud835\udc65> 4 \u02c4(\ud835\udc65< 5) then x is the null set.",
-    "marks": 8,
+    "text": "(i) \n Let P = {2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 15}.  \nDetermine the truth value of each of the following statements for \ud835\udc65\u2208\ud835\udc43. Explain \nyour answer fully in each case.  \n \n(1) \nIf x is odd or \ud835\udc65> 11 then \ud835\udc65< 15. \n(2) \nIf x is odd then \u2203\ud835\udc65 \ud835\udf16 \ud835\udc43, \ud835\udc65< 7. \n(3) \nIf \ud835\udc65< 7 \u02c5(\ud835\udc65> 10) then x is odd. \n(4) \nIf \ud835\udc65> 4 \u02c4(\ud835\udc65< 5) then x is the null set. \n \n(8 marks) \n \n(ii) Prove by mathematical induction \n \nR\nR.1 +\nR\n1.S +\nR\nS.T +\nR\nT.U + \u22ef+\nR\nW(WXR) = \nW\nWXR , \u2200\ud835\udc5b\u2208\ud835\udc41\\,",
+    "marks": 12,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
@@ -77,14 +78,14 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "(i)  \nHow many different ways are there of arranging the letters in the word \n  \nDISCONNECTED",
-    "marks": 2,
+    "text": "(i)  \nHow many different ways are there of arranging the letters in the word \n  \nDISCONNECTED \n(2 marks) \n(ii)  How many of these ways start with the consecutive string \u201cDIS\u201d? \n(2 marks) \n \n(iii) How many even numbers are in the range 1000 and 9999 if there are no repeating \ndigits?  \n(4 marks) \n \n(iv) How many committees of six people can be chosen from 10 men and 15 women? \n(1) If exactly four women must be on each committee. \n                  (2) If at least four women must be on each committee.",
+    "marks": 7,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
       "Graph Theory"
     ],
-    "difficulty": "Easy"
+    "difficulty": "Hard"
   },
   {
     "question_number": 3,
@@ -101,7 +102,7 @@
   {
     "question_number": 3,
     "part": "c",
-    "text": "(i) \n Construct a generating function G(x) for the number of ways of selecting \n2 red, 5 green and 3 blue balls from a pack if at least 1 red ball and at least two \ngreen balls must be selected.",
+    "text": "(i) \n Construct a generating function G(x) for the number of ways of selecting \n2 red, 5 green and 3 blue balls from a pack if at least 1 red ball and at least two \ngreen balls must be selected. \n(10 marks) \n(ii) \nDetermine using generating functions the number of ways of selecting \n6 balls from the pack above.",
     "marks": 10,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -113,19 +114,19 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "(i) \nDraw the graph with five vertices of the following degrees:  \n3, 3, 4, 4, 4",
-    "marks": 3,
+    "text": "(i) \nDraw the graph with five vertices of the following degrees:  \n3, 3, 4, 4, 4 \n(3 marks) \n(ii) \nDraw the following graphs K1,S and  WS \n \n(4 marks) \n \n(iii)  Explain fully what is meant if a graph is bipartite using the graph in Fig1 below \n \n \n \n \n \nFig 1",
+    "marks": 8,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
       "Graph Theory"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Hard"
   },
   {
     "question_number": 4,
     "part": "b",
-    "text": "(i) \nInvestigate the graph in Fig 2 below to see whether it has a Eulerian circuit. \nConstruct such a circuit if one exists. If it does not exist give an argument to show \nwhy no such circuit exists. \n \n(ii)  Show the graph in Fig 2 below is Hamiltonian. Confirm with an appropriate \ndiagram.  \n \n \n \n \n \nFig 2",
+    "text": "(i) \nInvestigate the graph in Fig 2 below to see whether it has a Eulerian circuit. \nConstruct such a circuit if one exists. If it does not exist give an argument to show \nwhy no such circuit exists. \n \n(ii)  Show the graph in Fig 2 below is Hamiltonian. Confirm with an appropriate \ndiagram.  \n \n \n \n \n \nFig 2 \n(8 marks) \n \n(iii)  Write out the degree of each node A to G and investigate whether the graph in \nFig 3 below is Eulerian. Justify your answer. \n \n \n \n \n \n \n \nFig 3",
     "marks": 8,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
@@ -137,44 +138,59 @@
   {
     "question_number": 4,
     "part": "c",
-    "text": "(i) \nA sequence is defined recursively by \ud835\udc4e\\ = 1, \ud835\udc4eR = 4 and \n\ud835\udc4eW = 4\ud835\udc4eWbR \u22124\ud835\udc4eWb1 for \ud835\udc5b\u22652. Find the first 5 terms of the sequence.",
-    "marks": 3,
+    "text": "(i) \nA sequence is defined recursively by \ud835\udc4e\\ = 1, \ud835\udc4eR = 4 and \n\ud835\udc4eW = 4\ud835\udc4eWbR \u22124\ud835\udc4eWb1 for \ud835\udc5b\u22652. Find the first 5 terms of the sequence. \n \n(3 marks) \n(ii) \nFind \nR\nWX1 (WXS)\nd\nWeR\n using the method of partial fractions. \n(12 marks) \nPLEASE ASK FOR THE NEW MATHEMATICS TABLES \n \nLaws of Set Theory \n \nEquivalence \n \nName \nA \u2229 U \u00db A \nA \u222a\u2205  \u00db A  \n \nIdentity Laws \nA \u2229 \u2205 \u00db \u2205 \nA \u222a U  \u00db U \n \nDomination Laws/Bound Laws \nA\u2229 A\u00db A \nA \u222a A \u00db A \n \nIdempotent Laws \n \n(Ah) h \u00db A or (Ai) i \u00db A \n \nDouble Negation \n \nA \u2229 B \u00db B \u2229 A \nA \u222a B \u00db B \u222a A \n \nCommutative Laws \n(A\u2229 B) \u2229 C \u00db A \u2229 (B \u2229 C) \n(\ud835\udc34\u222a\ud835\udc35) \u222a\ud835\udc36\u00db \ud835\udc34\u222a(\ud835\udc35\u222a\ud835\udc36) \n \nAssociative Laws \n \ud835\udc34\u222a(\ud835\udc35\u2229\ud835\udc36) \u00db \ud835\udc34\u222a\ud835\udc35\u2229(\ud835\udc34\u222a\ud835\udc36) \n\ud835\udc34\u2229(\ud835\udc35\u222a\ud835\udc36) \u00db \ud835\udc34\u2229\ud835\udc35\u222a(\ud835\udc34\u2229\ud835\udc36)  \n \nDistributive Laws \n(A \u2229B)h \u00db Ah \u222aBh or  \n(A \u2229B)i \u00db Ai \u222aB\u2032 \n \n(A \u222aB)h \u00db Ah \u2229Bh or  \n(A \u222aB)i \u00db Ai \u2229B\u2032 \n \nDe Morgan\u2019s Law \n\ud835\udc34\u222a\ud835\udc34\" \u00db U \n\ud835\udc34\u2229\ud835\udc34\" \u00db \u2205 \n \nComplement Laws \n\u2205\"\u00db\ud835\udc48 \nUh \u00db \u2205 \n \n0/1 Laws \n\ud835\udc34\u2229\ud835\udc34\u222a\ud835\udc35\u00db \ud835\udc34 \n\ud835\udc34\u222a\ud835\udc34\u2229\ud835\udc35\u00db \ud835\udc34 \nAbsorption laws  \nTable of Logical Equivalences Boolean Algebra symbols \n \nEquivalence \n \nName \np . 1 \u00db p \n \np + 0 \u00db p \n \nIdentity Laws \np + 1 \u00db 1 \n \np . 0 \u00db 0 \n \nDomination Laws \np + p \u00db p \n \np . p \u00db p \n \nIdempotent Laws \n \n)\n( p  \u00db p \nDouble Negation \np + q \u00db q + p \n \np . q \u00db q . p \n \nCommutative Laws \n(p + q) + r \u00db p + (q + r) \n \n(p . q) . r \u00db p . (q . r) \n \nAssociative Laws \np + (q . r) \u00db (p + q) . (p + r) \n \np . (q + r) \u00db (p . q)  + (p . r) \n \nDistributive Laws \n \n)\n.\n(\nq\np\n \u00db p  +  q  \n \n)\n(\nq\np +\n \u00db p  .  q  \n \nDe Morgan\u2019s Law \n \np + p  \u00db 1 \np . p  \u00db 0 \n \nComplement Laws \n \np \u00aeq \u00db p  + q\nq\np\np\nq\n\u00de\n\u00db\n\u00de\n\u00db\n \n \nMaterial Implication (MI) \np(p + q) \u00db p \np + pq \u00db p \n \nAbsorption Laws \nTable of Logical Equivalences Discrete Maths symbols \n \nEquivalence \n \nName \n \np \u00d9 T \u00db p \np \u00da F \u00db p \n \nIdentity Laws \n \np\u00da T \u00db T \np \u00d9 F \u00db F \n \nDomination Laws \n \np\u00da p \u00db p \np \u00d9 p \u00db p \n \n \nIdempotent Laws \n \n\u00ac (\u00acp) \u00db p \n \n \nDouble Negation \n \np \u00da q \u00db q \u00da p \np \u00d9 q \u00dbq \u00d9 p \n \n \nCommutative Laws \n \n(p\u00da q) \u00da r \u00db p \u00da (q \u00da r) \n(p \u00d9 q) \u00d9r \u00db p \u00d9 (q \u00d9 r) \n \n \nAssociative Laws \n \np \u00da (q \u00d9 r) \u00db (p \u00da q) \u00d9 (p \u00da r) \np \u00d9 (q \u00da r) \u00db (p \u00d9 q)  \u00da (p \u00d9 r) \n \n \nDistributive Laws \n \n \n\u00ac(p \u00d9 q) \u00db \u00acp \u00da  \u00acq \n\u00ac(p \u00da q) \u00db \u00acp  \u00d9 \u00acq \n \n \nDe Morgan\u2019s Law \n \n \np \u00da \u00acp \u00db T \np \u00d9 \u00acp \u00db F \n \n \nComplement Laws \n \np \u00ae q \u00db \u00ac p \u00da q \n \nq\np\np\nq\n\u00ac\n\u00ae\n\u00ac\n\u00db\n\u00ac\n\u00ae\n\u00ac\n\u00db\n \n \n \nMaterial Implication (MI)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2013_Final_E.pdf",
     "year": 2013,
     "topic": [
-      "Other"
+      "Sets",
+      "Logic & Propositional Logic",
+      "Boolean Algebra"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
     "part": "a",
-    "text": "The universal set is {0, 1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026,15}  \n \nLet A = {3, 4, 6, 9, 10, 14, 15} and B = {3, 4, 5, 8, 10, 11} and \n  \nC = {3, 5, 6, 7, 11, 12, 14}.   \n \n(i) \nRepresent the sets U, A, B and C in a Venn diagram, marking all the elements \nin the appropriate places.",
-    "marks": 5,
+    "text": "The universal set is {0, 1, 2, 3, 4, 5, 6, \u2026\u2026\u2026\u2026\u2026,15}  \n \nLet A = {3, 4, 6, 9, 10, 14, 15} and B = {3, 4, 5, 8, 10, 11} and \n  \nC = {3, 5, 6, 7, 11, 12, 14}.   \n \n(i) \nRepresent the sets U, A, B and C in a Venn diagram, marking all the elements \nin the appropriate places. \n \n(5 marks) \n \n(ii) \nList the elements of the following sets:  \n(Explain your answers fully by showing ALL intermediate steps) \n \n(1) \ud835\udc34\u222a\ud835\udc35$\\( \ud835\udc34\u2229\ud835\udc35))  \n(2) \ud835\udc36\\(\ud835\udc34\u2229\ud835\udc35))",
+    "marks": 10,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
     "topic": [
       "Sets"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Hard"
   },
   {
     "question_number": 1,
     "part": "b",
-    "text": "(i) Given the relation R such that R = \n\ud835\udc5a, \ud835\udc5b\u2208\ud835\udc45 \ud835\udc5a, \ud835\udc5b \ud835\udf16 \ud835\udc34, and \ud835\udc5a2 \u2212\ud835\udc5b \u2208\ud835\udc34} when  \n \nA is the set {0, 1, 2, 3, 4} \n \n(1) \nExpress the relation R as a set of ordered pairs.",
-    "marks": 2,
+    "text": "(i) Given the relation R such that R = \n\ud835\udc5a, \ud835\udc5b\u2208\ud835\udc45 \ud835\udc5a, \ud835\udc5b \ud835\udf16 \ud835\udc34, and \ud835\udc5a2 \u2212\ud835\udc5b \u2208\ud835\udc34} when  \n \nA is the set {0, 1, 2, 3, 4} \n \n(1) \nExpress the relation R as a set of ordered pairs. \n(2 marks) \n \n(2) \nDraw a digraph to represent this relation. \n(2 marks) \n \n(3) \nInvestigate whether the relation is antisymmetric and/or transitive.  \n(Explain your answer fully using the validity of recognised definitions and \nspecifics from the example. \n \n(6 marks) \n \n(ii) Given \ud835\udc53\ud835\udc65= \u22123\ud835\udc65\u22126 + 12 when \ud835\udc65\u22652. Find the domain of the function. \n      Hence find \ud835\udc53=> \ud835\udc65 and give the domain for \ud835\udc53=> \ud835\udc65.",
+    "marks": 10,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
     "topic": [
       "Sets",
-      "Relations & Functions"
+      "Relations & Functions",
+      "Graph Theory"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": [
+      "Other"
     ],
     "difficulty": "Easy"
   },
   {
     "question_number": 1,
     "part": "c",
-    "text": "(c) \nInvestigate whether \ud835\udc43\u2229\ud835\udc44\u222a\ud835\udc43$ \u222a\ud835\udc45$ is equivalent to \n(\ud835\udc43\u222a\ud835\udc44) \u2229(\ud835\udc43\u222a\ud835\udc44$) \u2229(\ud835\udc43) \u222a\ud835\udc44\u222a \ud835\udc45)), using a method of set theory. Specify which \nlaw is valid at each step.(See tables at end of paper)",
+    "text": "Investigate whether \ud835\udc43\u2229\ud835\udc44\u222a\ud835\udc43$ \u222a\ud835\udc45$ is equivalent to \n(\ud835\udc43\u222a\ud835\udc44) \u2229(\ud835\udc43\u222a\ud835\udc44$) \u2229(\ud835\udc43) \u222a\ud835\udc44\u222a \ud835\udc45)), using a method of set theory. Specify which \nlaw is valid at each step.(See tables at end of paper)",
     "marks": 15,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -207,6 +223,18 @@
       "Logic & Propositional Logic"
     ],
     "difficulty": "Hard"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(1) Let M = {0, 2, 4, 6, \u2026\u2026., 20}.  \nList the elements of the appropriate solution set for each of the following \nstatements for \ud835\udc65\u2208\ud835\udc40 and determine the truth value of each of the statements.  \n(Explain your answers fully by showing ALL intermediate steps) \n \na. If x is a multiple of 4 or \ud835\udc65> 11 then, \u2203\ud835\udc65> 12. \nb. If x is a multiple of 3, then \ud835\udc65> 6, \u2200\ud835\udc65 \ud835\udf16 \ud835\udc40. \nc. \u2200\ud835\udc65\u2208\ud835\udc40, \ud835\udc65< 7 \u02c5(\ud835\udc65> 8). \nd. \u2203\ud835\udc65\u2208\ud835\udc40, \ud835\udc65\u22654 \u02c4(\ud835\udc65< 5). \n \n(4 x 2.5 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 3,
@@ -248,19 +276,31 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "(i) Draw the simple graph with six vertices of the following degrees:  \n 2, 3, 3, 4, 5, 5",
-    "marks": 5,
+    "text": "(i) Draw the simple graph with six vertices of the following degrees:  \n 2, 3, 3, 4, 5, 5 \n(5 marks) \n \n(ii)  Construct a K[,T graph (if possible) from the graph in Fig1 below and      \ninvestigate whether the graph is bipartite. Justify your answer using appropriate \ncriteria for bipartite. \n \n \nFig 1",
+    "marks": 10,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
     "topic": [
       "Graph Theory"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Hard"
   },
   {
     "question_number": 4,
     "part": "b",
-    "text": "(i)  Investigate whether graphs G and H in Fig 2 below are isomorphic. Justify your \nanswer using appropriate criteria for isomorphism. \n \n \nG \n \n \n \n \n \n \nH \nFig 2",
+    "text": "continues overleaf",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
+    "year": 2014,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "(i)  Investigate whether graphs G and H in Fig 2 below are isomorphic. Justify your \nanswer using appropriate criteria for isomorphism. \n \n \nG \n \n \n \n \n \n \nH \nFig 2  \n(10 marks) \n \n(ii) Write out the degree of each node A to G and investigate whether the graph in Fig 3 \nbelow is Eulerian. Justify your answer. \n \n \n \n \n \n \n \nFig 3",
     "marks": 10,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
@@ -272,14 +312,17 @@
   {
     "question_number": 4,
     "part": "c",
-    "text": "(i) \nSolve the recurrence relation \n\ud835\udc4e] = 5\ud835\udc4e]=> \u22126\ud835\udc4e]=2 for \ud835\udc5b\u22652, \ud835\udc4eY = 1, \ud835\udc4e> = 0",
-    "marks": 10,
+    "text": "(i) \nSolve the recurrence relation \n\ud835\udc4e] = 5\ud835\udc4e]=> \u22126\ud835\udc4e]=2 for \ud835\udc5b\u22652, \ud835\udc4eY = 1, \ud835\udc4e> = 0 \n \n(10 marks) \n \n(ii) \nFind using the method of partial sums \n>\n2_\n`\nab>\n \n(5 marks) \nPLEASE ASK FOR THE NEW MATHEMATICS TABLES \n \nLaws of Set Theory \n \nEquivalence \n \nName \nA \u2229 U \u00db A \nA \u222a\u2205  \u00db A  \n \nIdentity Laws \nA \u2229 \u2205 \u00db \u2205 \nA \u222a U  \u00db U \n \nDomination Laws/Bound Laws \nA\u2229 A\u00db A \nA \u222a A \u00db A \n \nIdempotent Laws \n \n(Ae) e \u00db A or (Af) f \u00db A \n \nDouble Negation \n \nA \u2229 B \u00db B \u2229 A \nA \u222a B \u00db B \u222a A \n \nCommutative Laws \n(A\u2229 B) \u2229 C \u00db A \u2229 (B \u2229 C) \n(\ud835\udc34\u222a\ud835\udc35) \u222a\ud835\udc36\u00db \ud835\udc34\u222a(\ud835\udc35\u222a\ud835\udc36) \n \nAssociative Laws \n \ud835\udc34\u222a(\ud835\udc35\u2229\ud835\udc36) \u00db \ud835\udc34\u222a\ud835\udc35\u2229(\ud835\udc34\u222a\ud835\udc36) \n\ud835\udc34\u2229(\ud835\udc35\u222a\ud835\udc36) \u00db \ud835\udc34\u2229\ud835\udc35\u222a(\ud835\udc34\u2229\ud835\udc36)  \n \nDistributive Laws \n(A \u2229B)e \u00db Ae \u222aBe or  \n(A \u2229B)f \u00db Af \u222aB\u2032 \n \n(A \u222aB)e \u00db Ae \u2229Be or  \n(A \u222aB)f \u00db Af \u2229B\u2032 \n \nDe Morgan\u2019s Law \n\ud835\udc34\u222a\ud835\udc34) \u00db U \n\ud835\udc34\u2229\ud835\udc34) \u00db \u2205 \n \nComplement Laws \n\u2205)\u00db\ud835\udc48 \nUe \u00db \u2205 \n \n0/1 Laws \n\ud835\udc34\u2229\ud835\udc34\u222a\ud835\udc35\u00db \ud835\udc34 \n\ud835\udc34\u222a\ud835\udc34\u2229\ud835\udc35\u00db \ud835\udc34 \nAbsorption laws  \nTable of Logical Equivalences Boolean Algebra symbols \n \nEquivalence \n \nName \np . 1 \u00db p \n \np + 0 \u00db p \n \nIdentity Laws \np + 1 \u00db 1 \n \np \u00d7 0 \u00db 0 \n \nDomination Laws \np + p \u00db p \n \np \u00d7 p \u00db p \n \nIdempotent Laws \n \n)\n( p  \u00db p \nDouble Negation \np + q \u00db q + p \n \np \u00d7 q \u00db q \u00d7 p \n \nCommutative Laws \n(p + q) + r \u00db p + (q + r) \n \n(p \u00d7 q) \u00d7 r \u00db p \u00d7 (q \u00d7 r) \n \nAssociative Laws \np + (q \u00d7 r) \u00db (p + q) \u00d7 (p + r) \n \np \u00d7 (q + r) \u00db (p \u00d7 q)  + (p \u00d7 r) \n \nDistributive Laws \n \n)\n(\nq\np \u00b4\n \u00db p  +  q  \n \n)\n(\nq\np +\n \u00db p  \u00d7  q  \n \nDe Morgan\u2019s Law \n \np + p  \u00db 1 \np \u00d7 p  \u00db 0 \n \nComplement Laws \n \np \u00aeq \u00db p  + q \n \nMaterial Implication (MI) \np\u00d7 (p + q) \u00db p \np + p\u00d7q \u00db p \nAbsorption Laws",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2014_Final_E.pdf",
     "year": 2014,
     "topic": [
-      "Relations & Functions"
+      "Sets",
+      "Logic & Propositional Logic",
+      "Relations & Functions",
+      "Boolean Algebra"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -418,160 +461,210 @@
   {
     "question_number": 4,
     "part": "c",
-    "text": "Solve the Travelling Salesman Problem for the following graph by using the Nearest-\nNeighbour Algorithm.\n20\n29\n16\nB\nA\nC\nD",
-    "marks": 10,
+    "text": "Solve the Travelling Salesman Problem for the following graph by using the Nearest-\nNeighbour Algorithm.\n20\n29\n16\nB\nA\nC\nD\n(10 marks)\nLaws of Algebra sets\nIdempotent Laws\n(1a) A \u222aA = A\n(1b) A \u2229A = A\nAssociative Laws\n(2a) (A \u222aB) \u222aC = A \u222a(B \u222aC)\n(2b) (A \u2229B) \u2229C = A \u2229(B \u2229C)\nCommutative Laws\n(3a) A \u222aB = B \u222aA\n(3b) A \u2229B = B \u2229A\nDistributive Laws\n(4a) A \u222a(B \u2229C) = (A \u222aB) \u2229(A \u222aC)\n(4b) A \u2229(B \u222aC) = (A \u2229B) \u222a(A \u2229C)\nIdentity Laws\n(5a) A \u222a\u2205= A\n(5b) A \u2229U = A\n(6a) A \u222aU = U\n(6b) A \u2229\u2205= \u2205\nInvolution Laws\n(7) (A\u2032)\u2032 = A.\nComplement Laws\n(8a) A \u222aA\u2032 = U\n(8b) A \u2229A\u2032 = \u2205\n(9a) U\u2032 = \u2205\n(9b) \u2205\u2032 = U\nDemorgan\u2019s Laws\n(10a) (A \u222aB)\u2032 = A\u2032 \u2229B\u2032\n(10b) (A \u2229B)\u2032 = A\u2032 \u222aB\u2032\nLaws of Logic\nIdempotent Laws\n(1a) p \u2228p \u21d0\u21d2p\n(1b) p \u2227p \u21d0\u21d2p\nAssociative Laws\n(2a) (p \u2228q) \u2228r \u21d0\u21d2p \u2228(q \u2228r)\n(2b) (p \u2227q) \u2227r \u21d0\u21d2p \u2227(q \u2227r)\nCommutative Laws\n(3a) p \u2228q \u21d0\u21d2q \u2228p\n(3b) p \u2227q \u21d0\u21d2q \u2227p\nDistributive Laws\n(4a) p \u2228(q \u2227r) \u21d0\u21d2(p \u2228q) \u2227(p \u2228r)\n(4b) p \u2227(q \u2228r) \u21d0\u21d2(p \u2227q) \u2228(p \u2227r)\nIdentity Laws\n(5a) p \u2228F \u21d0\u21d2p\n(5b) p \u2227T \u21d0\u21d2p\n(6a) p \u2228T \u21d0\u21d2T\n(6b) p \u2227F \u21d0\u21d2F\nInvolution Laws\n(7) \u00ac\u00acp \u21d0\u21d2p.\nComplement Laws\n(8a) p \u2228\u00acp \u21d0\u21d2T\n(8b) p \u2227\u00acp \u21d0\u21d2F\n(9a) \u00acT \u21d0\u21d2F\n(9b) \u00acF \u21d0\u21d2T\nDemorgan\u2019s Laws\n(10a) \u00ac(p \u2228q) \u21d0\u21d2\u00acp \u2227\u00acq\n(10b) \u00ac(p \u2227q) \u21d0\u21d2\u00acp \u2228\u00acq\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: COURSE SHORT NAME\nSemester: 1\nPage 1 of ??\nSubject: MODULE NAME\nExaminer: Dr Aoife Hennesy\nDr Denis Flynn",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
+      "Sets",
+      "Logic & Propositional Logic",
       "Graph Theory",
       "Algorithms & Complexity"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
     "part": "a",
-    "text": "",
-    "marks": 5,
+    "text": "(5 marks)\n2.5 marks each for (i) and (ii)\nA = {1, 2, 5, 6} , B = {2, 5, 7} , C = {1, 3, 5, 7, 9}\n(i)\n(A \u222aC) = {1, 2, 3, 5, 6, 7, 9}\n(A \u222aC) \\ B = {1, 3, 6, 9}\n(ii)\n(B\u25b3C) = {1, 2, 3, 9}\n(B\u25b3C) \\ A = {3, 9}\n(iii) (B\u25b3C) \\ A = {3, 9}\nB \u222aC = {1, 2, 3, 5, 7, 9}\nB \u2229C = {5, 7}\n(B \u222aC) \\ (B \u2229C) = {1, 2, 3, 9}\nB \\ C = {2}\nC \\ B = {1, 3, 9}\n(B \\ C) \u222a(C \\ B) = {1, 2, 3, 9}\nB\u25b3C = {1, 2, 3, 9}",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Other"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
-    "part": "i",
-    "text": "and (ii)\nA = {1, 2, 5, 6} , B = {2, 5, 7} , C = {1, 3, 5, 7, 9}\n(i)\n(A \u222aC) = {1, 2, 3, 5, 6, 7, 9}\n(A \u222aC) \\ B = {1, 3, 6, 9}\n(ii)\n(B\u25b3C) = {1, 2, 3, 9}\n(B\u25b3C) \\ A = {3, 9}\n(iii) (B\u25b3C) \\ A = {3, 9}\nB \u222aC = {1, 2, 3, 5, 7, 9}\nB \u2229C = {5, 7}\n(B \u222aC) \\ (B \u2229C) = {1, 2, 3, 9}\nB \\ C = {2}\nC \\ B = {1, 3, 9}\n(B \\ C) \u222a(C \\ B) = {1, 2, 3, 9}\nB\u25b3C = {1, 2, 3, 9}\n(b)",
-    "marks": 10,
-    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
-    "year": 2016,
-    "topic": [
-      "Other"
-    ],
-    "difficulty": "Hard"
-  },
-  {
-    "question_number": 1,
-    "part": "i",
-    "text": "R=(1, 3), (5, 5), (1, 5), (5, 1), (1, 1), (5, 3)\n(ii)\nThe relation is not symmetric because of: (1, 3), (5, 3) do not have symmetric\ncounterparts.\n(iii) The relation is not re\ufb02exive because it does not contain: (3, 3)\n(iv) The relation is not antisymmetric because of: (1, 5), (5, 1)\n(v)\nSince Re\ufb02exive: False, Symmetric: False, AntiSymmetric: False, then R is not an\nequivalence relation.\n(c)",
-    "marks": 10,
+    "part": "b",
+    "text": "(10 marks)\n2 marks for each question part\n(i)\nR=(1, 3), (5, 5), (1, 5), (5, 1), (1, 1), (5, 3)\n(ii)\nThe relation is not symmetric because of: (1, 3), (5, 3) do not have symmetric\ncounterparts.\n(iii) The relation is not re\ufb02exive because it does not contain: (3, 3)\n(iv) The relation is not antisymmetric because of: (1, 5), (5, 1)\n(v)\nSince Re\ufb02exive: False, Symmetric: False, AntiSymmetric: False, then R is not an\nequivalence relation.",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Relations & Functions"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(10 marks)\n5 marks each question part\n(i)\nstaight line equation: Range=CoDomain \u21d2Onto. Unique image or each element\nof domain \u21d2one to one. Therefore this is a bijective function, i.e. satis\ufb01es both\nonto and one:one.\n(ii)\nquadratic equation, with Range, [-5, \u221e) \u0338= CoDomain \u21d2Not Onto. Not one to\none, since there is a non unique preimage of elements in the range, e.g. preimage of\n11 is either -4 or 4.\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: COURSE SHORT NAME\nSemester: 1\nPage 2 of ??\nSubject: MODULE NAME\nExaminer: Dr Aoife Hennesy\nDr Denis Flynn",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Relations & Functions"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 2,
     "part": "a",
-    "text": "",
-    "marks": 5,
-    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
-    "year": 2016,
-    "topic": [
-      "Other"
-    ],
-    "difficulty": "Medium"
-  },
-  {
-    "question_number": 2,
-    "part": "i",
-    "text": "Using truth table\nTable 1: Truth table\np\nq\nr\nP(p,q,r)\nFalse\nFalse\nFalse\nTrue\nFalse\nFalse\nTrue\nTrue\nFalse\nTrue\nFalse\nTrue\nFalse\nTrue\nTrue\nTrue\nTrue\nFalse\nFalse\nTrue\nTrue\nFalse\nTrue\nTrue\nTrue\nTrue\nFalse\nFalse\nTrue\nTrue\nTrue\nFalse\n(b)",
-    "marks": 10,
+    "text": "(5 marks)\n8 marks each correct line\n(i)\nUsing truth table\nTable 1: Truth table\np\nq\nr\nP(p,q,r)\nFalse\nFalse\nFalse\nTrue\nFalse\nFalse\nTrue\nTrue\nFalse\nTrue\nFalse\nTrue\nFalse\nTrue\nTrue\nTrue\nTrue\nFalse\nFalse\nTrue\nTrue\nFalse\nTrue\nTrue\nTrue\nTrue\nFalse\nFalse\nTrue\nTrue\nTrue\nFalse",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Logic & Propositional Logic",
       "Boolean Algebra"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
   },
   {
     "question_number": 2,
-    "part": "i",
-    "text": "Using tables at end of paper\n2 marks each\nfor the following steps.\nLHS: \u00ac(p \u2228q) \u2228(\u00acp \u2227q)\nDeMorgan: (\u00acp \u2227\u00acq) \u2228(\u00acp \u2227q)\nDistrib: \u00acp \u2227(\u00acq \u2228q)\nComplement: \u00acp \u2227T\nIdentity: \u00acp\n(c)",
-    "marks": 10,
+    "part": "b",
+    "text": "(10 marks)\n(i)\nUsing tables at end of paper\n2 marks each\nfor the following steps.\nLHS: \u00ac(p \u2228q) \u2228(\u00acp \u2227q)\nDeMorgan: (\u00acp \u2227\u00acq) \u2228(\u00acp \u2227q)\nDistrib: \u00acp \u2227(\u00acq \u2228q)\nComplement: \u00acp \u2227T\nIdentity: \u00acp",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Other"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(10 marks)\n(i)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "TRUE (Truth set =A)\n2 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "TRUE (truth set =A \u00d7 A)\n3 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "TRUE (Truth set ={4} \u0338= \u2205)\n2 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "d",
+    "text": "TRUE (Truth set ={(3, 1), (2, 1), (3, 1), (1, 1), (1, 2)} \u0338= \u2205). Student indicating\nany member of truth set -\n3 marks\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: COURSE SHORT NAME\nSemester: 1\nPage 3 of ??\nSubject: MODULE NAME\nExaminer: Dr Aoife Hennesy\nDr Denis Flynn",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 3,
     "part": "a",
-    "text": "",
-    "marks": 5,
-    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
-    "year": 2016,
-    "topic": [
-      "Other"
-    ],
-    "difficulty": "Medium"
-  },
-  {
-    "question_number": 3,
-    "part": "i",
-    "text": "3 marks\nfor correct expansion. x6\u221218x5y+135x4y\u221220\u221727y3x3+(81)(85)x2y4\u2212\n1458xy5 + 729y6\n= x6 \u221218x5y + 135x4y \u2212540x3y3 + 685x2y4 \u2212243(6)xy5 + 729y6\n2 marks\nfor correct coe\ufb00.\nFourth term coe\ufb03cient: -540\nx7y4 in the expansion of (x + 3y)11:\n\u000011\n\u0001\n\u00d7 x7(3y)4 =\n\u000011\n\u0001\n\u00d7 81x7y4 = 26730x7y4\ncoe\ufb00= 26730\n(b)",
-    "marks": 10,
+    "text": "(5 marks)\n(i)\n3 marks\nfor correct expansion. x6\u221218x5y+135x4y\u221220\u221727y3x3+(81)(85)x2y4\u2212\n1458xy5 + 729y6\n= x6 \u221218x5y + 135x4y \u2212540x3y3 + 685x2y4 \u2212243(6)xy5 + 729y6\n2 marks\nfor correct coe\ufb00.\nFourth term coe\ufb03cient: -540\nx7y4 in the expansion of (x + 3y)11:\n\u000011\n\u0001\n\u00d7 x7(3y)4 =\n\u000011\n\u0001\n\u00d7 81x7y4 = 26730x7y4\ncoe\ufb00= 26730",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Combinatorics"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
   },
   {
     "question_number": 3,
-    "part": "i",
-    "text": "and(ii).\n3 marks each for rest\n(i)\nIf no repetition then, only 3 digit numbers are possible, with four possible choices\n\u21d24!\n(ii)\nif Repetition allowed: Four choices for each number 43.\n(iii) P\u221e\nr=1(\u22121)j+1xj\n(iv) 4(1 + 3 + 9 + \u00b7 \u00b7 \u00b7 ) = 4 P\u221e\nj=1 3j\n(c)",
-    "marks": 10,
+    "part": "b",
+    "text": "(10 marks)\n2 marks each\nfor parts (i) and(ii).\n3 marks each for rest\n(i)\nIf no repetition then, only 3 digit numbers are possible, with four possible choices\n\u21d24!\n(ii)\nif Repetition allowed: Four choices for each number 43.\n(iii) P\u221e\nr=1(\u22121)j+1xj\n(iv) 4(1 + 3 + 9 + \u00b7 \u00b7 \u00b7 ) = 4 P\u221e\nj=1 3j",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Other"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "(10 marks)\n(i)\na2 = 9; a3 = 63; a4 = 405;\n1 mark each .\n3 total\n(ii)\nan\n=\n9an\u22121 \u221218an\u22122 1 mark\nx2\n=\n9x \u221218 1 mark\n(x \u22126)(x \u22123)\n=\n0 0.5 mark\nGeneral Solution:\nan\n=\nc1(6)n + c2(3)n: 1 mark\n3.5 total\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: COURSE SHORT NAME\nSemester: 1\nPage 4 of ??\nSubject: MODULE NAME\nExaminer: Dr Aoife Hennesy\nDr Denis Flynn\n(iii)\nInitial conditions:\n=\nc1 + c2 0.5 mark\n=\n6c1 + 3c2 0.5 mark\nc1\n=\n3 0.5 mark\nc2\n=\n\u22121\n3 0.5 mark\nUnique Solution:\nan\n=\n3(6n \u22123n) 1 mark\nan\n=\n3n\u22121(2n \u22121) 0.5 mark\n3.5 total\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: COURSE SHORT NAME\nSemester: 1\nPage 5 of ??\nSubject: MODULE NAME\nExaminer: Dr Aoife Hennesy\nDr Denis Flynn",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 4,
     "part": "a",
-    "text": "",
-    "marks": 5,
-    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
-    "year": 2016,
-    "topic": [
-      "Other"
-    ],
-    "difficulty": "Medium"
-  },
-  {
-    "question_number": 4,
-    "part": "i",
-    "text": "K3,3\n(ii)\nBipartite: V1 = {A, B, C, D} and V2 = {E}.\n(b)",
-    "marks": 10,
+    "text": "(5 marks)\n3 marks \ufb01rst part, 2 marks for second\n(i)\nK3,3\n(ii)\nBipartite: V1 = {A, B, C, D} and V2 = {E}.",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Graph Theory"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
   },
   {
     "question_number": 4,
-    "part": "i",
-    "text": "and (ii) resp.\n(i)\nFrom the theorem, there is an Euler circuit because every vertex has an even degree.\nThe circuit is as follows: {a, b, c, d, e, f, g, h, i, a, h, b, i, c, e, h, d, g, c, a}\n(ii)\nThis graph has a Hamilton circuit. {a, b, c, d, e, a} is a circuit.\n(c)",
-    "marks": 10,
+    "part": "b",
+    "text": "(10 marks)\n6 marks and 4 marks for parts (i) and (ii) resp.\n(i)\nFrom the theorem, there is an Euler circuit because every vertex has an even degree.\nThe circuit is as follows: {a, b, c, d, e, f, g, h, i, a, h, b, i, c, e, h, d, g, c, a}\n(ii)\nThis graph has a Hamilton circuit. {a, b, c, d, e, a} is a circuit.",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
     "year": 2016,
     "topic": [
       "Graph Theory"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "(10 marks)\n(i)\nStudent should be pick one of {A,B,C,D}\nStart at A, nearest A,C,B,D cost: 15+16+25=56.\nStart at B, nearest B,C,A,D cost: 16+15+34=65.\nStart at C, nearest C,A,B,D cost: 15+29+25=69.\nStart at D, nearest D,C,A,B cost: 20+15+29=64.\nStudent correctly choosing any of above paths and \ufb01nding total weight = 10 marks.\nStudent correctly choosing any of above paths =5, correct edge weight = 1.5 x 3,\ncorrect sum 0.5.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2016_Final_E.pdf",
+    "year": 2016,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -748,14 +841,407 @@
   {
     "question_number": 4,
     "part": "d",
-    "text": "If G is a simple graph with at least two vertices, prove that G must contain two or\nmore vertices of the same degree.",
-    "marks": 7,
+    "text": "If G is a simple graph with at least two vertices, prove that G must contain two or\nmore vertices of the same degree.\n(7 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\n6\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Logic & Propositional Logic",
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 1 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "(reason = any correct, relevant statement)\n(i)\nTrue\n(ii)\nFalse\n(iii) True\n(iv) True\n(v)\nFalse\n(vi) True\n6 marks, = 1 mark per correct item",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "Propositions\n\u2022 R = \u201cIt is raining\u201d\n\u2022 C = \u201cIt is cold\u201d\n\u2022 J = \u201cJohn is wearing a coat\u201d\nArgument\nprop 1\n\u201cIf it is raining, it is not cold\u201d\nR \u2192\u00ac C\nprop 2\n\u201cIf is not raining, John is not wearing a coat\u201d\n\u00ac R \u2192\u00ac J\nprop 3\n\u201cIt is cold\u201d\nC\n\u2234\n\u201cJohn is not wearing a coat\u201d\n\u00ac J\nExpression\n(R \u2192\u00ac C) \u2227(\u00ac R \u2192\u00ac J) \u2227",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "\u2192\u00ac J\nvia Truth Table\nR\nC\nJ\nR \u2192\u00ac C\n\u00ac R \u2192\u00ac J\nC\n\u00ac J\nargument\nF\nF\nF\nT\nT\nF\nT\nT\nF\nF\nT\nT\nF\nF\nF\nT\nF\nT\nF\nT\nT\nT\nT\nT\nF\nT\nT\nT\nF\nT\nF\nT\nT\nF\nF\nT\nT\nF\nT\nT\nT\nF\nT\nT\nT\nF\nF\nT\nT\nT\nF\nF\nT\nT\nT\nT\nT\nT\nT\nF\nT\nT\nF\nT\nvia Formal Argument\nstep 1\nR \u2192\u00ac C\n(prop 1)\nstep 2\nC \u2192\u00ac R\n(contrapositive)\nstep 3\nC\n(prop 3)\nstep 4\n\u00ac R\n(step 3 and step 2)\nstep 5\n\u00ac R \u2192\u00ac J\n(prop 2)\nconclusion\n\u00ac J\n(step 4 and step 5)\n6 marks = 3 for expression + 3 for proof\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Logic & Propositional Logic",
+      "Boolean Algebra"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 2 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(i)\nRepresent R using a digraph.\n2\n4\n6\n(ii)\nIs R re\ufb02exive? symmetric? transitive?\n(iii) Is R an equivalence relation? and if yes, what the resulting equivalence classes?\n7 marks = 2 + 3 (=1+1+1) + 2\n\u2022\nNeed to show di\ufb00erence between Venn diagram and digraph representation.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Sets",
+      "Relations & Functions",
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "Applying Kruskal\u2019s algorithm to the preceding problem we have\nLink\nCost\nDecision\n(p, d)\nadd to tree\n(p, a)\nadd to tree\n(p, c)\nadd to tree\n(d, c)\nreject as forms circuit (p, 5, c, p)\n(d, a)\nreject as forms circuit (p, 5, a, p)\n(a, b)\nadd to tree\np\na\nb\nc\nd\n6\n2\n8\n10\nResulting in a total cost of\n2 + 3 + 4 + 6 = 15 million euro\n6 marks = 5 algorithm + 1 interpretation\n\u2022\nNeed to show algorithm implementation \u2014 including rejecting of edges\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Graph Theory",
+      "Algorithms & Complexity"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 3 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "(bookwork)\n7 marks = 2 + 2 + 3\n\u2022\nNeed matching to known relation properties (injective, surjective, bijective,\nfunction, order preserving, identity, etc) not just translate code",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Relations & Functions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "(i)\nConstruct a logical expression to represent this circuit.\n(y \u2227\u00ac x) \u2228(\u00ac y \u2227x)\n(ii)\nIs there an input case for which output is on?\nx\ny\ny \u2227\u00ac x\n\u00ac y \u2227x\n(y \u2227\u00ac x) \u2228(\u00ac y \u2227x)\nF\nF\nF\nF\nF\nF\nT\nT\nF\nT\nT\nF\nF\nT\nT\nT\nT\nF\nF\nF\nOutput is on when exactly one input is one.\n(iii) Hence, construct a logical circuit or equivalent expression, containing three inputs that will have\noutput on when exactly one input is on.\nDe\ufb01ne logical operator x \u2191y = (y \u2227\u00ac x) \u2228(\u00ac y \u2227x) then required expression is\nx \u2191y \u2191z\nNote x \u2191y is the exclusive or operator.\n10 marks = 4 + 3 + 3\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 4 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "Construct contrapositive statement\nLet n be a number greater than 3. Then we wish to prove statement\nIf n is a prime number\n|\n{z\n}\np\n, then n is either one more or one less than a multiple of 6\n|\n{z\n}\nq\nThis is logical equivalent to its contrapositive\nIf n is either neither one more or one less than a multiple of 6\n|\n{z\n}\n\u00ac q\n, then n is not a prime number\n|\n{z\n}\n\u00ac p\nProve using cases\nWe have cases based on the remainder of n divided by 6\nCase n mod 6 = 0:\nn mod 6 = 0 \u21d0\u21d2\u2203k \u2208N,\nn = 6k =\u21d2n is not prime\nCase n mod 6 = 1: Not applicable (excluded by premise)\nCase n mod 6 = 2:\nn mod 6 = 2 \u21d0\u21d2\u2203k \u2208N,\nn = 6k + 2 = 2(3k + 1) =\u21d2n is not prime\nCase n mod 6 = 3:\nn mod 6 = 3 \u21d0\u21d2\u2203k \u2208N,\nn = 6k + 3 = 3(2k + 1) =\u21d2n is not prime\nCase n mod 6 = 4:\nn mod 6 = 4 \u21d0\u21d2\u2203k \u2208N,\nn = 6k + 4 = 2(3k + 2) =\u21d2n is not prime\nCase n mod 6 = 5: Not applicable (excluded by premise)\nHence, regardless of case, we have that n is not prime. This proves the contrapositive\n(and original) statement above.\n8 marks = 3 contrapositive + 3 separation by cases + 1 conclusion.\nOr comparable proof\nPartial credit for relevent sample cases\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Logic & Propositional Logic",
+      "Number Theory",
+      "Probability"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 5 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "(i)\nConstruct a recursive de\ufb01nition for the sequence.\nan = an\u22121 + 4 with a1 = 5\n(ii)\nConstruct a closed formula for the nth term of the sequence.\nan = 5 + 4(n \u22121)\n(iii) Is 2017 a term in the sequence? Explain.\nYes, since 2017 = 5 + 4(504 \u22121) (so a504 = 2017)\n4 marks = 1 + 1 + 2\n\u2022\nIterative is not same as recursive formula",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "(i)\nSince the matrix contains entries other than 1s and 0s, G is not simple. For example,\nthere are 2 edges from vertex 1 to vertex 4.\n(ii)\nThe sum of the entries in any row is the degree of the vertex corresponding to that\nrow. The degree sequence is therefore (2, 2, 3, 3, 4).\n(iii) The sum of the degrees is 14, and so G has 7 edges.\n6 marks = 2 + 2 + 2\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
     "year": 2017,
     "topic": [
       "Graph Theory"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 6 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "(i)\nHow many subsets are there of cardinality 4?\n\u00126\n\u0013\n= 15 subsets.\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n\u00123\n\u0013\n= 3 subsets. We need to select 1 of the 3 remaining elements to be in the\nsubset.\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n\u00126\n\u0013\n= 15 subsets. All subsets of cardinality 4 must contain at least one odd number.\n(iv)\nHow many subsets of cardinality 4 contain exactly one even number?\n\u00123\n\u0013\n= 3 subsets. Select 1 of the 3 even numbers. The remaining three odd numbers\nof S must all be in the set.\n8 marks = 2 + 2 + 2 + 2",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "d",
+    "text": "(i)\nSquares\n6 squares. Once you pick a dot for the top left corner, the other three dots are\ndetermined.\n(ii)\nQuadrilateral\n\u00007\n\u0001\u00007\n\u0001\n= 441 quadrilaterals.\nWe must pick two of the seven dots from the top\nrow and two of the seven dots on the bottom row. However, it does not make a\ndi\ufb00erence which of the two (on each row) we pick \ufb01rst because once these four dots\nare selected, there is exactly one quadrilateral that they determine.\n7 marks = 3 + 4\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 7 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "(i)\nNo, element 2 in target set has two incoming arrows.\n(ii)\nYes, every element in target set has at least one incoming arrow.\n4 marks = 2 + 2",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "Reason = any correct, relevant statement\n(i)\nNo\n(ii)\nYes\n(iii) No\n6 marks = 2 + 2 + 2\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 8 of 8\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "(i)\n\u0002\n\u0003\n+\n\u0002\n\u0003\n+\n\u0002\n\u0003\n= 24\n(ii)\n(n = 1)\n\u0002\n\u0003\n= 1\n(n = 2)\n\u0002\n\u0003\n+\n\u0002\n\u0003\n= 4\n(n = 3)\n\u0002\n\u0003\n+\n\u0002\n\u0003\n+\n\u0002\n\u0003\n= 9\n(n = 4)\n\u0002\n\u0003\n+\n\u0002\n\u0003\n+\n\u0002\n\u0003\n+\n\u0002\n\u0003\n= 16\n8 marks = 3 + 5",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "Proof Outline: Two cases, apply the Pigeon-Hole principle. . .\nGiven a graph with n vertices then consider two separate cases:\n\u2022 graph is connected so vertices have degree in range [1, ..., n \u22121].\n\u2022 graph is not connected so vertices have degree in range [0, ..., n \u22122].\nand think about what happens if you select n numbers from a set of less than n numbers\n\u2014 at least one number must be repeated.\n7 marks = 3 separation by cases + 3 pigeonhole principle + 1 conclusion\nOr comparable proof\nPartial credit for relevent sample cases",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Final_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Sets",
+      "Graph Theory",
+      "Probability"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -942,14 +1428,327 @@
   {
     "question_number": 4,
     "part": "d",
-    "text": "How many derangements are there of 4 elements?",
-    "marks": 6,
+    "text": "How many derangements are there of 4 elements?\n(6 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
     "year": 2017,
     "topic": [
       "Other"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 1 of 5\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "(i)\nNo integer is both even and odd.\n\u2200x \u2208Z(!(E(x) \u2227O(x)))\n(ii)\nOne more than any even integer is an odd integer.\n\u2200x \u2208Z(E(x) \u2192O(x + 1))\n(iii) There is prime number that is even.\n\u2203x \u2208N(E(x) \u2227x is prime)\n(iv)\nBetween any two reals numbers there is a third number.\n\u2200a \u2208R\u2200c\u2203b(a < c \u2192a < b < c)\n(v)\nThere is no integer between an integer and one more than that integer.\n\u2200x \u2208Z\u00ac\u2203y \u2208Z(x < y < x + 1)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Number Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "(i)\nHow many ways can you do this if there are no restrictions?\n\u000018\n\u0001\nways. Each outcome can be represented by a sequence of 14 stars and 4 bars.\n(ii)\nHow many ways can you do this if each bin must contain at least one basketball?\n\u000013\n\u0001\nways. First put one ball in each bin. This leaves 9 stars and 4 bars.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Probability"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(i)\nNo \u2014 sum of degree sequence is odd\n(ii)\nNo \u2014 three vertices of degree 6 in simple graph of 8 vertices implies the there is at most 2 vert\n(iii)\n(7, 6, 5, 4, 3, 2, 1)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "Despite its name, we are not looking for a combination here. The order in which the three\nnumbers appears matters. There are P(40, 3) = 40 \u00b7 39 \u00b7 38 di\ufb00erent possibilities for the\n\u201ccombination\u201d. This is assuming you cannot repeat any of the numbers (if you could, the\nanswer would be 403).\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Combinatorics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 2 of 5\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Reason = any correct, relevant statement\n(i)\nNo\n(ii)\nYes\n(iii) No",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "(i)\n(ii)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(i)\nstart at (3,3) and end at (10,10)?\n\u000014\n\u0001\n= 3432 paths. The paths all have length 14 (7 steps up and 7 steps right), we\njust select which 7 of those 14 should be up.\n(ii)\nstart at (3,3) and end at (10,10) and pass through (5,7)?\n\u00006\n\u0001\u00008\n\u0001\n= 840 paths. First travel to (5,7), and then continue on to (10,10).\n(iii) start at (3,3) and end at (10,10) and avoid (5,7)?\n\u000014\n\u0001\n\u2212\n\u00006\n\u0001\u00008\n\u0001\npaths.\nRemove all the paths found in preceding question.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "d",
+    "text": "(bookwork)\u2014 standard induction proof with the inductive step requiring proof by cases\n(3 \u00d7 3 \u21922 \u00d7 5) and (5 \u21922 \u00d7 3).\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 3 of 5\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "(i)\nIf f and g are both injective, must g \u25e6f be injective? Explain.\nYes, any argument based on at most one incoming arrow.\n(ii)\nIf f and g are both surjective, must g \u25e6f be surjective? Explain.\nYes, any argument based on at least one incoming arrow.\n(iii) Suppose g \u25e6f is injective. What, if anything, can you say about f and g? Explain.\n(iv)\nSuppose g \u25e6f is surjective. What, if anything, can you say about f and g? Explain.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Relations & Functions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "(i)\nMany solutions, either formula or graphical representation expected\n(ii)\nMany solutions, either formula or graphical representation expected\n(iii) None exist. Why?\n(iv) None exist. Why?",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "(i)\nDigits cannot be repeated and must be written in increasing order.\nThere are\n\u00007\n\u0001\nnumbers. Choose \ufb01ve of the seven digits and once chosen put them\nin increasing order.\n(ii)\nDigits can be repeated and must be written in non-decreasing order.\nThis requires stars and bars. Use a star to represent each of the 5 digits in the\nnumber, and use their position relative to the bars to say what numeral \ufb01lls that\nspot. So we will have 5 stars and 6 bars, giving\n\u000011\n\u0001\nnumbers.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "d",
+    "text": "(i)\nHow many subsets are there of cardinality 4?\n\u00126\n\u0013\n= 15 subsets.\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n\u00123\n\u0013\n= 3 subsets. We need to select 1 of the 3 remaining elements to be in the\nsubset.\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 4 of 5\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n\u00126\n\u0013\n= 15 subsets. All subsets of cardinality 4 must contain at least one odd number.\n(iv)\nHow many subsets of cardinality 4 contain exactly one even number?\n\u00123\n\u0013\n= 3 subsets. Select 1 of the 3 even numbers. The remaining three odd numbers\nof S must all be in the set.\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "App. Computing & BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "Forensics\nSemester: 1\nPage 5 of 5\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "(i)\n(ii)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "(bookwork)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Should apply Kruskal\u2019s algorithm using the cost matrix, without drawing a diagram of\nthe graph. One MST has edges\nAE, AH, HB, BC, BG, GF, FD\nThere are 3 minimum cost spanning trees.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Graph Theory",
+      "Algorithms & Complexity"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "We count all permutations, and subtract those which are not derangements.\n4! \u2212\n\"\u00124\n\u0013\n3! \u2212\n\u00124\n\u0013\n2! +\n\u00124\n\u0013\n1! \u2212\n\u00124\n\u0013\n0!\n#\n= 24 \u221215 = 9.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_2017_Repeat_E.pdf",
+    "year": 2017,
+    "topic": [
+      "Combinatorics"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -1075,17 +1874,343 @@
     "difficulty": "Hard"
   },
   {
+    "question_number": 4,
+    "part": "b",
+    "text": "Let R be the relation on the set A = {0, 1, 2, 3} given by\nR = {(0, 0), (0, 1), (0, 3), (1, 0), (1, 1), (2, 2), (3, 0), (3, 3)}\n(i)\nRepresent R using a digraph.\n(ii)\nIs R re\ufb02exive? symmetric? transitive? Justify your answers.\n(iii) Is R irre\ufb02exive? Justify your answer.\n(2 + 6 + 1 = 9 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Sets",
+      "Relations & Functions",
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "How many shortest lattice paths start at (2,4) and\n(i)\nend at (20,15)?\n(ii)\nend at (20,15) and pass through (10,6)?\n(iii) end at (20,15) and avoid (10,6)?\n(1 + 2 + 2 = 5 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
     "question_number": 5,
     "part": "a",
-    "text": "Consider the following logical circuit with two inputs, and single output.\n(i)\nConstruct a logical expression to\nrepresent this circuit.\n(ii)\nIs there an input case for which the\noutput is on?\n(iii) Hence, construct a logical circuit\nor equivalent expression, contain-\ning three inputs, x, y, and z, for\nwhich the output is on when ex-\nactly one input is on.\nx\ny\no\n(2 + 2 + 2 = 6 marks)\n(b)\nConsider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.",
+    "text": "Consider the following logical circuit with two inputs, and single output.\n(i)\nConstruct a logical expression to\nrepresent this circuit.\n(ii)\nIs there an input case for which the\noutput is on?\n(iii) Hence, construct a logical circuit\nor equivalent expression, contain-\ning three inputs, x, y, and z, for\nwhich the output is on when ex-\nactly one input is on.\nx\ny\no\n(2 + 2 + 2 = 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "Consider the function f : {1, 2, 3, 4, 5} \u2192{1, 2, 3, 4} given by the table below:\nx\n2\n4\nf(x)\n2\n1\n(i)\nIs f injective? Explain.\n(ii)\nIs f surjective? Explain.",
     "marks": 4,
     "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
     "year": 2021,
     "topic": [
-      "Logic & Propositional Logic",
       "Relations & Functions"
     ],
     "difficulty": "Medium"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "How many 9-bit strings (that is, bit strings of length 9) are there which satisfy each\nof the following criteria? Explain your answers.\n(i)\nStart with the sub-string 101.\n(ii)\nHave weight 5 (i.e., contain exactly \ufb01ve 1\u2019s) and start with the sub-string 101.\n(iii) Either start with 101 or end with 11 (or both).\n(iv) Have weight 5, and starts with 101 and ends with 11.\n(2 + 2 + 3 + 3 = 10 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 1 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "(i)\n\u201cAlice is the only one passing the exam.\u201d\n\u00acC \u2227A \u2227\u00acB\n(ii)\n\u201cBob passed the exam.\u201d\nB\n(iii) \u201cAll three students passed the exam.\u201d\nA \u2227B \u2227C\n(iv) \u201cAt least one student, among Alice, Bob and Carol, passed the exam.\u201d\nA \u2228B \u2228C\n(v)\n\u201cExactly one student passed the exam.\u201d\n(A \u2227\u00acB \u2227\u00acC) \u2228(\u00acA \u2227B \u2227\u00acC) \u2228(\u00acA \u2227\u00acB \u2227C)\n10 marks = 5 \u00d7 2 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "(i)\n\u2228pq\nNot well formed. Logical and, \u2228is a binary operator, expected in\ufb01x notation.\n(ii)\np\u00ac\u00acr\nNot well formed. Logical not operator, \u00ac is a unary operator.\n(iii) p\u00ac \u2192(q \u2227q)\nNot well formed. \u00ac applied to conditional operator\n(iv) (p \u2227\u00acq) \u2228(q\u00ac \u2192q)\nNot well formed. Conditional operator, \u2192is a binary operator.\n4 marks = 4 \u00d7 1, justi\ufb01cation required",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "(i)\n(ii)\n(iii) 1\n(iv) 1\n(v)\n(vi) 216 = 65, 536\n6 marks = 6 \u00d7 1\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 2 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "a",
+    "text": "Partial marks for correct parsing of expression, demonstrating abil-\nity to compute logical expression, implication of satis\ufb01ability de\ufb01ni-\ntion.\n(\u00acp \u2228q)\n|\n{z\n}\n\u2227(q \u2192(\u00acr \u2227\u00acp)\n|\n{z\n}\n)\n|\n{z\n}\n\u2227(p \u2228r)\n| {z }\n|\n{z\n}\nE\np\nq\nr\n\u00acp \u2228q\n\u00acr \u2227\u00acp\nq \u2192(\u00acr \u2227\u00acp)\np \u2228r\nE\nF\nF\nF\nT\nF\nF\nT\nF\nF\nF\nT\nT\nF\nF\nT\nF\nF\nT\nF\nF\nF\nT\nT\nF\nF\nT\nT\nF\nF\nT\nT\nF\nT\nF\nF\nT\nF\nF\nT\nF\nT\nF\nT\nT\nT\nT\nF\nF\nT\nT\nF\nT\nF\nT\nT\nT\nT\nT\nT\nT\nT\nT\nF\nF\nSince there is (at least) one row in which the output is True, the expression is satis\ufb01able.\n5 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "(i)\nSquares\n1 \u00d7 1 Square: 7 \u00d7 2 = 14. Pick a dot for the top left corner, leaving room for\n1 \u00d7 1 square, the other three dots are determined. 2 \u00d7 2 Square: 6 \u00d7 1 = 6. Pick a\ndot for the top left corner, leaving room for 2 \u00d7 2 square, the other three dots are\ndetermined.\nAns: 20 Squares.\n(ii)\nRectangles\nStarting at top row: 2 \u00d7\n\u00008\n\u0001\n= 56 rectangles. Pick any two of the eight dots from\nthe top row, order does not matter, and then rectnagle height is either 1 or 2.\nStarting at middle row: 1\u00d7\n\u00008\n\u0001\n= 28 rectangles. Pick any two of the eight dots from\nthe middle row, order does not matter, and then rectnagle height is 1.\nAns: 84 Rectangles.\n(iii) Right angled triangles\nWe could count triangles directly but easier to think of any right angled triangle is\nhalf of a rectangle (cut diagonally). There are two ways to cut a rectangle diagonally\nso each rectangle gives rise to four distinct right angled triangles.\nAns: 84 \u00d7 4 = 336 Right angled triangles.\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 3 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n9 marks = 3 \u00d7 3 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(i)\nThe wheel graph, W4.\nIs non-Eulerian as it has 4 nodes with odd degree.\n(ii)\nThe complete bipartite graph, K4,2.\nIs Eulerian as is connected and all vertices are of even degree.\n(iii) The Peterson graph.\nIs non-Eulerian as all 10 vertices are of odd degree.\n6 marks\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 4 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "A = {1, 4, 9},\nB = {1, 8}\n2 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "(i)\nWhat is the output of f(7)? and f(10)?\nf(7) = 22, f(10)=5\n(ii)\nWhat is the output of h(12)?\n[12, 6, 3, 10, 5, 16, 8, 4, 2, 1]\n(iii) What is the output of g(10)?\ng(10) = 8\n(iv) For which values of n does the expression g(n)==n compute to True ?\n4,2, or 1 since this sequence forms a cycle in f.\n8 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "(i)\nHow many subsets are there of cardinality 4?\n\u00126\n\u0013\n= 15 subsets.\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": "|.\n26 = 64 subsets.\n(iii) How many subsets of cardinality 4 have {2, 4, 6} as a subset?\n\u00123\n\u0013\n= 3 subsets. We need to select 1 of the 3 remaining elements to be in the\nsubset.\n(iv)\nHow many subsets of cardinality 4 contain at least one prime number (2, 3, or 5)?\n\u00126\n\u0013\n= 15 subsets. All subsets of cardinality 4 must contain at least one prime.\n(v)\nHow many subsets of cardinality 4 contain exactly one prime?\n\u00123\n\u0013\n= 3 subsets. Select 1 of the 3 primes. The three non-primes (composite num-\nbers) of S must all be in the set.\n10 marks = 5 \u00d7 2 marks\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Sets",
+      "Number Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 5 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "(reason = any correct, relevant statement)\n(i)\nTrue\n(ii)\nFalse\n(iii) True\n(iv) True\n(v)\nFalse\n(vi) True\n6 marks = 6 \u00d7 1",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "(i)\nRepresent R using a digraph.\n0\n2\n(ii)\nIs R re\ufb02exive? symmetric? transitive?\nR is re\ufb02exive, i.e. there is a loop at each vertex.\nR is symmetric, i.e. the arrows joining a pair of di\ufb00erent vertices always appear in\na pair with opposite arrow directions.\nR is not transitive. This is because otherwise the arrow from 1 to 0 and arrow from\n0 to 3 would imply the existence of an arrow from 1 to 3 (which doesn\u2019t exist).\n(iii) Is R irre\ufb02exive?\nNo (+ justi\ufb01cation)\nMark breakdown: 2 (digraph) + 6 (3 \u00d7 2)+1=9",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "(i)\nstart at (2,4) and end at (20,15)?\n\u000018+11\n\u0001\n= 34, 597, 290 paths. The paths all have length 29 (18 steps right and 11\nsteps up), we just select which 11 of those 29 should be up.\n(ii)\nstart at (2,4) and end at (20,15) and pass through (10,6)?\n\u00008+2\n\u0001\u000010+9\n\u0001\n= 45 \u00d7 92, 378 = 4, 157, 010 paths.\nFirst travel to (10,6), and then\ncontinue on to (20,15).\n(iii) start at (2,4) and end at (20,15) and avoid (10,6)?\n\u000029\n\u0001\n\u2212\n\u000010\n\u0001\u000019\n\u0001\n= 34, 597, 290 \u22124, 157, 010 = 30, 440, 280 paths.\nRemove all the paths found in preceding question.\n5= 1+2+2\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 6 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "(i)\nConstruct a logical expression to represent this circuit.\n(y \u2227\u00ac x) \u2228(\u00ac y \u2227x)\n(ii)\nIs there an input case for which output is on?\nx\ny\ny \u2227\u00ac x\n\u00ac y \u2227x\n(y \u2227\u00ac x) \u2228(\u00ac y \u2227x)\nF\nF\nF\nF\nF\nF\nT\nT\nF\nT\nT\nF\nF\nT\nT\nT\nT\nF\nF\nF\nOutput is on when exactly one input is one.\n(iii) Hence, construct a logical circuit or equivalent expression, containing three inputs that will have\noutput on when exactly one input is on.\nDe\ufb01ne logical operator x \u2191y = (y \u2227\u00ac x) \u2228(\u00ac y \u2227x) then required expression is\nx \u2191y \u2191z\nNote x \u2191y is the exclusive or operator.\n6 marks = 2 + 2 + 2",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "(i)\nNo, element 2 in target set has two incoming arrows.\n(ii)\nYes, every element in target set has at least one incoming arrow.\n4 marks",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "(i)\nStart with the sub-string 101.\nNo constraints on remaining 6 bits, so 26.\n(ii)\nHave weight 5 (i.e., contain exactly \ufb01ve 1\u2019s) and start with the sub-string 101.\nIn the remaining 6 bit, three of which must be 1, so\n\u00006\n\u0001\n= 20\n(iii) Either start with 101 or end with 11 (or both).\nStart with 101: No constraints on remaining 6 bits, so 26.\nEnds with 11: No constraints on preceeding 7 bits, so 27.\nStart with 101 and ends with 11: No constraints on middle 4 bits, so 24.\nAns (remove double counting): 26 + 27 \u221224 = 64 + 128 \u221216 = 176\n\n\nWATERFORD INSTITUTE OF TECHNOLOGY\nOUTLINE MODEL ANSWERS & MARKING SCHEME\nCourse: BSc",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "h",
+    "text": "in AC, in CF, in the IoT\nSemester: 1\nPage 7 of 7\nSubject: Discrete Mathematics\nExaminer: Dr D. Flynn, Dr K Murphy\n(iv)\nHave weight 5, and starts with 101 and ends with 11.\nThe middle 4 digits must have weight 1 so that the entire string has weight 5. Hence\nhave\n\u00004\n\u0001\n= 4 possibilities.\n10 marks = 2 + 2 + 3 + 3",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202122_Final_E.pdf",
+    "year": 2021,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -1285,14 +2410,15 @@
   {
     "question_number": 5,
     "part": "c",
-    "text": "Use a membership table, or otherwise, to determine whether the following expression\ninvolving sets is true\n(A \\ B) \\ (B \\ C) = A \\ B",
-    "marks": 5,
+    "text": "Use a membership table, or otherwise, to determine whether the following expression\ninvolving sets is true\n(A \\ B) \\ (B \\ C) = A \\ B\n(5 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202223_Final_E.pdf",
     "year": 2022,
     "topic": [
-      "Sets"
+      "Sets",
+      "Logic & Propositional Logic"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -1483,27 +2609,76 @@
   {
     "question_number": 5,
     "part": "c",
-    "text": "(i)\nWhat does the following function do? (Justify your answer.)\ndef calculateWhat (n ) :\ni f n == 0 or n == 1:\nreturn 1\nreturn n\u2217calculateWhat (n\u22121)\n(ii)\nWhat value will calculateWhat(5) return?",
-    "marks": 5,
+    "text": "(i)\nWhat does the following function do? (Justify your answer.)\ndef calculateWhat (n ) :\ni f n == 0 or n == 1:\nreturn 1\nreturn n\u2217calculateWhat (n\u22121)\n(ii)\nWhat value will calculateWhat(5) return?\n(5 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202223_Repeat_E.pdf",
     "year": 2022,
     "topic": [
+      "Logic & Propositional Logic",
       "Relations & Functions"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
     "part": "a",
-    "text": "Consider the following logical circuit with two inputs, A and B, and output Y .\nA\nB\nY\n(i)\nConstruct a logical expression to represent the output, Y .\n(ii)\nConstruct a truth table for this expression and classify the logical expression\nas a tautology, a contradiction, or satis\ufb01able.\n(iii) Compare the inputs to the output and construct a shorter (fewer logic gates)\nlogical expression that is logically equivalent to the original circuit.\n([4 + 4 + 4] 12 marks)\n(b)\nWhat does the following code output? (Justify your answer.)\nA = {3 ,\n5 , 7}\nB = {3 ,\n5 ,\n6 , 7}\n4\nfor x in A:\ni f\nx not in B:\nprint ( False )\nbreak\nelse :\nprint ( len (A)<len (B))",
-    "marks": 4,
+    "text": "Consider the following logical circuit with two inputs, A and B, and output Y .\nA\nB\nY\n(i)\nConstruct a logical expression to represent the output, Y .\n(ii)\nConstruct a truth table for this expression and classify the logical expression\nas a tautology, a contradiction, or satis\ufb01able.\n(iii) Compare the inputs to the output and construct a shorter (fewer logic gates)\nlogical expression that is logically equivalent to the original circuit.\n([4 + 4 + 4] 12 marks)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
       "Logic & Propositional Logic",
       "Boolean Algebra"
     ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "What does the following code output? (Justify your answer.)\nA = {3 ,\n5 , 7}\nB = {3 ,\n5 ,\n6 , 7}\n4\nfor x in A:\ni f\nx not in B:\nprint ( False )\nbreak\nelse :\nprint ( len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "a",
+    "text": "<len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": ")",
+    "marks": 4,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
     "difficulty": "Medium"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "Let S = {1, 2, 4, 8, 16, 32}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of S are there? That is, \ufb01nd |P(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 13?\n([1 + 1 + 2] 4 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 2,
@@ -1516,6 +2691,126 @@
       "Logic & Propositional Logic"
     ],
     "difficulty": "Medium"
+  },
+  {
+    "question_number": 2,
+    "part": "b",
+    "text": "Consider the following code\nmessage = \u2019Hi ,\nI am 2. \u2019\nprint ( \u2019 char \u2019 ,\n\u2019A\u2019 ,\n\u2019B \u2019 ,\n\u2019C \u2019 ,\n\u2019D\u2019 ,\n\u2019E \u2019 ,\nsep=\"\\ t \" )\nfor c in message :\nprint ( c ,\nc . islower () ,\nc . isupper () ,\nc . isalpha () ,\nc . i s d i g i t () ,\nsep=\"\\ t \" )\nwhich produces the following table (only the \ufb01rst three rows are shown).\nchar\nA\nB\nC\nD\nH\nFalse\nTrue\nTrue\nFalse\ni\nTrue\nFalse\nTrue\nFalse\n,\nFalse\nFalse\nFalse\nFalse\nI\na\nm\n.\nWe have predicate\nA",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "= \u201ccharacter c is a lower case letter.\u2032\u2032\nand similarly for B",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": ", C",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": ", and D",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": ".\nComplete the given table and determine the truth value of the following quanti\ufb01ers.\n(Justify your answers)\n(i)\nall ([c.isupper() for c in message])\n(ii)\n\u2203c\n\u0002\nB",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "\u2227C",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "\u0003\n(iii) \u2200c\n\u0002\nC",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "\u2192(A",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "\u2228B",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": ")\n\u0003\n(iv)\nany([c. isdigit () and c.isalpha() for c in message])\n([4 + 4 \u00d7 3] 16 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 3,
@@ -1543,6 +2838,18 @@
     "difficulty": "Medium"
   },
   {
+    "question_number": 3,
+    "part": "c",
+    "text": "Consider the sequence\n7, 12, 17, 22, 27, . . .\n(i)\nConstruct a recursive de\ufb01nition for the sequence.\n(ii)\nConstruct a closed formula for the nth term of the sequence.\n(iii) Is 2023 a term in the sequence? Explain.\n(iv) How many terms does the sequence 7, 12, 17, 22, 27, . . . , 437 have?\n(v)\nDetermine the sum: 7 + 12 + 17 + 22 + 27 + \u00b7 \u00b7 \u00b7 + 437.\n([5 \u00d7 2] 10 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
     "question_number": 4,
     "part": "a",
     "text": "The function is_what has parameters R (a relation), and A and B (both sets). What\nproperty does the function check for? (Justify your answer.)\ndef is_what (R,A,B) :\nfor a , b in R:\ni f\na not in A:\nreturn False\ni f b not in B:\nreturn False\nreturn {b for _, b in R}==B",
@@ -1558,19 +2865,254 @@
   {
     "question_number": 4,
     "part": "b",
-    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. (Justify your answers.)\n(i)\n5 \u2208C\n(ii)\n{9} in C\n(iii)\n{3} \u2286A\n(iv)\nA.intersection(B).issubset(B.union(C))\n(v)\nB \u2286A\n(vi)\nB.union(C).intersection(A). isdisjoint (C)",
-    "marks": 6,
+    "text": "Let A = {0, 2, 3}, B = {2, 3}, and C = {1, 5, 9}. Determine which of the following\nstatements are true. (Justify your answers.)\n(i)\n5 \u2208C\n(ii)\n{9} in C\n(iii)\n{3} \u2286A\n(iv)\nA.intersection",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
     "year": 2023,
     "topic": [
       "Sets"
     ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": ".issubset(B.union",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": ")\n(v)\nB \u2286A\n(vi)\nB.union",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": ".intersection",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": ". isdisjoint",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
     "difficulty": "Hard"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Evaluate each of the following.\n(i)\nX\nk=0\n2k(k mod 2)\n(ii)\nX\nk=1\n(2k \u22121)\n(iii)\nY\nk=0\n(k + 1)\n([3 \u00d7 3] 9 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "How many 6-bit strings (that is, bit strings of length 6) exist which satisfy each of\nthe following criteria? (Justify your answers.)\n(i)\nStart with the sub-string 01.\n(ii)\nHave weight 3 (i.e., contain exactly three 1\u2019s) and start with the sub-string 01.\n(iii) Either start with 01 or end with 11 (or both).\n(iv) Have weight 3, starts with 01, and ends with 11.\n([1 + 1 + 2 + 2] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "Let R be a relation on the set A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} where (a, b) \u2208R i\ufb00a \u2212b\nis a multiple of 3.\n(i)\nRepresent R using a digraph.\n(ii)\nIs R re\ufb02exive? symmetric? transitive? (Justify your answer.)\n(iii) Is R an equivalence relation? and if yes, what are the resulting equivalence\nclasses?\n([3 + 3 + 2] 8 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets",
+      "Relations & Functions",
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "Consider the functions de\ufb01ned by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf(4)\n(ii)\ng(2)\n(iii)\nf(5) + g(2) \u2212h(4)\n(iv)\nf(g(1))\n(v)\ng(h(2))\n(vi)\nh(f(3))\n([6 \u00d7 1] 6 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\n\n\nPython Cheat Sheet\ninteger, \ufb02oat, boolean, string, bytes\nint\n0\n\u2212192\n0b110\n| {z }\nbinary\n0x3F\n| {z }\nhex\n\ufb02oat\n9.32\n0.0\n\u22121.7E\u22126\n|{z}\n\u00d710\u22126\nbool\nFalse\n| {z }\nTrue\n|{z}\nstr\n\u2019some text\u2019 or \u201dsome text\u201d\nbytes\nb\u201dtext\\xfe\\775\u201d\nBase Types\nordered containers \u2014 repeatable values\nlist\n[1,5,3]\n[\u201da\u201d ,1,5,5]\n[5]\n[]\ntuple\n(1,5,3)\n\u201da\u201d,1,5,5\n(5,)\n()\n\u2197\nImmutable (non-modi\ufb01able values)\n\u2198str\n\u201d153\u201d\n\u201d\u201d\nkey containers \u2014 no order, unique keys\nset\n{\u201dkey1\u201d,\u201dkey2\u201d}\n{1,9,3,0}\nset()\ndict\n{\u201dkey1\u201d:value1,\u201dkey2\u201d:value2}\ndict(a=3,b=\u201dv\u201d)\n{}\nContainer Types\ntype(expression)\nint(\u2019153\u2019) \u219215\nint(\u20193f\u2019 ,16) \u219263\n(Specify base in 2nd parameter)\nint(\u221211.24e8) \u2192\u22121124000000\nint(15.56) \u219215\n(Truncate decimal point)\nround(15.58,1) \u219215.6\n(Round to 1 decimal place)\n\ufb02oat(\u201915.56\u2019) \u219215.56\nbool(x)\n(False for None, zero or empty containers)\nstr(x)\n(String representation of x.)\nchr(65) \u2192\u2019A\u2019\ncode \u2194char\nord(\u2019A\u2019) \u219265\nlist (\u2019abc\u2019) \u2192[ \u2019a\u2019, \u2019b\u2019, \u2019c\u2019 ]\ndict ([(3, \u2019three\u2019 ), (1, \u2019one\u2019 )]) \u2192{3:\u2019three\u2019 , 1:\u2019one\u2019}\nset([ \u2019one\u2019, \u2019two\u2019]) \u2192{\u2019one\u2019, \u2019two\u2019}\n(Split string using a separator, str \u2192list of str)\n\u2019random:data:666\u2019.split(\u2019 : \u2019) \u2192[ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]\n(Join a list of strings, list of str \u2192str)\n\u2019 : \u2019 . join ([ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]) \u2192\u2019random:data:666\u2019\n(Convert each element in a collection)\n[int(x) for x in [ \u20191\u2019, \u201929\u2019, \u2019\u22123\u2019]] \u2192[1, 29, \u22123]\nConversions\nrange([start,] end [,step])\nstart default is 0 (inclusive), end (exclu-\nsive), step default is 1.\nrange(5) \u21920,1,2,3,4\nrange(2,5) \u21922,3,4\nrange(2,12,3) \u21922,5,8,11\nrange(20,5,\u22125) \u219220,15,10\nInteger Sequences\nOperators\n|\n.union\n&\n. intersection\n\u2212\n. di\ufb00erence\nMethods\ns.add(key)\ns.update(s2)\ns. clear ()\ns.remove(key)\nOperations on Sets\nMethods\na.append(value)\na.extend(a2)\ns. insert (idx,value)\na.pop()\nOperations on Lists\nmin",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets",
+      "Logic & Propositional Logic",
+      "Relations & Functions",
+      "Number Theory",
+      "Boolean Algebra",
+      "Probability"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "max",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sum",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sorted",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "(Number of elements in collection c)\nall",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if all items in c evaluate to True, else False.\nany",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if at least one item in c evaluate to True, else False.\nGeneric Operations on Containers\n0\n-11\n1\n-10\n2\n-9\n3\n-8\n4\n-7\n5\n-6\n6\n-5\n7\n-4\n8\n-3\n9\n-2\n10\n-1\nstandard indexing\nnegative indexing\nA[9]\nA[\u22129]\na [3:6] \u2192[8, 16, 32]\na[1:\u22121] \u2192[2, 4, 8, 16, 32, 64, 128, 256, 512]\na[::\u22121] \u2192[1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1]\nSequence Containers Indexing\n(Loop over values)\nfor value in A:\nprint(value)\n(Count and loop over values)\nfor k,value in enumerate",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, value)\n(While loop)\nk = 0\nwhile k<len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, A[k])\nk += 1\n}\nInitialisation before loop.\nupdate within loop.\nLooping over Collections\nbreak immediatly exits loop. continue skips to next iteration.\nelse block for normal loop exit.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Final_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
     "part": "a",
-    "text": "Consider the sequence 5, 8, 11, 14, 17, 20, ...\n(i)\nConstruct a recursive definition for the sequence.\n(ii)\nConstruct a closed form definition the nth term of the sequence.\n(iii) Is 2024 a term in the sequence?\n(iv) How many terms of the sequence are less than 1000?\n(v)\nDetermine the sum of the first 100 terms of the sequence.\n([5 \u00d7 2] 10 marks)\n(b)\nWhat does the following function do? (Justify your answer).\ndef isWhat (n ) :\ni f\n(n > 2 ) :\nfor\ni\nin range (2 , n//2+1):\ni f\n(n % i ) == 0:\nreturn False\nelse :\ncontinue\nreturn True\ne l i f\n(n==2):\nreturn True\nelse :\nreturn False",
+    "text": "Consider the sequence 5, 8, 11, 14, 17, 20, ...\n(i)\nConstruct a recursive definition for the sequence.\n(ii)\nConstruct a closed form definition the nth term of the sequence.\n(iii) Is 2024 a term in the sequence?\n(iv) How many terms of the sequence are less than 1000?\n(v)\nDetermine the sum of the first 100 terms of the sequence.\n([5 \u00d7 2] 10 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "b",
+    "text": "What does the following function do? (Justify your answer).\ndef isWhat (n ) :\ni f\n(n > 2 ) :\nfor\ni\nin range (2 , n//2+1):\ni f\n(n % i ) == 0:\nreturn False\nelse :\ncontinue\nreturn True\ne l i f\n(n==2):\nreturn True\nelse :\nreturn False",
     "marks": 4,
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
@@ -1578,6 +3120,18 @@
       "Relations & Functions"
     ],
     "difficulty": "Medium"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "How many shortest lattice paths start at (2, 3) and\n(i)\nend at (7, 12)?\n(ii)\nend at (7, 12) and pass through (4, 8)?\n(iii) end at (7, 12) and avoid (4, 8)?\n([3 \u00d7 2] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 2,
@@ -1632,15 +3186,124 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Consider the sets defined by the Python code\nU = set (range (1 ,\n10))\nA = set (range (1 ,\n8 ,\n2))\nB = set (range (2 ,\n9 ,\n2))\nC = set (range (3 ,\n6))\nD = A. i n t e r s e c t i o n (C) . union (U. d i f f e r e n c e (B))\nE = U. d i f f e r e n c e (A. union (B) . i n t e r s e c t i o n (C))\nF = A. union (U. d i f f e r e n c e (B))\n;\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)\n(b)\nLet S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n(iv) How many subsets of cardinality 4 contain exactly one even number?\n([4 \u00d7 2] 8 marks)\n(c)\nAre the statements (P \u2228Q) \u2192R and (P \u2192R) \u2228(Q \u2192R) logically equivalent?\nExplain why.",
+    "text": "Consider the sets defined by the Python code\nU = set (range (1 ,\n10))\nA = set (range (1 ,\n8 ,\n2))\nB = set (range (2 ,\n9 ,\n2))\nC = set (range (3 ,\n6))\nD = A. i n t e r s e c t i o n",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": ". union (U. d i f f e r e n c e",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": ")\nE = U. d i f f e r e n c e (A. union",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": ". i n t e r s e c t i o n",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": ")\nF = A. union (U. d i f f e r e n c e",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": ")\n;\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Let S = {1, 2, 3, 4, 5, 6}\n(i)\nHow many subsets are there of cardinality 4?\n(ii)\nHow many subsets of cardinality 4 have {2, 3, 5} as a subset?\n(iii) How many subsets of cardinality 4 contain at least one odd number?\n(iv) How many subsets of cardinality 4 contain exactly one even number?\n([4 \u00d7 2] 8 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Are the statements (P \u2228Q) \u2192R and (P \u2192R) \u2228(Q \u2192R) logically equivalent?\nExplain why.",
     "marks": 6,
     "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
     "year": 2023,
     "topic": [
-      "Sets",
       "Logic & Propositional Logic"
     ],
     "difficulty": "Hard"
+  },
+  {
+    "question_number": 4,
+    "part": "a",
+    "text": "A = set (range (1 ,5))\nR = {(a , b) for a in A for b in A i f abs( a \u2212b) <= 2}\n(i)\nFrom the Python code above, write out the set A and the relation R in set\nnotation.\n(ii)\nRepresent the relation R as a digraph.\n(iii) Is the relation R reflexive? symmetric? transitive? (Justify your answer).\n(iv) Is R an equivalence relation? (Justify your answer).\n(v)\nDetermine whether the relation R is irreflexive? antisymmetric? asymmetric?\n(Justify your answer).\n([3 + 3 + 3 + 2 + 3] 14 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets",
+      "Relations & Functions",
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "How many 14-bit strings (that is, bit strings of length 14) are there which satisfy\neach of the following criteria? Explain your answer.\n(i)\nEnd with the sub-string 0011.\n(ii)\nHave weight 7 (i.e. contain exactly seven 1\u2019s in total) and end with the sub-\nstring 0011.\n(iii) Have weight of 7 and are divisible by 16.\n([2 + 2 + 2] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 5,
@@ -1653,6 +3316,250 @@
       "Number Theory"
     ],
     "difficulty": "Medium"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": "Consider the following code:\npassword = \u2019AaBb12#$ \u2019\nprint ( \u2019 char \u2019 ,\n\u2019A\u2019 ,\n\u2019B \u2019 ,\n\u2019C \u2019 ,\n\u2019D\u2019 ,\nsep=\"\\ t \" )\nfor c in password\n:\nprint ( c ,\nc . i s d i g i t () ,\nc . isupper () , c . islower () ,\nc . isalpha () ,\nsep=\"\\ t \" )\nwhich produces the following table (only the first three rows are filled in).\nchar\nD\nU\nL\nA\nA\nFalse\nTrue\nFalse\nTrue\na\nFalse\nFalse\nTrue\nTrue\nB\nFalse\nTrue\nFalse\nTrue\nb\n2\n#\n$\nWe have predicate\nD",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "= \u201cCharacter c is a digit.\u201d\nand similarly we have predicates for U",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": ", L",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": ", and A",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": ".\nComplete the given table and determine the truth value of the following quantifiers.\n(i)\nany([c. isdigit () for c in password])\n(ii)\nall ([c.isalpha or c. isdigit () or c.isupper() for c in password])\n(iii) \u2204c\n\u0002\nU",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2227L",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u0003\n(iv) \u2203c\n\u0002\n\u00acU",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2227\u00acL",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2227\u00acD",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2227\u00acA",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u0003\n([4 + 4 \u00d7 3] 16 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\n\n\nPython Cheat Sheet\ninteger, \ufb02oat, boolean, string, bytes\nint\n0\n\u2212192\n0b110\n| {z }\nbinary\n0x3F\n| {z }\nhex\n\ufb02oat\n9.32\n0.0\n\u22121.7E\u22126\n|{z}\n\u00d710\u22126\nbool\nFalse\n| {z }\nTrue\n|{z}\nstr\n\u2019some text\u2019 or \u201dsome text\u201d\nbytes\nb\u201dtext\\xfe\\775\u201d\nBase Types\nordered containers \u2014 repeatable values\nlist\n[1,5,3]\n[\u201da\u201d ,1,5,5]\n[5]\n[]\ntuple\n(1,5,3)\n\u201da\u201d,1,5,5\n(5,)\n()\n\u2197\nImmutable (non-modi\ufb01able values)\n\u2198str\n\u201d153\u201d\n\u201d\u201d\nkey containers \u2014 no order, unique keys\nset\n{\u201dkey1\u201d,\u201dkey2\u201d}\n{1,9,3,0}\nset()\ndict\n{\u201dkey1\u201d:value1,\u201dkey2\u201d:value2}\ndict(a=3,b=\u201dv\u201d)\n{}\nContainer Types\ntype(expression)\nint(\u2019153\u2019) \u219215\nint(\u20193f\u2019 ,16) \u219263\n(Specify base in 2nd parameter)\nint(\u221211.24e8) \u2192\u22121124000000\nint(15.56) \u219215\n(Truncate decimal point)\nround(15.58,1) \u219215.6\n(Round to 1 decimal place)\n\ufb02oat(\u201915.56\u2019) \u219215.56\nbool(x)\n(False for None, zero or empty containers)\nstr(x)\n(String representation of x.)\nchr(65) \u2192\u2019A\u2019\ncode \u2194char\nord(\u2019A\u2019) \u219265\nlist (\u2019abc\u2019) \u2192[ \u2019a\u2019, \u2019b\u2019, \u2019c\u2019 ]\ndict ([(3, \u2019three\u2019 ), (1, \u2019one\u2019 )]) \u2192{3:\u2019three\u2019 , 1:\u2019one\u2019}\nset([ \u2019one\u2019, \u2019two\u2019]) \u2192{\u2019one\u2019, \u2019two\u2019}\n(Split string using a separator, str \u2192list of str)\n\u2019random:data:666\u2019.split(\u2019 : \u2019) \u2192[ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]\n(Join a list of strings, list of str \u2192str)\n\u2019 : \u2019 . join ([ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]) \u2192\u2019random:data:666\u2019\n(Convert each element in a collection)\n[int(x) for x in [ \u20191\u2019, \u201929\u2019, \u2019\u22123\u2019]] \u2192[1, 29, \u22123]\nConversions\nrange([start,] end [,step])\nstart default is 0 (inclusive), end (exclu-\nsive), step default is 1.\nrange(5) \u21920,1,2,3,4\nrange(2,5) \u21922,3,4\nrange(2,12,3) \u21922,5,8,11\nrange(20,5,\u22125) \u219220,15,10\nInteger Sequences\nOperators\n|\n.union\n&\n. intersection\n\u2212\n. di\ufb00erence\nMethods\ns.add(key)\ns.update(s2)\ns. clear ()\ns.remove(key)\nOperations on Sets\nMethods\na.append(value)\na.extend(a2)\ns. insert (idx,value)\na.pop()\nOperations on Lists\nmin",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Sets",
+      "Logic & Propositional Logic",
+      "Number Theory",
+      "Boolean Algebra",
+      "Probability"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "max",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sum",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sorted",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "(Number of elements in collection c)\nall",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if all items in c evaluate to True, else False.\nany",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if at least one item in c evaluate to True, else False.\nGeneric Operations on Containers\n0\n-11\n1\n-10\n2\n-9\n3\n-8\n4\n-7\n5\n-6\n6\n-5\n7\n-4\n8\n-3\n9\n-2\n10\n-1\nstandard indexing\nnegative indexing\nA[9]\nA[\u22129]\na [3:6] \u2192[8, 16, 32]\na[1:\u22121] \u2192[2, 4, 8, 16, 32, 64, 128, 256, 512]\na[::\u22121] \u2192[1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1]\nSequence Containers Indexing\n(Loop over values)\nfor value in A:\nprint(value)\n(Count and loop over values)\nfor k,value in enumerate",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, value)\n(While loop)\nk = 0\nwhile k<len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, A[k])\nk += 1\n}\nInitialisation before loop.\nupdate within loop.\nLooping over Collections\nbreak immediatly exits loop. continue skips to next iteration.\nelse block for normal loop exit.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202324_Repeat_E.pdf",
+    "year": 2023,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -1669,14 +3576,37 @@
   {
     "question_number": 1,
     "part": "b",
-    "text": "Let R be a relation on the set A = {1, 2, 3}, where R = {(1, 1), (2, 2), (3, 3), (1, 2)}.\n(i)\nIs R reflexive? symmetric? transitive? Justify your answer.\n(ii)\nIs R an equivalence relation? Justify your answer.\n(iii) Is R antisymmetric? Justify your answer.\n([3 \u00d7 2] 6 marks)\n(c)\nHow many 12-bit strings (that is, bit strings of length 12) exist which satisfy each\nof the following criteria? (Justify your answers.)\n(i)\nStart with the sub-string 1101.\n(ii)\nHave weight 6 (i.e., contain exactly six 1\u2019s) and start with the sub-string 1101.\n(iii) Either start with 1101 or end with 1010 (or both).\n(iv) Have weight 6, start with 1101, and end with 1010.\n([1 + 1 + 2 + 2] 6 marks)\n(d)\nUse a truth table to determine whether the proposition\n(\u00acP \u2228Q) \u2192(P \u2227\u00acR) \u2228(Q \u2227R)\nis a contradiction, is satisfiable, or is a tautology.",
-    "marks": 6,
+    "text": "Let R be a relation on the set A = {1, 2, 3}, where R = {(1, 1), (2, 2), (3, 3), (1, 2)}.\n(i)\nIs R reflexive? symmetric? transitive? Justify your answer.\n(ii)\nIs R an equivalence relation? Justify your answer.\n(iii) Is R antisymmetric? Justify your answer.\n([3 \u00d7 2] 6 marks)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
       "Sets",
+      "Relations & Functions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "c",
+    "text": "How many 12-bit strings (that is, bit strings of length 12) exist which satisfy each\nof the following criteria? (Justify your answers.)\n(i)\nStart with the sub-string 1101.\n(ii)\nHave weight 6 (i.e., contain exactly six 1\u2019s) and start with the sub-string 1101.\n(iii) Either start with 1101 or end with 1010 (or both).\n(iv) Have weight 6, start with 1101, and end with 1010.\n([1 + 1 + 2 + 2] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 1,
+    "part": "d",
+    "text": "Use a truth table to determine whether the proposition\n(\u00acP \u2228Q) \u2192(P \u2227\u00acR) \u2228(Q \u2227R)\nis a contradiction, is satisfiable, or is a tautology.",
+    "marks": 6,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
       "Logic & Propositional Logic",
-      "Relations & Functions",
       "Boolean Algebra"
     ],
     "difficulty": "Hard"
@@ -1696,19 +3626,55 @@
   {
     "question_number": 2,
     "part": "b",
-    "text": "Consider lattice paths on a grid from (0, 0) to (7, 4), and you can only move right\nor up.\n(i)\nHow many distinct paths are there from (0, 0) to (7, 4)?\n(ii)\nHow many paths pass through (4, 2)?\n(iii) How many paths pass through either (3, 1) or (5, 3)?\n([2 + 3 + 4] 9 marks)\n(c)\nThe first term of a geometric progression is 10, and the common ratio is 0.5. Deter-\nmine whether the number 0.5 is a term in this progression. If yes, then determine\nthe position of 0.5 in the sequence.",
-    "marks": 3,
+    "text": "Consider lattice paths on a grid from (0, 0) to (7, 4), and you can only move right\nor up.\n(i)\nHow many distinct paths are there from (0, 0) to (7, 4)?\n(ii)\nHow many paths pass through (4, 2)?\n(iii) How many paths pass through either (3, 1) or (5, 3)?\n([2 + 3 + 4] 9 marks)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
       "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "The first term of a geometric progression is 10, and the common ratio is 0.5. Deter-\nmine whether the number 0.5 is a term in this progression. If yes, then determine\nthe position of 0.5 in the sequence.",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
     ],
     "difficulty": "Medium"
   },
   {
     "question_number": 3,
     "part": "a",
-    "text": "Let f : R \u2192R be defined by f(x) = 3x \u22125.\n(i)\nExplain why f has a inverse.\n(ii)\nDetermine f \u22121(x).\n(iii) Verify that f \u22121(f(x)) = x and f(f \u22121(x)) = x.\n([1 + 2 + 2] 5 marks)\n(b)\nA digital image starts at a resolution of 1024 \u00d7 768 pixels. We need to reduce the\nresolution by half for each step (in both dimensions) until the image size reaches a\nrequired value.\n(i)\nExpress the number of pixels at each step as a geometric sequence.\n(ii)\nFind the total number of pixels after three reduction steps.\n(iii) How many reductions are needed until the number of pixels drops below 1,000?\n([2 + 2 + 3] 7 marks)\n(c)\nConsider the following python code. Translate to mathematical notation using sum-\nmation (P) and/or product (Q) notation. Hence, or otherwise, determine the output\ngenerated.\nvar_a = 0\nfor k in range ( 1 , 3 ) :\nvar_b = 1\nfor\nj\nin range(k ) :\nvar_b \u2217= ( j+k)\u2217\u22172\nvar_a += var_b\n8\nprint ( f \"{var_a = }\" )",
+    "text": "Let f : R \u2192R be defined by f(x) = 3x \u22125.\n(i)\nExplain why f has a inverse.\n(ii)\nDetermine f \u22121(x).\n(iii) Verify that f \u22121(f(x)) = x and f(f \u22121(x)) = x.\n([1 + 2 + 2] 5 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "A digital image starts at a resolution of 1024 \u00d7 768 pixels. We need to reduce the\nresolution by half for each step (in both dimensions) until the image size reaches a\nrequired value.\n(i)\nExpress the number of pixels at each step as a geometric sequence.\n(ii)\nFind the total number of pixels after three reduction steps.\n(iii) How many reductions are needed until the number of pixels drops below 1,000?\n([2 + 2 + 3] 7 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Consider the following python code. Translate to mathematical notation using sum-\nmation (P) and/or product (Q) notation. Hence, or otherwise, determine the output\ngenerated.\nvar_a = 0\nfor k in range ( 1 , 3 ) :\nvar_b = 1\nfor\nj\nin range(k ) :\nvar_b \u2217= ( j+k)\u2217\u22172\nvar_a += var_b\n8\nprint ( f \"{var_a = }\" )",
     "marks": 5,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
@@ -1732,12 +3698,35 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "Let A = {0, 1, 2, 3, 4}, B = {3, 4, 5, 6}, and C = {1, 4, 5, 6, 7}, and let the universal\nset be U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Determine each of the following.\n(i)\nA \u222aB\n(ii)\nA \\ B\n(iii) B \u2229A\n(iv) A \u2295B\n(v)\n(A \u222aB) \u2229C\n(vi)\n\u00afA\n([6 \u00d7 1] 6 marks)\n(b)\nLet S = {2, 3, 5, 7, 11, 13, 17}.\n(i)\nHow many subsets are there of cardinality 3?\n(ii)\nHow many subsets of S are there? That is, find |P(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 15?\n([1 + 1 + 2] 4 marks)\n(c)\nDesign a logical circuit that represents the logical expression,\n(A \u2227(B \u2228C)) \u2228(\u00acB \u2227\u00acC).",
+    "text": "Let A = {0, 1, 2, 3, 4}, B = {3, 4, 5, 6}, and C = {1, 4, 5, 6, 7}, and let the universal\nset be U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Determine each of the following.\n(i)\nA \u222aB\n(ii)\nA \\ B\n(iii) B \u2229A\n(iv) A \u2295B\n(v)\n(A \u222aB) \u2229C\n(vi)\n\u00afA\n([6 \u00d7 1] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "Let S = {2, 3, 5, 7, 11, 13, 17}.\n(i)\nHow many subsets are there of cardinality 3?\n(ii)\nHow many subsets of S are there? That is, find |P(S)|.\n(iii) How many subsets of S are there where the sum of the elements equals 15?\n([1 + 1 + 2] 4 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "c",
+    "text": "Design a logical circuit that represents the logical expression,\n(A \u2227(B \u2228C)) \u2228(\u00acB \u2227\u00acC).",
     "marks": 5,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Sets",
       "Logic & Propositional Logic"
     ],
     "difficulty": "Medium"
@@ -1781,15 +3770,139 @@
   {
     "question_number": 5,
     "part": "c",
-    "text": "Consider the functions defined by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf(4)\n(ii)\ng(2)\n(iii)\nf(5) + g(2) \u2212h(4)\n(iv)\nf(g(1))\n(v)\ng(h(2))\n(vi)\nh(f(3))\n([6 \u00d7 1] 6 marks)\n(d)\nThe girth of a graph is the length of its shortest cycle. Write down the girth of\neach of the following graphs.\n(i)\nK9\n(ii)\nK5,7\n(iii) C8\n(iv) W8",
-    "marks": 8,
+    "text": "Consider the functions defined by the following Python code:\ndef\nf (x ) :\nreturn 2\u2217x + 3\ndef g (x ) :\nreturn x\u2217\u22173 \u22121\ndef h(x ) :\nreturn 5 / x\nEvaluate the following:\n(i)\nf(4)\n(ii)\ng(2)\n(iii)\nf(5) + g(2) \u2212h(4)\n(iv)\nf(g(1))\n(v)\ng(h(2))\n(vi)\nh(f(3))\n([6 \u00d7 1] 6 marks)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
     "year": 2024,
     "topic": [
-      "Relations & Functions",
-      "Graph Theory"
+      "Relations & Functions"
     ],
-    "difficulty": "Hard"
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "d",
+    "text": "The girth of a graph is the length of its shortest cycle. Write down the girth of\neach of the following graphs.\n(i)\nK9\n(ii)\nK5,7\n(iii) C8\n(iv) W8\n(8 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\n\n\nPython Cheat Sheet\ninteger, \ufb02oat, boolean, string, bytes\nint\n0\n\u2212192\n0b110\n| {z }\nbinary\n0x3F\n| {z }\nhex\n\ufb02oat\n9.32\n0.0\n\u22121.7E\u22126\n|{z}\n\u00d710\u22126\nbool\nFalse\n| {z }\nTrue\n|{z}\nstr\n\u2019some text\u2019 or \u201dsome text\u201d\nbytes\nb\u201dtext\\xfe\\775\u201d\nBase Types\nordered containers \u2014 repeatable values\nlist\n[1,5,3]\n[\u201da\u201d ,1,5,5]\n[5]\n[]\ntuple\n(1,5,3)\n\u201da\u201d,1,5,5\n(5,)\n()\n\u2197\nImmutable (non-modi\ufb01able values)\n\u2198str\n\u201d153\u201d\n\u201d\u201d\nkey containers \u2014 no order, unique keys\nset\n{\u201dkey1\u201d,\u201dkey2\u201d}\n{1,9,3,0}\nset()\ndict\n{\u201dkey1\u201d:value1,\u201dkey2\u201d:value2}\ndict(a=3,b=\u201dv\u201d)\n{}\nContainer Types\ntype(expression)\nint(\u2019153\u2019) \u219215\nint(\u20193f\u2019 ,16) \u219263\n(Specify base in 2nd parameter)\nint(\u221211.24e8) \u2192\u22121124000000\nint(15.56) \u219215\n(Truncate decimal point)\nround(15.58,1) \u219215.6\n(Round to 1 decimal place)\n\ufb02oat(\u201915.56\u2019) \u219215.56\nbool(x)\n(False for None, zero or empty containers)\nstr(x)\n(String representation of x.)\nchr(65) \u2192\u2019A\u2019\ncode \u2194char\nord(\u2019A\u2019) \u219265\nlist (\u2019abc\u2019) \u2192[ \u2019a\u2019, \u2019b\u2019, \u2019c\u2019 ]\ndict ([(3, \u2019three\u2019 ), (1, \u2019one\u2019 )]) \u2192{3:\u2019three\u2019 , 1:\u2019one\u2019}\nset([ \u2019one\u2019, \u2019two\u2019]) \u2192{\u2019one\u2019, \u2019two\u2019}\n(Split string using a separator, str \u2192list of str)\n\u2019random:data:666\u2019.split(\u2019 : \u2019) \u2192[ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]\n(Join a list of strings, list of str \u2192str)\n\u2019 : \u2019 . join ([ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]) \u2192\u2019random:data:666\u2019\n(Convert each element in a collection)\n[int(x) for x in [ \u20191\u2019, \u201929\u2019, \u2019\u22123\u2019]] \u2192[1, 29, \u22123]\nConversions\nrange([start,] end [,step])\nstart default is 0 (inclusive), end (exclu-\nsive), step default is 1.\nrange(5) \u21920,1,2,3,4\nrange(2,5) \u21922,3,4\nrange(2,12,3) \u21922,5,8,11\nrange(20,5,\u22125) \u219220,15,10\nInteger Sequences\nOperators\n|\n.union\n&\n. intersection\n\u2212\n. di\ufb00erence\nMethods\ns.add(key)\ns.update(s2)\ns. clear ()\ns.remove(key)\nOperations on Sets\nMethods\na.append(value)\na.extend(a2)\ns. insert (idx,value)\na.pop()\nOperations on Lists\nmin",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets",
+      "Logic & Propositional Logic",
+      "Graph Theory",
+      "Number Theory",
+      "Boolean Algebra",
+      "Probability"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "max",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sum",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sorted",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "(Number of elements in collection c)\nall",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if all items in c evaluate to True, else False.\nany",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if at least one item in c evaluate to True, else False.\nGeneric Operations on Containers\n0\n-11\n1\n-10\n2\n-9\n3\n-8\n4\n-7\n5\n-6\n6\n-5\n7\n-4\n8\n-3\n9\n-2\n10\n-1\nstandard indexing\nnegative indexing\nA[9]\nA[\u22129]\na [3:6] \u2192[8, 16, 32]\na[1:\u22121] \u2192[2, 4, 8, 16, 32, 64, 128, 256, 512]\na[::\u22121] \u2192[1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1]\nSequence Containers Indexing\n(Loop over values)\nfor value in A:\nprint(value)\n(Count and loop over values)\nfor k,value in enumerate",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, value)\n(While loop)\nk = 0\nwhile k<len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, A[k])\nk += 1\n}\nInitialisation before loop.\nupdate within loop.\nLooping over Collections\nbreak immediatly exits loop. continue skips to next iteration.\nelse block for normal loop exit.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Final_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   },
   {
     "question_number": 1,
@@ -1828,6 +3941,18 @@
     "difficulty": "Hard"
   },
   {
+    "question_number": 1,
+    "part": "d",
+    "text": "How many shortest lattice paths start at (4, 2) and\n(i)\nend at (9, 8)?\n(ii)\nend at (9, 8) and pass through (6, 5)?\n(iii) end at (9, 8) and avoid (6, 5)?\n([3 \u00d7 2] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Graph Theory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
     "question_number": 2,
     "part": "a",
     "text": "Consider the functions defined by the following Python code:\n(recall that // is integer division)\ndef\nf (x ) :\nreturn (x + 2) \u2217\u22172 \u22129\ndef g (x ) :\nreturn 3 \u2217x \u22121\ndef h(x ) :\nreturn x // 3\ndef\nj (x ) :\nreturn x % 5\ndef k(x ) :\nreturn 4 \u2212x\nEvaluate the following (note, show all work):\n(i) f(g(2))\n(ii) h(k(8))\n(iii) g(h(f(1)))\n(iv) j(k(j(12)))",
@@ -1843,7 +3968,19 @@
   {
     "question_number": 2,
     "part": "b",
-    "text": "Consider the sequence 8, 24, 40, 56, 72, 88, ...\n(i)\nConstruct a recursive definition for the sequence.\n(ii)\nConstruct a closed form definition the nth term of the sequence.\n(iii) Is 2024 a term in the sequence?\n(iv) How many terms of the sequence are less than 1000?\n(v)\nDetermine the sum of the first 100 terms of the sequence.\n([5 \u00d7 2] 10 marks)\n(c)\n(i)\nFor the following graph, determine its degree sequence.\nB\nA\nF\nE\nD\nC\n(ii)\nIs the graph a simple graph? Justify your answer.\n(iii) The girth of a graph is the length of its shortest cycle. Write down the girth\nof this graph.",
+    "text": "Consider the sequence 8, 24, 40, 56, 72, 88, ...\n(i)\nConstruct a recursive definition for the sequence.\n(ii)\nConstruct a closed form definition the nth term of the sequence.\n(iii) Is 2024 a term in the sequence?\n(iv) How many terms of the sequence are less than 1000?\n(v)\nDetermine the sum of the first 100 terms of the sequence.\n([5 \u00d7 2] 10 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "part": "c",
+    "text": "(i)\nFor the following graph, determine its degree sequence.\nB\nA\nF\nE\nD\nC\n(ii)\nIs the graph a simple graph? Justify your answer.\n(iii) The girth of a graph is the length of its shortest cycle. Write down the girth\nof this graph.",
     "marks": 6,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
@@ -1855,12 +3992,95 @@
   {
     "question_number": 3,
     "part": "a",
-    "text": "Consider the sets defined by the following Python code:\nU = set (range (1 ,\n12))\nA = set (range (2 ,\n10 ,\n3))\nB = set (range (1 ,\n12 ,\n2))\nC = set (range (3 ,\n8))\nD = (A. union (B) ) . d i f f e r e n c e (C)\nE = U. d i f f e r e n c e (A. i n t e r s e c t i o n (B))\nF = B. d i f f e r e n c e (A) . union (C. d i f f e r e n c e (B))\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)\n(b)\nLet A = {1, 2, 3, 4, 5, 6, 7}.\n(i)\nHow many subsets of A contain all the odd numbers?\n(ii)\nHow many subsets of A contain exactly two odd numbers?\n(iii) How many subsets of A contain at least two odd numbers?\n(iv) How many subsets of cardinality 5 contain exactly two even numbers?\n([4 \u00d7 2] 8 marks)\n(c)\nAre the statements (P \u2192Q) \u2227(Q \u2192R) and P \u2192(Q \u2227R) logically equivalent?\nExplain why.",
+    "text": "Consider the sets defined by the following Python code:\nU = set (range (1 ,\n12))\nA = set (range (2 ,\n10 ,\n3))\nB = set (range (1 ,\n12 ,\n2))\nC = set (range (3 ,\n8))\nD = (A. union",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": ") . d i f f e r e n c e",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "E = U. d i f f e r e n c e (A. i n t e r s e c t i o n",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": ")\nF = B. d i f f e r e n c e",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "a",
+    "text": ". union (C. d i f f e r e n c e",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": ")\n(i)\nWrite out the sets U, A, B, and C.\n(ii)\nUse a Venn Diagram to represent the sets above.\n(iii) Write down the equivalent mathematical expression for sets D, E, and F.\n(iv) Compute the values for sets D, E, and F.\n([2 + 2 + 1 + 1] 6 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "b",
+    "text": "Let A = {1, 2, 3, 4, 5, 6, 7}.\n(i)\nHow many subsets of A contain all the odd numbers?\n(ii)\nHow many subsets of A contain exactly two odd numbers?\n(iii) How many subsets of A contain at least two odd numbers?\n(iv) How many subsets of cardinality 5 contain exactly two even numbers?\n([4 \u00d7 2] 8 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 3,
+    "part": "c",
+    "text": "Are the statements (P \u2192Q) \u2227(Q \u2192R) and P \u2192(Q \u2227R) logically equivalent?\nExplain why.",
     "marks": 6,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
-      "Sets",
       "Logic & Propositional Logic"
     ],
     "difficulty": "Hard"
@@ -1868,19 +4088,43 @@
   {
     "question_number": 4,
     "part": "a",
-    "text": "A network router uses the following rules to determine the quality of service (QoS)\nfor different types of network traffic. Express each of these rules as a propositional\nlogic expression, using the atomic propositions:\n\u2022 V = \u201cThe traffic is video streaming.\u201d\n\u2022 P = \u201cThe traffic has high priority.\u201d\n\u2022 G = \u201cThe traffic is granted extra bandwidth.\u201d\n(i)\nIf the traffic is video streaming, then it has high priority.\n(ii)\nIf the traffic has high priority and is not granted extra bandwidth, then it is\nnot video streaming.\n(iii) If the traffic is granted extra bandwidth, then it is video streaming or it has\nhigh priority.\n(iv) If the traffic is not video streaming and does not have high priority, then it is\nnot granted extra bandwidth.\n([1 + 3 \u00d7 2] 7 marks)\n(b)\nThe third term of a geometric progression is 2, and the sixth term is 16. Find the\nfirst term and the common ratio of this progression.",
-    "marks": 3,
+    "text": "A network router uses the following rules to determine the quality of service (QoS)\nfor different types of network traffic. Express each of these rules as a propositional\nlogic expression, using the atomic propositions:\n\u2022 V = \u201cThe traffic is video streaming.\u201d\n\u2022 P = \u201cThe traffic has high priority.\u201d\n\u2022 G = \u201cThe traffic is granted extra bandwidth.\u201d\n(i)\nIf the traffic is video streaming, then it has high priority.\n(ii)\nIf the traffic has high priority and is not granted extra bandwidth, then it is\nnot video streaming.\n(iii) If the traffic is granted extra bandwidth, then it is video streaming or it has\nhigh priority.\n(iv) If the traffic is not video streaming and does not have high priority, then it is\nnot granted extra bandwidth.\n([1 + 3 \u00d7 2] 7 marks)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
       "Logic & Propositional Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "b",
+    "text": "The third term of a geometric progression is 2, and the sixth term is 16. Find the\nfirst term and the common ratio of this progression.",
+    "marks": 3,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
     ],
     "difficulty": "Medium"
   },
   {
     "question_number": 4,
     "part": "c",
-    "text": "How many 12-bit strings (that is, bit strings of length 12) are there which satisfy\neach of the following criteria? Explain your answer.\n(i)\nStart with the sub-string 110.\n(ii)\nHave weight 5 (i.e. contain exactly five 1\u2019s in total) and start with the sub-\nstring 110.\n(iii) Have weight of 6 and are divisible by 8.\n([1 + 2 + 2] 5 marks)\n(d)\nUse truth tables to show that the following proposition is a tautology:\n(p \u2192(q \u2228r)) \u2192((p \u2227\u00acq) \u2192r)",
+    "text": "How many 12-bit strings (that is, bit strings of length 12) are there which satisfy\neach of the following criteria? Explain your answer.\n(i)\nStart with the sub-string 110.\n(ii)\nHave weight 5 (i.e. contain exactly five 1\u2019s in total) and start with the sub-\nstring 110.\n(iii) Have weight of 6 and are divisible by 8.\n([1 + 2 + 2] 5 marks)",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "part": "d",
+    "text": "Use truth tables to show that the following proposition is a tautology:\n(p \u2192(q \u2228r)) \u2192((p \u2227\u00acq) \u2192r)",
     "marks": 5,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
@@ -1893,8 +4137,8 @@
   {
     "question_number": 5,
     "part": "a",
-    "text": "A = set (range (2 ,6))\nR = {(a , b) for a in A for b in A i f\na % b == 0}\n(i)\nFrom the Python code above, write out the set A and the relation R in set\nnotation.\n(ii)\nRepresent the relation R as a digraph.\n(iii) Is the relation R reflexive? symmetric? transitive? (Justify your answer).\n(iv) Is R an equivalence relation? (Justify your answer).\n(v)\nDetermine whether the relation R is irreflexive? antisymmetric? asymmetric?\n(Justify your answer).\n([3 + 2 + 3 + 2 + 3] 13 marks)\n(b)\nWhat does the following function do? (Justify your answer).\ndef isWhat (A,B) :\nfor element in A:\ni f\nelement not in B:\nreturn ( False )\nelse :\nreturn ( len (A)==len (B))",
-    "marks": 4,
+    "text": "A = set (range (2 ,6))\nR = {(a , b) for a in A for b in A i f\na % b == 0}\n(i)\nFrom the Python code above, write out the set A and the relation R in set\nnotation.\n(ii)\nRepresent the relation R as a digraph.\n(iii) Is the relation R reflexive? symmetric? transitive? (Justify your answer).\n(iv) Is R an equivalence relation? (Justify your answer).\n(v)\nDetermine whether the relation R is irreflexive? antisymmetric? asymmetric?\n(Justify your answer).\n([3 + 2 + 3 + 2 + 3] 13 marks)",
+    "marks": null,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
@@ -1902,18 +4146,166 @@
       "Relations & Functions",
       "Graph Theory"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   {
     "question_number": 5,
-    "part": "c",
-    "text": "The first term of an arithmetic progression is 3, and the common difference is 5.\nWhat is the 12th term of this arithmetic progression?",
-    "marks": 3,
+    "part": "b",
+    "text": "What does the following function do? (Justify your answer).\ndef isWhat (A,B) :\nfor element in A:\ni f\nelement not in B:\nreturn ( False )\nelse :\nreturn ( len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Relations & Functions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": "==len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "b",
+    "text": ")",
+    "marks": 4,
     "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
     "year": 2024,
     "topic": [
       "Other"
     ],
     "difficulty": "Medium"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "The first term of an arithmetic progression is 3, and the common difference is 5.\nWhat is the 12th term of this arithmetic progression?\n(3 marks)\nLaws of Logic\nLogical Connective\nSymbol\nPython Operator\nPrecedence\nLogic Gate\nNegation (Not)\n\u00ac\nnot\nHighest\nConjunctive (And)\n\u2227\nand\nMedium\nDisjunctive (Or)\n\u2228\nor\nLowest\nBasic Rules of Logic\nCommutative Laws\np \u2228q \u21d4q \u2228p\np \u2227q \u21d4q \u2227p\nAssociative Laws\n(p \u2228q) \u2228r \u21d4p \u2228(q \u2228r)\n(p \u2227q) \u2227r \u21d4p \u2227(q \u2227r)\nDistributive Laws\np \u2227(q \u2228r) \u21d4(p \u2227q) \u2228(p \u2227r)\np \u2228(q \u2227r) \u21d4(p \u2228q) \u2227(p \u2228r)\nIdentity Laws\np \u2228F \u21d4p\np \u2227T \u21d4p\nNegation Laws\np \u2227(\u00ac p) \u21d4F\np \u2228(\u00ac p) \u21d4T\nIdempotent Laws\np \u2228p \u21d4p\np \u2227p \u21d4p\nNull Laws\np \u2227F \u21d4F\np \u2228T \u21d4T\nAbsorption Laws\np \u2227(p \u2228q) \u21d4p\np \u2228(p \u2227q) \u21d4p\nDeMorgan\u2019s Laws\n\u00ac(p \u2228q) \u21d4\u00ac p \u2227\u00ac q\n\u00ac(p \u2227q) \u21d4\u00ac p \u2228\u00ac q\nInvolution Law\n\u00ac(\u00ac p) \u21d4p\nImplications and Equivalences\nDetachment (Modus Ponens)\n(p \u2192q) \u2227p \u21d2q\nIndirect Reasoning (Modus Tollens)\n(p \u2192q) \u2227\u00ac q \u21d2\u00ac p\nDisjunctive Addition\np \u21d2(p \u2228q)\nConjunctive Simpli\ufb01cation\n(p \u2227q) \u21d2p\n(p \u2227q) \u21d2q\nDisjunctive Simpli\ufb01cation\n(p \u2228q) \u2227\u00ac p \u21d2q\n(p \u2228q) \u2227\u00ac q \u21d2p\nChain Rule\n(p \u2192q) \u2227(q \u2192r) \u21d2(p \u2192r)\nResolution\n(\u00ac p \u2228r) \u2227(p \u2228q) \u21d2(q \u2228r)\nConditional Equivalence\np \u2192q \u21d4\u00ac p \u2228q\nBiconditional Equivalences\n(p \u2194q) \u21d4(p \u2192q) \u2227(q \u2192p)\n\u21d4(p \u2227q) \u2228(\u00ac q \u2227\u00ac q)\nContrapositive\np \u2192q \u21d4\u00ac q \u2192\u00ac p\n\n\nPython Cheat Sheet\ninteger, \ufb02oat, boolean, string, bytes\nint\n0\n\u2212192\n0b110\n| {z }\nbinary\n0x3F\n| {z }\nhex\n\ufb02oat\n9.32\n0.0\n\u22121.7E\u22126\n|{z}\n\u00d710\u22126\nbool\nFalse\n| {z }\nTrue\n|{z}\nstr\n\u2019some text\u2019 or \u201dsome text\u201d\nbytes\nb\u201dtext\\xfe\\775\u201d\nBase Types\nordered containers \u2014 repeatable values\nlist\n[1,5,3]\n[\u201da\u201d ,1,5,5]\n[5]\n[]\ntuple\n(1,5,3)\n\u201da\u201d,1,5,5\n(5,)\n()\n\u2197\nImmutable (non-modi\ufb01able values)\n\u2198str\n\u201d153\u201d\n\u201d\u201d\nkey containers \u2014 no order, unique keys\nset\n{\u201dkey1\u201d,\u201dkey2\u201d}\n{1,9,3,0}\nset()\ndict\n{\u201dkey1\u201d:value1,\u201dkey2\u201d:value2}\ndict(a=3,b=\u201dv\u201d)\n{}\nContainer Types\ntype(expression)\nint(\u2019153\u2019) \u219215\nint(\u20193f\u2019 ,16) \u219263\n(Specify base in 2nd parameter)\nint(\u221211.24e8) \u2192\u22121124000000\nint(15.56) \u219215\n(Truncate decimal point)\nround(15.58,1) \u219215.6\n(Round to 1 decimal place)\n\ufb02oat(\u201915.56\u2019) \u219215.56\nbool(x)\n(False for None, zero or empty containers)\nstr(x)\n(String representation of x.)\nchr(65) \u2192\u2019A\u2019\ncode \u2194char\nord(\u2019A\u2019) \u219265\nlist (\u2019abc\u2019) \u2192[ \u2019a\u2019, \u2019b\u2019, \u2019c\u2019 ]\ndict ([(3, \u2019three\u2019 ), (1, \u2019one\u2019 )]) \u2192{3:\u2019three\u2019 , 1:\u2019one\u2019}\nset([ \u2019one\u2019, \u2019two\u2019]) \u2192{\u2019one\u2019, \u2019two\u2019}\n(Split string using a separator, str \u2192list of str)\n\u2019random:data:666\u2019.split(\u2019 : \u2019) \u2192[ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]\n(Join a list of strings, list of str \u2192str)\n\u2019 : \u2019 . join ([ \u2019random\u2019, \u2019data\u2019, \u2019666\u2019]) \u2192\u2019random:data:666\u2019\n(Convert each element in a collection)\n[int(x) for x in [ \u20191\u2019, \u201929\u2019, \u2019\u22123\u2019]] \u2192[1, 29, \u22123]\nConversions\nrange([start,] end [,step])\nstart default is 0 (inclusive), end (exclu-\nsive), step default is 1.\nrange(5) \u21920,1,2,3,4\nrange(2,5) \u21922,3,4\nrange(2,12,3) \u21922,5,8,11\nrange(20,5,\u22125) \u219220,15,10\nInteger Sequences\nOperators\n|\n.union\n&\n. intersection\n\u2212\n. di\ufb00erence\nMethods\ns.add(key)\ns.update(s2)\ns. clear ()\ns.remove(key)\nOperations on Sets\nMethods\na.append(value)\na.extend(a2)\ns. insert (idx,value)\na.pop()\nOperations on Lists\nmin",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Sets",
+      "Logic & Propositional Logic",
+      "Number Theory",
+      "Boolean Algebra",
+      "Probability"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "max",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sum",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "sorted",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "(Number of elements in collection c)\nall",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if all items in c evaluate to True, else False.\nany",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "c",
+    "text": "\u2192True if at least one item in c evaluate to True, else False.\nGeneric Operations on Containers\n0\n-11\n1\n-10\n2\n-9\n3\n-8\n4\n-7\n5\n-6\n6\n-5\n7\n-4\n8\n-3\n9\n-2\n10\n-1\nstandard indexing\nnegative indexing\nA[9]\nA[\u22129]\na [3:6] \u2192[8, 16, 32]\na[1:\u22121] \u2192[2, 4, 8, 16, 32, 64, 128, 256, 512]\na[::\u22121] \u2192[1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1]\nSequence Containers Indexing\n(Loop over values)\nfor value in A:\nprint(value)\n(Count and loop over values)\nfor k,value in enumerate",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, value)\n(While loop)\nk = 0\nwhile k<len",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "part": "a",
+    "text": ":\nprint(k, A[k])\nk += 1\n}\nInitialisation before loop.\nupdate within loop.\nLooping over Collections\nbreak immediatly exits loop. continue skips to next iteration.\nelse block for normal loop exit.",
+    "marks": null,
+    "source_pdf": "Discrete_Mathematics_202425_Repeat_E.pdf",
+    "year": 2024,
+    "topic": [
+      "Other"
+    ],
+    "difficulty": "Easy"
   }
 ]
