@@ -54,7 +54,7 @@ def extract_questions_from_pdf(pdf_path):
                 "source_pdf": os.path.basename(pdf_path),
                 "year": year,
                 "topic": "Unknown",
-                "difficulty": "Unknown"
+                "difficulty": infer_difficulty(int(marks))
             })
 
     return questions
@@ -63,6 +63,11 @@ def extract_questions_from_pdf(pdf_path):
 def extract_year(filename):
     match = re.search(r"\d{4}", filename)
     return int(match.group()) if match else None
+    
+def infer_difficulty(marks):
+    if marks <= 2: return "Easy"
+    elif marks <= 5: return "Medium"
+    else: return "Hard"
 
 def parse_all_pdfs(folder_path="assets/exam_papers", output_json="data/questions.json"):
     all_questions = []
