@@ -3,6 +3,7 @@ import fitz  # PyMuPDF
 import json
 import os
 import re
+from difflib import SequenceMatcher
 
 def extract_questions_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
@@ -18,17 +19,24 @@ def extract_questions_from_pdf(pdf_path):
 
         # Remove continuation headers
         text = re.sub(r"continued\s+overleaf", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"continues\s+overleaf", "", text, flags=re.IGNORECASE)
         text = re.sub(r"Question\s+\d+\s+continued\s+overleaf", "", text, flags=re.IGNORECASE)
         text = re.sub(r"Question\s+\d+\s+continued", "", text, flags=re.IGNORECASE)
 
         # Remove total marks
         text = re.sub(r"\(Total\s+\d+\s+Marks\)", "", text, flags=re.IGNORECASE)
 
-        full_text += f"\nPAGE_BREAK_{page_num}\n{text}"
+        full_text += f"\n{text}\n"
 
     # Remove page markers and stray page numbers
-    full_text = re.sub(r"PAGE_BREAK_\d+", "", full_text)
+    full_text = re.sub(r"PAGE_BREAK_\d+", " ", full_text)
     full_text = re.sub(r"\n\s*\d+\s*\n", "\n", full_text)
+    full_text = re.sub(r"\n+", "\n", full_text)
+    
+    # Remove everything starting from "Laws of Logic" to the end of the document
+    full_text = re.sub(r"Laws of Logic.*", "", full_text, flags= re.DOTALL)
+    full_text = re.sub(r"Laws of Algebra sets.*", "", full_text, flags= re.DOTALL)
+    full_text = re.sub(r"PLEASE ASK FOR THE NEW MATHEMATICS TABLES.*", "", full_text, flags= re.DOTALL)
 
     # Split by Question number
     question_blocks = re.split(r"Question\s+(\d+)", full_text)
@@ -39,28 +47,63 @@ def extract_questions_from_pdf(pdf_path):
         q_text = question_blocks[i + 1]
 
         parts = re.findall(
-            r"\(([a-h])\)(.*?)(?=\(([a-h])\)|$)",
+            r"^\s*\(([a-h])\)\s*(.*?)(?=^\s*\([a-h]\)|\Z)",
             q_text,
-            flags=re.IGNORECASE | re.DOTALL
+            flags = re.MULTILINE | re.DOTALL
         )
 
-        for part_letter, part_text, marks in parts:
+        for part_letter, part_text in parts:
 
-            m = re.search(r"\((\d+)\s*marks?\)\s*$", part_text, flags=re.IGNORECASE | re.DOTALL)
-            marks = int(m.group(1)) if m else None
-            if m:
-                part_text = part_text[:m.start()].strip()
+            marks_matches = re.findall(r"(\d+(?:\.\d+)?)\s*marks?\)", part_text, flags=re.IGNORECASE)
+            marks = sum(float(m) for m in marks_matches) if marks_matches else None
 
-            questions.append({
-                "question_number": q_number,
-                "part": part_letter.lower(),
-                "text": part_text.strip(),
-                "marks": marks,
-                "source_pdf": os.path.basename(pdf_path),
-                "year": year,
-                "topic": infer_topic(part_text),
-                "difficulty": infer_difficulty(marks)
-            })
+            text = part_text.strip()
+
+            if(len(text) != 0):
+                questions.append({
+                    "question_number": q_number,
+                    "part": part_letter.lower(),
+                    "text": text,
+                    "marks": marks,
+                    "source_pdf": os.path.basename(pdf_path),
+                    "year": year,
+                    "topic": infer_topic(part_text),
+                    "difficulty": infer_difficulty(marks)
+                })
+
+    return questions
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
+
+def assign_bounds_to_questions(pdf_path, questions):
+    doc = fitz.open(pdf_path)
+
+    for page_num, page in enumerate(doc):
+
+        page_width = page.rect.width
+
+        blocks = page.get_text("blocks")  
+        blocks = sorted(blocks, key=lambda b: b[1])  
+
+        for q in questions:
+            if "bbox" in q:
+                continue
+
+            q_text_clean = " ".join(q["text"][:50].split())  
+            matched_blocks = []
+
+            for block in blocks:
+                _, y0, _, y1, text, _, _ = block
+                text_clean = " ".join(text.split())
+
+                if q_text_clean.startswith(text_clean) or text_clean in q_text_clean:
+                    matched_blocks.append((y0, y1))
+
+            if matched_blocks:
+                y0s, y1s = zip(*matched_blocks)
+                q["bbox"] = (0, min(y0s), page_width, max(y1s))
+                q["page_number"] = page_num
 
     return questions
 
@@ -111,7 +154,10 @@ def parse_all_pdfs(folder_path="assets/exam_papers", output_json="data/questions
     for file in os.listdir(folder_path):
         if file.lower().endswith(".pdf") and not file.upper().endswith("MS.PDF"):
             pdf_path = os.path.join(folder_path, file)
-            all_questions.extend(extract_questions_from_pdf(pdf_path))
+            #all_questions.extend(extract_questions_from_pdf(pdf_path))
+            questions = extract_questions_from_pdf(pdf_path)
+            questions_with_bounds = assign_bounds_to_questions(pdf_path, questions)
+            all_questions.extend(questions_with_bounds)
 
     os.makedirs(os.path.dirname(output_json), exist_ok=True)
 

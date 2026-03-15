@@ -1,7 +1,10 @@
 # app.py
 import streamlit as st
+import fitz 
 import pandas as pd
 import json
+from PIL import Image
+import math
 
 # Load parsed questions
 with open("data/questions.json", "r", encoding="utf-8") as f:
@@ -48,3 +51,29 @@ for _, row in filtered.iterrows():
     with st.expander(f"Q{row['question_number']} ({row['part']}) ({row['marks'] if row['marks'] else '?'} marks) - {row['source_pdf']}"):
         st.write(row["text"])
         st.caption(f"Topic: {row['topic']}, Difficulty: {row['difficulty']}")
+
+def render_question_image(pdf_path, question, zoom=2):
+    if "page_number" not in question or "bbox" not in question:
+        return None
+    if question["page_number"] is None or math.isnan(question["page_number"]):
+        return None
+
+    doc = fitz.open(pdf_path)
+    page = doc[int(question["page_number"])]
+    x0, y0, x1, y1 = question["bbox"]
+    mat = fitz.Matrix(zoom, zoom)
+    rect = fitz.Rect(x0, y0, x1, y1)
+    pix = page.get_pixmap(matrix=mat, clip=rect)
+    img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+    return img
+
+
+#for q in filtered.to_dict(orient="records"):
+#    pdf_path = f"assets/exam_papers/{q['source_pdf']}"
+#    if "bbox" in q:
+#        img = render_question_image(pdf_path, q)
+#        if img is not None:
+#            st.image(img, caption=f"Q{q['question_number']} ({q['part']}) - {q['marks']} marks")
+#    else:
+#        st.write(q["text"])
+#        st.caption(f"Topic: {q['topic']}, Difficulty: {q['difficulty']}")
